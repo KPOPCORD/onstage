@@ -1,4 +1,4 @@
-[vlive_onstage]
+[vlive]
 title = "ONSTAGE (온스테이지)"
 url = "https://www.vlive.tv/channel/E61323/board/4268?lang=ko"
 entrySelector = "li[class^='post_item']"
@@ -8,7 +8,7 @@ imageSelector = "span[class^='covered_image']"
 contentSelector = "span[class^='upload_time']"
 waitUntil = "networkidle"
 
-[navertv_onstage]
+[navertv]
 title = "ONSTAGE (온스테이지)"
 url = "https://tv.naver.com/onstage/clips"
 entrySelector = "div[class^='cds _MM_CARD']"

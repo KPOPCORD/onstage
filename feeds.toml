@@ -1,3 +1,12 @@
+[vibe]
+title = "VIBE ─ 온스테이지"
+url = "https://vibe.naver.com/onstage/season/2"
+entrySelector = "ul.list li.item"
+titleSelector = "strong.item_title"
+linkSelector = "a.link_textarea"
+contentSelector = "a p.desc"
+waitForSelector = "li.item"
+
 [vlive]
 title = "ONSTAGE (온스테이지)"
 url = "https://www.vlive.tv/channel/E61323/board/4268?lang=ko"

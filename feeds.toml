@@ -1,12 +1,3 @@
-[vibe]
-title = "VIBE ─ 온스테이지"
-url = "https://vibe.naver.com/onstage/season/2"
-entrySelector = "ul.list li.item"
-titleSelector = "strong.item_title"
-linkSelector = "a.link_textarea"
-contentSelector = "a p.desc"
-waitForSelector = "li.item"
-
 [vibe_recent]
 title = "VIBE ─ 온스테이지"
 url = "https://vibe.naver.com/onstage/season/2"
@@ -15,6 +6,15 @@ titleSelector = "div.main_text.custom_font.scrollmagic.animated a.title"
 linkSelector = "div.button_area a.link_detail.scrollmagic.animated"
 contentSelector = "div.main_text.custom_font.scrollmagic.animated p.desc"
 waitForSelector = "div.video_info"
+
+[vibe]
+title = "VIBE ─ 온스테이지"
+url = "https://vibe.naver.com/onstage/season/2"
+entrySelector = "ul.list li.item"
+titleSelector = "strong.item_title"
+linkSelector = "a.link_textarea"
+contentSelector = "a p.desc"
+waitForSelector = "li.item"
 
 [vlive]
 title = "ONSTAGE (온스테이지)"

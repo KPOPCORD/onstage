@@ -5,7 +5,7 @@ entrySelector = "div.section_intro div.video_info"
 titleSelector = "a.title"
 linkSelector = "a.link_detail.scrollmagic.animated"
 contentSelector = "p.desc"
-waitForSelector = "div.video_info"
+waitForSelector = "div.section_intro"
 onFail = "stale"
 
 [vibe]

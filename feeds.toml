@@ -2,9 +2,9 @@
 title = "VIBE ─ 온스테이지"
 url = "https://vibe.naver.com/onstage/season/2"
 entrySelector = "div.section_intro div.video_info"
-titleSelector = "div.main_text.custom_font.scrollmagic.animated a.title"
-linkSelector = "div.button_area a.link_detail.scrollmagic.animated"
-contentSelector = "div.main_text.custom_font.scrollmagic.animated p.desc"
+titleSelector = "a.title"
+linkSelector = "a.link_detail.scrollmagic.animated"
+contentSelector = "p.desc"
 waitForSelector = "div.video_info"
 onFail = "stale"
 

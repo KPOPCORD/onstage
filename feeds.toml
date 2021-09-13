@@ -27,6 +27,7 @@ linkSelector = "a[class^='post_area']"
 imageSelector = "span[class^='covered_image']"
 contentSelector = "span[class^='upload_time']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [navertv]
 title = "ONSTAGE (온스테이지)"

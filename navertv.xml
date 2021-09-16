@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 00:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 02:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서수진_Equality(Feat. Chordless Quartet)]]></title>
+            <link>https://tv.naver.com/v/22452174</link>
+            <guid>https://tv.naver.com/v/22452174</guid>
+            <pubDate>Thu, 16 Sep 2021 02:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_270/cg6F0_1631620597760fcgtE_JPEG/61cdeecc-1547-11ec-af84-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서수진_여름(Feat. 밤 새 Baum Sae)]]></title>
+            <link>https://tv.naver.com/v/22452158</link>
+            <guid>https://tv.naver.com/v/22452158</guid>
+            <pubDate>Thu, 16 Sep 2021 02:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_41/KmBVh_1631620565014X4SNG_JPEG/338d1cdd-1547-11ec-a77c-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서수진_Uncertainty(Feat. Coloris Trio)]]></title>
+            <link>https://tv.naver.com/v/22452152</link>
+            <guid>https://tv.naver.com/v/22452152</guid>
+            <pubDate>Thu, 16 Sep 2021 02:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[4:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_269/dIL2G_1631620550565B62W5_JPEG/3cfd0f88-152a-11ec-9d74-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CR태규_Hold Your Mental Line Tight]]></title>
             <link>https://tv.naver.com/v/22341125</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 10 Sep 2021 03:20:58 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210714_11/uY5T0_1626230898290UunQy_JPEG/9c5c47e9-e44d-11eb-80ed-48df379cca40_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Intersection_만개(Full Bloom)]]></title>
-            <link>https://tv.naver.com/v/21189351</link>
-            <guid>https://tv.naver.com/v/21189351</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210707_280/WcqA4_16256479837747XIFX_JPEG/8dba4187-df00-11eb-b66c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Intersection_터널(Tunnel)]]></title>
-            <link>https://tv.naver.com/v/21189312</link>
-            <guid>https://tv.naver.com/v/21189312</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210707_217/7u0l5_1625647887968cgg3a_JPEG/54ad4ed8-df00-11eb-a938-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Intersection_만월(Full Moon)]]></title>
-            <link>https://tv.naver.com/v/21189262</link>
-            <guid>https://tv.naver.com/v/21189262</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210707_174/5vF6N_1625647765146iA51b_JPEG/b7053325-deff-11eb-bde8-48df379cc9e4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

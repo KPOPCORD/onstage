@@ -4,9 +4,17 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 02:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 03:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서수진_Equality(Feat. Chordless Quartet)]]></title>
+            <link>https://www.vlive.tv/post/1-25447019</link>
+            <guid>https://www.vlive.tv/post/1-25447019</guid>
+            <pubDate>Thu, 16 Sep 2021 03:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210916_233/1631762015607dH06v_JPEG/8d9a5929-169a-11ec-809b-a0369ff94ed0_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CR태규_청청청]]></title>
             <link>https://www.vlive.tv/post/1-25265184</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25265175</guid>
             <pubDate>Fri, 10 Sep 2021 03:20:49 GMT</pubDate>
             <content:encoded><![CDATA[9.9.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210909_124/1631154608878YPdIK_JPEG/12e72b4f-1084-11ec-86ec-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전진희_breathing in june, breathing in october]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[사뮈(SAMUI)_본]]></title>
             <link>https://www.vlive.tv/post/1-24251967</link>
             <guid>https://www.vlive.tv/post/1-24251967</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[7.22.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사뮈(SAMUI)_두통 없는 삶]]></title>
-            <link>https://www.vlive.tv/post/0-24246909</link>
-            <guid>https://www.vlive.tv/post/0-24246909</guid>
             <pubDate>Fri, 10 Sep 2021 03:20:49 GMT</pubDate>
             <content:encoded><![CDATA[7.22.]]></content:encoded>
         </item>

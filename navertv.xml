@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 00:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 01:59:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만동_귀여움의 강도]]></title>
+            <link>https://tv.naver.com/v/22581284</link>
+            <guid>https://tv.naver.com/v/22581284</guid>
+            <pubDate>Fri, 24 Sep 2021 01:59:29 GMT</pubDate>
+            <content:encoded><![CDATA[6:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210923_196/eldyH_1632391020721ucP7T_JPEG/c3bf7388-1c53-11ec-b835-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만동_두 번 일시켜서 미안해]]></title>
+            <link>https://tv.naver.com/v/22581171</link>
+            <guid>https://tv.naver.com/v/22581171</guid>
+            <pubDate>Fri, 24 Sep 2021 01:59:29 GMT</pubDate>
+            <content:encoded><![CDATA[5:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210923_7/kzFjb_1632390650953sbwsz_JPEG/c011f13a-1c52-11ec-8678-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만동_홍시색 노을 위로]]></title>
+            <link>https://tv.naver.com/v/22581018</link>
+            <guid>https://tv.naver.com/v/22581018</guid>
+            <pubDate>Fri, 24 Sep 2021 01:59:29 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210923_243/779fT_16323902129700GMTY_JPEG/f51bef5c-1c51-11ec-80a9-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서수진_Equality(Feat. Chordless Quartet)]]></title>
             <link>https://tv.naver.com/v/22452174</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 10 Sep 2021 03:20:58 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210721_152/UDSPy_1626830078714BUaas_JPEG/4115eab9-e9c0-11eb-8c9e-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소음발광_오렌지문]]></title>
-            <link>https://tv.naver.com/v/21312800</link>
-            <guid>https://tv.naver.com/v/21312800</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210714_252/GXzjH_1626231844867vSpkE_JPEG/13cfb22f-e44f-11eb-8dd2-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소음발광_물결]]></title>
-            <link>https://tv.naver.com/v/21312630</link>
-            <guid>https://tv.naver.com/v/21312630</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[5:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210714_161/0aDRZ_1626231358154A1Q1T_JPEG/8cb4c033-e44e-11eb-90bb-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소음발광_낙하]]></title>
-            <link>https://tv.naver.com/v/21312422</link>
-            <guid>https://tv.naver.com/v/21312422</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210714_11/uY5T0_1626230898290UunQy_JPEG/9c5c47e9-e44d-11eb-80ed-48df379cca40_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

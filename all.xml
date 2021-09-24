@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 04:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 05:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Fri, 24 Sep 2021 00:46:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[무한의 자유. 서수진 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12421</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12421</guid>
+            <pubDate>Fri, 24 Sep 2021 05:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[익숙한 음악어법에 끊임없이 균열을 내는 창작자 서수진을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[씨알이 먹힐 때까지 블루스, CR태규 (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +98,28 @@
             <content:encoded><![CDATA[사막부터 제주도의 햇볕까지 모두 전력화하는 밴드, 오마르와 동방전력을 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[느닷없이 뜨거운 여행, 모스크바서핑클럽 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12201</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12201</guid>
-            <pubDate>Fri, 10 Sep 2021 16:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[무질서 속 긴장과 이완을 오가며 발열하는 인디록밴드, 모스크바서핑클럽을 소개합니다.]]></content:encoded>
+            <title><![CDATA[만동_귀여움의 강도 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-25593420</link>
+            <guid>https://www.vlive.tv/post/0-25593420</guid>
+            <pubDate>Fri, 24 Sep 2021 05:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210924_50/163245956735447ijL_JPEG/c3bf7388-1c53-11ec-b835-505dac8c3607_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만동_두 번 일시켜서 미안해 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-25593402</link>
+            <guid>https://www.vlive.tv/post/0-25593402</guid>
+            <pubDate>Fri, 24 Sep 2021 05:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210924_163/1632459513078qe6W6_JPEG/c011f13a-1c52-11ec-8678-48df379cca40_09.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만동_홍시색 노을 위로 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-25600181</link>
+            <guid>https://www.vlive.tv/post/1-25600181</guid>
+            <pubDate>Fri, 24 Sep 2021 05:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[18분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210924_16/1632459240377C3zex_JPEG/f51bef5c-1c51-11ec-80a9-a0369ff95678_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서수진_Uncertainty (Feat. Coloris Trio) (ONSTAGE (온스테이지))]]></title>
@@ -103,7 +127,6 @@
             <guid>https://www.vlive.tv/post/1-25447390</guid>
             <pubDate>Thu, 16 Sep 2021 04:17:40 GMT</pubDate>
             <content:encoded><![CDATA[9.16.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210916_36/1631764308307rhV2L_JPEG/7368029a-169f-11ec-82ff-505dac8c385b_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서수진_Equality(Feat. Chordless Quartet) (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +134,6 @@
             <guid>https://www.vlive.tv/post/1-25447019</guid>
             <pubDate>Thu, 16 Sep 2021 03:15:10 GMT</pubDate>
             <content:encoded><![CDATA[9.16.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210916_233/1631762015607dH06v_JPEG/8d9a5929-169a-11ec-809b-a0369ff94ed0_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CR태규_청청청 (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +141,6 @@
             <guid>https://www.vlive.tv/post/1-25265184</guid>
             <pubDate>Fri, 10 Sep 2021 03:18:21 GMT</pubDate>
             <content:encoded><![CDATA[9.9.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210909_43/1631154622127C0Mct_JPEG/5f2a2dfa-1084-11ec-b6bf-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CR태규_Hold Your Mental Line Tight (ONSTAGE (온스테이지))]]></title>
@@ -218,27 +239,6 @@
             <guid>https://www.vlive.tv/post/0-24544692</guid>
             <pubDate>Fri, 10 Sep 2021 03:18:21 GMT</pubDate>
             <content:encoded><![CDATA[8.5.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HEESU_For The Better (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-24388729</link>
-            <guid>https://www.vlive.tv/post/1-24388729</guid>
-            <pubDate>Fri, 10 Sep 2021 03:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[7.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HEESU_Tik Tok (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-24384336</link>
-            <guid>https://www.vlive.tv/post/0-24384336</guid>
-            <pubDate>Fri, 10 Sep 2021 03:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[7.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HEESU_Honey Eyes (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-24384330</link>
-            <guid>https://www.vlive.tv/post/0-24384330</guid>
-            <pubDate>Fri, 10 Sep 2021 03:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[7.29.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[만동_귀여움의 강도 (ONSTAGE (온스테이지))]]></title>

@@ -4,16 +4,39 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 04:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 05:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만동_귀여움의 강도]]></title>
+            <link>https://www.vlive.tv/post/0-25593420</link>
+            <guid>https://www.vlive.tv/post/0-25593420</guid>
+            <pubDate>Fri, 24 Sep 2021 05:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210924_50/163245956735447ijL_JPEG/c3bf7388-1c53-11ec-b835-505dac8c3607_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만동_두 번 일시켜서 미안해]]></title>
+            <link>https://www.vlive.tv/post/0-25593402</link>
+            <guid>https://www.vlive.tv/post/0-25593402</guid>
+            <pubDate>Fri, 24 Sep 2021 05:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210924_163/1632459513078qe6W6_JPEG/c011f13a-1c52-11ec-8678-48df379cca40_09.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만동_홍시색 노을 위로]]></title>
+            <link>https://www.vlive.tv/post/1-25600181</link>
+            <guid>https://www.vlive.tv/post/1-25600181</guid>
+            <pubDate>Fri, 24 Sep 2021 05:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[18분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210924_16/1632459240377C3zex_JPEG/f51bef5c-1c51-11ec-80a9-a0369ff95678_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서수진_Uncertainty (Feat. Coloris Trio)]]></title>
             <link>https://www.vlive.tv/post/1-25447390</link>
             <guid>https://www.vlive.tv/post/1-25447390</guid>
             <pubDate>Thu, 16 Sep 2021 04:17:40 GMT</pubDate>
             <content:encoded><![CDATA[9.16.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210916_36/1631764308307rhV2L_JPEG/7368029a-169f-11ec-82ff-505dac8c385b_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서수진_Equality(Feat. Chordless Quartet)]]></title>
@@ -21,7 +44,6 @@
             <guid>https://www.vlive.tv/post/1-25447019</guid>
             <pubDate>Thu, 16 Sep 2021 03:15:10 GMT</pubDate>
             <content:encoded><![CDATA[9.16.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210916_233/1631762015607dH06v_JPEG/8d9a5929-169a-11ec-809b-a0369ff94ed0_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CR태규_청청청]]></title>
@@ -29,7 +51,6 @@
             <guid>https://www.vlive.tv/post/1-25265184</guid>
             <pubDate>Fri, 10 Sep 2021 03:20:49 GMT</pubDate>
             <content:encoded><![CDATA[9.9.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210909_43/1631154622127C0Mct_JPEG/5f2a2dfa-1084-11ec-b6bf-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CR태규_Hold Your Mental Line Tight]]></title>
@@ -128,27 +149,6 @@
             <guid>https://www.vlive.tv/post/0-24544692</guid>
             <pubDate>Fri, 10 Sep 2021 03:20:49 GMT</pubDate>
             <content:encoded><![CDATA[8.5.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HEESU_For The Better]]></title>
-            <link>https://www.vlive.tv/post/1-24388729</link>
-            <guid>https://www.vlive.tv/post/1-24388729</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[7.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HEESU_Tik Tok]]></title>
-            <link>https://www.vlive.tv/post/0-24384336</link>
-            <guid>https://www.vlive.tv/post/0-24384336</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[7.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HEESU_Honey Eyes]]></title>
-            <link>https://www.vlive.tv/post/0-24384330</link>
-            <guid>https://www.vlive.tv/post/0-24384330</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[7.29.]]></content:encoded>
         </item>
     </channel>
 </rss>

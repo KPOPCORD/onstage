@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 21:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 22:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <title><![CDATA[빈틈으로 꽉 찬 움직임, 만동 (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Fri, 24 Sep 2021 20:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[문법보다는 내용으로 선명함을 드러내는 밴드, 만동을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무한의 자유. 서수진 (VIBE ─ 온스테이지)]]></title>

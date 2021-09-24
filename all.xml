@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 05:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 06:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Fri, 24 Sep 2021 00:46:06 GMT</pubDate>
+            <title><![CDATA[빈틈으로 꽉 찬 움직임, 만동 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12441</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12441</guid>
+            <pubDate>Fri, 24 Sep 2021 06:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[문법보다는 내용으로 선명함을 드러내는 밴드, 만동을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무한의 자유. 서수진 (VIBE ─ 온스테이지)]]></title>
@@ -102,7 +103,7 @@
             <link>https://www.vlive.tv/post/0-25593420</link>
             <guid>https://www.vlive.tv/post/0-25593420</guid>
             <pubDate>Fri, 24 Sep 2021 05:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210924_50/163245956735447ijL_JPEG/c3bf7388-1c53-11ec-b835-505dac8c3607_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,7 +111,7 @@
             <link>https://www.vlive.tv/post/0-25593402</link>
             <guid>https://www.vlive.tv/post/0-25593402</guid>
             <pubDate>Fri, 24 Sep 2021 05:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210924_163/1632459513078qe6W6_JPEG/c011f13a-1c52-11ec-8678-48df379cca40_09.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,7 +119,7 @@
             <link>https://www.vlive.tv/post/1-25600181</link>
             <guid>https://www.vlive.tv/post/1-25600181</guid>
             <pubDate>Fri, 24 Sep 2021 05:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[18분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210924_16/1632459240377C3zex_JPEG/f51bef5c-1c51-11ec-80a9-a0369ff95678_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>

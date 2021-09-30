@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 00:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 02:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THAMA_Blessed]]></title>
+            <link>https://tv.naver.com/v/22677980</link>
+            <guid>https://tv.naver.com/v/22677980</guid>
+            <pubDate>Thu, 30 Sep 2021 02:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_66/ijOpH_1632888526927CgPGa_JPEG/aae2c43d-20da-11ec-9845-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THAMA_순간들]]></title>
+            <link>https://tv.naver.com/v/22677931</link>
+            <guid>https://tv.naver.com/v/22677931</guid>
+            <pubDate>Thu, 30 Sep 2021 02:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_145/rLEGX_1632888393563yCh5y_JPEG/67c3b12c-20da-11ec-a613-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THAMA_Chill이란 낱말의 존재이유]]></title>
+            <link>https://tv.naver.com/v/22677892</link>
+            <guid>https://tv.naver.com/v/22677892</guid>
+            <pubDate>Thu, 30 Sep 2021 02:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_4/GrIbq_16328882838209IAfE_JPEG/f6838900-20d9-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만동_귀여움의 강도]]></title>
             <link>https://tv.naver.com/v/22581284</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 10 Sep 2021 03:20:58 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210728_241/bl7tx_1627436079585Mbj81_JPEG/a4ba6c49-ef43-11eb-8c45-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사뮈(SAMUI)_춘몽]]></title>
-            <link>https://tv.naver.com/v/21448290</link>
-            <guid>https://tv.naver.com/v/21448290</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210721_84/UvsCt_1626830444663n5cej_JPEG/73d968e6-e9c1-11eb-8a80-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사뮈(SAMUI)_본]]></title>
-            <link>https://tv.naver.com/v/21448212</link>
-            <guid>https://tv.naver.com/v/21448212</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210721_12/kR1aG_1626830256620erbrA_JPEG/1243b85d-e9c1-11eb-90ce-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사뮈(SAMUI)_두통 없는 삶]]></title>
-            <link>https://tv.naver.com/v/21448139</link>
-            <guid>https://tv.naver.com/v/21448139</guid>
-            <pubDate>Fri, 10 Sep 2021 03:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210721_152/UDSPy_1626830078714BUaas_JPEG/4115eab9-e9c0-11eb-8c9e-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

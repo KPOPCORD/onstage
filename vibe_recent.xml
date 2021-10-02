@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2021-10-02T03:15:22.777Z</updated>
+    <updated>2021-10-02T04:18:29.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
+        <title type="html"><![CDATA[모던 스트리트 소울, THAMA]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
         <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
         <updated>2021-10-02T00:45:28.382Z</updated>
+        <content type="html"><![CDATA[거리의 기운과 그루브를 표현하는 싱어송라이터, THAMA를 소개합니다.]]></content>
     </entry>
 </feed>

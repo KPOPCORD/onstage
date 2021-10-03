@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 21:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 22:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Sun, 03 Oct 2021 13:18:10 GMT</pubDate>
+            <title><![CDATA[모던 스트리트 소울, THAMA (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12461</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12461</guid>
+            <pubDate>Sun, 03 Oct 2021 22:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[거리의 기운과 그루브를 표현하는 싱어송라이터, THAMA를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빈틈으로 꽉 찬 움직임, 만동 (VIBE ─ 온스테이지)]]></title>

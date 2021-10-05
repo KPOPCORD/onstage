@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/E61323/board/4268?lang=ko</id>
-    <title>ONSTAGE (온스테이지)</title>
-    <updated>2021-10-05T21:13:47.585Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ONSTAGE (온스테이지)</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 05 Oct 2021 22:14:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THAMA_Blessed]]></title>
+            <link>https://www.vlive.tv/post/0-25699827</link>
+            <guid>https://www.vlive.tv/post/0-25699827</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.30.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210930_226/16329701144354m7QA_JPEG/aae2c43d-20da-11ec-9845-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THAMA_Chill이란 낱말의 존재이유]]></title>
+            <link>https://www.vlive.tv/post/1-25706827</link>
+            <guid>https://www.vlive.tv/post/1-25706827</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.30.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210930_204/1632969971712gKdwa_JPEG/f6838900-20d9-11ec-89ce-48df379ccacc_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THAMA_순간들]]></title>
+            <link>https://www.vlive.tv/post/1-25706832</link>
+            <guid>https://www.vlive.tv/post/1-25706832</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.30.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210930_286/1632970001936zGenw_JPEG/67c3b12c-20da-11ec-a613-505dac8c38f5_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만동_귀여움의 강도]]></title>
+            <link>https://www.vlive.tv/post/0-25593420</link>
+            <guid>https://www.vlive.tv/post/0-25593420</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.24.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[만동_두 번 일시켜서 미안해]]></title>
+            <link>https://www.vlive.tv/post/0-25593402</link>
+            <guid>https://www.vlive.tv/post/0-25593402</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.24.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[만동_홍시색 노을 위로]]></title>
+            <link>https://www.vlive.tv/post/1-25600181</link>
+            <guid>https://www.vlive.tv/post/1-25600181</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.24.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서수진_Uncertainty (Feat. Coloris Trio)]]></title>
+            <link>https://www.vlive.tv/post/1-25447390</link>
+            <guid>https://www.vlive.tv/post/1-25447390</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서수진_Equality(Feat. Chordless Quartet)]]></title>
+            <link>https://www.vlive.tv/post/1-25447019</link>
+            <guid>https://www.vlive.tv/post/1-25447019</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CR태규_청청청]]></title>
+            <link>https://www.vlive.tv/post/1-25265184</link>
+            <guid>https://www.vlive.tv/post/1-25265184</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CR태규_Hold Your Mental Line Tight]]></title>
+            <link>https://www.vlive.tv/post/1-25265197</link>
+            <guid>https://www.vlive.tv/post/1-25265197</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CR태규_행복회로]]></title>
+            <link>https://www.vlive.tv/post/1-25265175</link>
+            <guid>https://www.vlive.tv/post/1-25265175</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전진희_breathing in june, breathing in october]]></title>
+            <link>https://www.vlive.tv/post/0-25139681</link>
+            <guid>https://www.vlive.tv/post/0-25139681</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.2.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전진희_우리의 사랑은 여름이었지]]></title>
+            <link>https://www.vlive.tv/post/0-25139685</link>
+            <guid>https://www.vlive.tv/post/0-25139685</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.2.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전진희_여름밤에 우리 (feat. wave to earth)]]></title>
+            <link>https://www.vlive.tv/post/0-25139675</link>
+            <guid>https://www.vlive.tv/post/0-25139675</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[9.2.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신지훈_목련 필 무렵]]></title>
+            <link>https://www.vlive.tv/post/0-24979734</link>
+            <guid>https://www.vlive.tv/post/0-24979734</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[8.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신지훈_꽃무늬 벽지]]></title>
+            <link>https://www.vlive.tv/post/0-24979724</link>
+            <guid>https://www.vlive.tv/post/0-24979724</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[8.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신지훈_시가 될 이야기]]></title>
+            <link>https://www.vlive.tv/post/1-24983679</link>
+            <guid>https://www.vlive.tv/post/1-24983679</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[8.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임주연_내 꿈]]></title>
+            <link>https://www.vlive.tv/post/1-24719997</link>
+            <guid>https://www.vlive.tv/post/1-24719997</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[8.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임주연_머릿속을]]></title>
+            <link>https://www.vlive.tv/post/0-24716148</link>
+            <guid>https://www.vlive.tv/post/0-24716148</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[8.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임주연_Mother]]></title>
+            <link>https://www.vlive.tv/post/0-24716134</link>
+            <guid>https://www.vlive.tv/post/0-24716134</guid>
+            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[8.12.]]></content:encoded>
+        </item>
+    </channel>
+</rss>

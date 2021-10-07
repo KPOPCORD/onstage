@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 02:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 03:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Thu, 07 Oct 2021 00:50:10 GMT</pubDate>
+            <content:encoded><![CDATA[수식 없이도 홀로 오롯이 전달될 음성, 싱어송라이터 박지우를 소개합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모던 스트리트 소울, THAMA (VIBE ─ 온스테이지)]]></title>
@@ -98,12 +99,35 @@
             <content:encoded><![CDATA[‘하고 싶은 것을 하는 것’이 펑크라고 정의하는 4인조 록밴드, 소음발광을 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[박지우_Already know (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-25824754</link>
+            <guid>https://www.vlive.tv/post/1-25824754</guid>
+            <pubDate>Thu, 07 Oct 2021 03:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211007_69/1633573847703pxLqc_JPEG/74ca6f27-2677-11ec-9845-505dacfbaa5c_08.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박지우_Whisper (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-25816886</link>
+            <guid>https://www.vlive.tv/post/0-25816886</guid>
+            <pubDate>Thu, 07 Oct 2021 03:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211007_136/1633573824196TnQBU_JPEG/b0d95729-2677-11ec-8111-505dac8c381b_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박지우_Happiness or Sadness (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-25816883</link>
+            <guid>https://www.vlive.tv/post/0-25816883</guid>
+            <pubDate>Thu, 07 Oct 2021 03:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211007_84/1633573796024C9qHY_JPEG/d87f2e66-2677-11ec-a8ac-505dac8c35ff_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[THAMA_Blessed (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-25699827</link>
             <guid>https://www.vlive.tv/post/0-25699827</guid>
             <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
             <content:encoded><![CDATA[9.30.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210930_226/16329701144354m7QA_JPEG/aae2c43d-20da-11ec-9845-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THAMA_Chill이란 낱말의 존재이유 (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +135,6 @@
             <guid>https://www.vlive.tv/post/1-25706827</guid>
             <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
             <content:encoded><![CDATA[9.30.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210930_204/1632969971712gKdwa_JPEG/f6838900-20d9-11ec-89ce-48df379ccacc_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THAMA_순간들 (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +142,6 @@
             <guid>https://www.vlive.tv/post/1-25706832</guid>
             <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
             <content:encoded><![CDATA[9.30.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210930_286/1632970001936zGenw_JPEG/67c3b12c-20da-11ec-a613-505dac8c38f5_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[만동_귀여움의 강도 (ONSTAGE (온스테이지))]]></title>
@@ -218,27 +240,6 @@
             <guid>https://www.vlive.tv/post/1-24983679</guid>
             <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
             <content:encoded><![CDATA[8.26.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임주연_내 꿈 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-24719997</link>
-            <guid>https://www.vlive.tv/post/1-24719997</guid>
-            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[8.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임주연_머릿속을 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-24716148</link>
-            <guid>https://www.vlive.tv/post/0-24716148</guid>
-            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[8.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임주연_Mother (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-24716134</link>
-            <guid>https://www.vlive.tv/post/0-24716134</guid>
-            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[8.12.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박지우_Happiness or Sadness (ONSTAGE (온스테이지))]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2021-10-14T00:44:54.637Z</updated>
+    <updated>2021-10-14T02:00:56.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[목소리만으로 충만한 노래, 박지우]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12481</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12481"/>
+        <updated>2021-10-14T02:00:37.952Z</updated>
+        <content type="html"><![CDATA[수식 없이도 홀로 오롯이 전달될 음성, 싱어송라이터 박지우를 소개합니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모던 스트리트 소울, THAMA]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/12461</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/12281"/>
         <updated>2021-09-10T16:09:38.761Z</updated>
         <content type="html"><![CDATA[편두통 같은 일상의 우울을 어루만지는 싱어송라이터, 사뮈를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충돌하고 마찰하는 소리의 도적단, 소음발광]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12261</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12261"/>
-        <updated>2021-09-10T16:09:38.764Z</updated>
-        <content type="html"><![CDATA[‘하고 싶은 것을 하는 것’이 펑크라고 정의하는 4인조 록밴드, 소음발광을 소개합니다.]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 02:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 03:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,12 +98,35 @@
             <content:encoded><![CDATA[불가피한 본능적 전위성을 가진 네오 솔 싱어송라이터 HEESU를 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Jihye Lee Orchestra_Struggle Gives You Strength (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-26092109</link>
+            <guid>https://www.vlive.tv/post/1-26092109</guid>
+            <pubDate>Thu, 21 Oct 2021 03:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211021_67/1634782397589Uehh5_JPEG/9aca5d2b-3154-11ec-ba2c-505dac8c385b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jihye Lee Orchestra_새타령 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-26085637</link>
+            <guid>https://www.vlive.tv/post/0-26085637</guid>
+            <pubDate>Thu, 21 Oct 2021 03:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211021_286/1634782377695TbVVA_JPEG/08b4f245-3155-11ec-9524-505dacfbaa5c_04.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jihye Lee Orchestra_Deep Blue Sea (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-26092101</link>
+            <guid>https://www.vlive.tv/post/1-26092101</guid>
+            <pubDate>Thu, 21 Oct 2021 03:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211021_208/1634782349408QUCJO_JPEG/9e386626-3155-11ec-a979-48df37ae3dc4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[cott_하필(HOW YOU FEEL?) (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/1-25982816</link>
             <guid>https://www.vlive.tv/post/1-25982816</guid>
             <pubDate>Thu, 14 Oct 2021 03:15:04 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211014_72/1634181188046JOo6A_JPEG/a0d0976c-2be6-11ec-8918-a0369ff968b0_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[cott_SCENE (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +134,6 @@
             <guid>https://www.vlive.tv/post/0-25975449</guid>
             <pubDate>Thu, 14 Oct 2021 03:15:04 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211014_241/1634181158100Lhryz_JPEG/d5d1791b-2be6-11ec-a2d9-246e963a4708_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[cott_far (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +141,6 @@
             <guid>https://www.vlive.tv/post/1-25982804</guid>
             <pubDate>Thu, 14 Oct 2021 03:15:04 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211014_272/1634181128632I24fk_JPEG/1765cd15-2be7-11ec-b8d4-246e963a464c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박지우_Already know (ONSTAGE (온스테이지))]]></title>
@@ -216,27 +237,6 @@
             <title><![CDATA[CR태규_행복회로 (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/1-25265175</link>
             <guid>https://www.vlive.tv/post/1-25265175</guid>
-            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전진희_breathing in june, breathing in october (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-25139681</link>
-            <guid>https://www.vlive.tv/post/0-25139681</guid>
-            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전진희_우리의 사랑은 여름이었지 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-25139685</link>
-            <guid>https://www.vlive.tv/post/0-25139685</guid>
-            <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전진희_여름밤에 우리 (feat. wave to earth) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-25139675</link>
-            <guid>https://www.vlive.tv/post/0-25139675</guid>
             <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>

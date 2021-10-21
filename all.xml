@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 00:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 02:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Wed, 20 Oct 2021 23:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[편안한 어반 힐링, cott(콧) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12501</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12501</guid>
+            <pubDate>Thu, 21 Oct 2021 02:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[감각적인 알앤비 팝을 노래하는 듀오, 콧을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[목소리만으로 충만한 노래, 박지우 (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +96,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/12301</guid>
             <pubDate>Fri, 10 Sep 2021 16:09:38 GMT</pubDate>
             <content:encoded><![CDATA[불가피한 본능적 전위성을 가진 네오 솔 싱어송라이터 HEESU를 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[허기진 마음들을 채우는 위로, 사뮈 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12281</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12281</guid>
-            <pubDate>Fri, 10 Sep 2021 16:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[편두통 같은 일상의 우울을 어루만지는 싱어송라이터, 사뮈를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[cott_하필(HOW YOU FEEL?) (ONSTAGE (온스테이지))]]></title>
@@ -239,6 +239,30 @@
             <guid>https://www.vlive.tv/post/0-25139675</guid>
             <pubDate>Tue, 05 Oct 2021 22:14:08 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jihye Lee Orchestra_Deep Blue Sea (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23062106</link>
+            <guid>https://tv.naver.com/v/23062106</guid>
+            <pubDate>Thu, 21 Oct 2021 02:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[8:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_65/fY4WX_1634700700853LTphg_JPEG/9e386626-3155-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jihye Lee Orchestra_새타령 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23062017</link>
+            <guid>https://tv.naver.com/v/23062017</guid>
+            <pubDate>Thu, 21 Oct 2021 02:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[9:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_104/WrMAt_1634700423066AJfCr_JPEG/08b4f245-3155-11ec-9524-505dacfbaa5c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jihye Lee Orchestra_Struggle Gives You Strength (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23061926</link>
+            <guid>https://tv.naver.com/v/23061926</guid>
+            <pubDate>Thu, 21 Oct 2021 02:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[6:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_161/ZDG9p_1634700165873Abbf8_JPEG/9aca5d2b-3154-11ec-ba2c-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[cott_far (ONSTAGE (온스테이지))]]></title>
@@ -455,30 +479,6 @@
             <pubDate>Fri, 10 Sep 2021 03:18:29 GMT</pubDate>
             <content:encoded><![CDATA[6:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210811_229/RChCa_1628662968112koKAt_JPEG/238fcad5-fa6c-11eb-8e61-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지] 100% 활용법 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/21787413</link>
-            <guid>https://tv.naver.com/v/21787413</guid>
-            <pubDate>Fri, 10 Sep 2021 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210810_98/XVqSt_16285799555255MJ2M_JPEG/146662eb-f9ab-11eb-b778-a0369ff963bc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BULGOGIDISCO_go(feat.도중모) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/21706797</link>
-            <guid>https://tv.naver.com/v/21706797</guid>
-            <pubDate>Fri, 10 Sep 2021 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210805_152/20yuC_1628120190515XFLEA_JPEG/a009f96d-f57c-11eb-9845-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BULGOGIDISCO_alright! (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/21706779</link>
-            <guid>https://tv.naver.com/v/21706779</guid>
-            <pubDate>Fri, 10 Sep 2021 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210805_171/jY8iH_1628120105014CtSpf_JPEG/435c8aab-f57c-11eb-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

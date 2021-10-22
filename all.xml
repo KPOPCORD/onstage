@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 17:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 18:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,6 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Fri, 22 Oct 2021 13:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[과감한 행보로 새 역사를 써가는 재즈 뮤지션, 지혜리를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[편안한 어반 힐링, cott(콧) (VIBE ─ 온스테이지)]]></title>

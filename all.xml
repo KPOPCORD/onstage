@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 00:46:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 01:56:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Wed, 27 Oct 2021 23:15:00 GMT</pubDate>
+            <title><![CDATA[재즈 오케스트라의 미래, Jihye Lee Orchestra (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12521</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12521</guid>
+            <pubDate>Thu, 28 Oct 2021 01:56:15 GMT</pubDate>
+            <content:encoded><![CDATA[과감한 행보로 새 역사를 써가는 재즈 뮤지션, 지혜리를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[편안한 어반 힐링, cott(콧) (VIBE ─ 온스테이지)]]></title>
@@ -241,6 +242,30 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[추다혜차지스(CHUDAHYE CHAGIS)_좋다잘한다좋다(Dance of 5 Guardians) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23197693</link>
+            <guid>https://tv.naver.com/v/23197693</guid>
+            <pubDate>Thu, 28 Oct 2021 01:56:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_228/c5dcD_1635313427985tcdJG_JPEG/acde60aa-36e8-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추다혜차지스(CHUDAHYE CHAGIS)_리츄얼댄스(Ritual Dance) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23197661</link>
+            <guid>https://tv.naver.com/v/23197661</guid>
+            <pubDate>Thu, 28 Oct 2021 01:56:44 GMT</pubDate>
+            <content:encoded><![CDATA[5:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_200/PVEYB_1635313330910Sc9Dv_JPEG/6687ef82-36e8-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추다혜차지스(CHUDAHYE CHAGIS)_비나수+(Binasoo+) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23197604</link>
+            <guid>https://tv.naver.com/v/23197604</guid>
+            <pubDate>Thu, 28 Oct 2021 01:56:44 GMT</pubDate>
+            <content:encoded><![CDATA[7:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_292/ujgSO_1635313205347j7vSM_JPEG/0df0f3d1-36e8-11ec-9a33-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jihye Lee Orchestra_Deep Blue Sea (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/23062106</link>
             <guid>https://tv.naver.com/v/23062106</guid>
@@ -455,30 +480,6 @@
             <pubDate>Fri, 10 Sep 2021 03:18:29 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_107/KKeaf_1629864724346x8ii7_JPEG/7adcead8-0555-11ec-809b-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임주연_내 꿈 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/21807141</link>
-            <guid>https://tv.naver.com/v/21807141</guid>
-            <pubDate>Fri, 10 Sep 2021 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210811_6/xf4RA_1628664879481AKbFL_JPEG/c098271e-fa70-11eb-8e61-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임주연_Mother (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/21806080</link>
-            <guid>https://tv.naver.com/v/21806080</guid>
-            <pubDate>Fri, 10 Sep 2021 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[5:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210811_148/7EzC1_1628663134411NHYkC_JPEG/abe0086c-fa6c-11eb-af84-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임주연_머릿속을 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/21805971</link>
-            <guid>https://tv.naver.com/v/21805971</guid>
-            <pubDate>Fri, 10 Sep 2021 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210811_229/RChCa_1628662968112koKAt_JPEG/238fcad5-fa6c-11eb-8e61-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

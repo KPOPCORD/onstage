@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 12:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 13:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Fri, 29 Oct 2021 10:15:54 GMT</pubDate>
+            <title><![CDATA[우리 시대 샤먼의 탄생, 추다혜차지스(CHUDAHYE CHAGIS) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12541</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12541</guid>
+            <pubDate>Fri, 29 Oct 2021 13:21:11 GMT</pubDate>
+            <content:encoded><![CDATA['치유 무가(巫樂)'의 신개지, '추다혜차지스'를 소개합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[재즈 오케스트라의 미래, Jihye Lee Orchestra (VIBE ─ 온스테이지)]]></title>

@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 00:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 02:00:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김세영_틈]]></title>
+            <link>https://tv.naver.com/v/23311699</link>
+            <guid>https://tv.naver.com/v/23311699</guid>
+            <pubDate>Thu, 04 Nov 2021 02:00:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_15/zqKCJ_1635905480727CELqH_JPEG/2583efc8-3c4b-11ec-a3dc-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김세영_Homework]]></title>
+            <link>https://tv.naver.com/v/23311673</link>
+            <guid>https://tv.naver.com/v/23311673</guid>
+            <pubDate>Thu, 04 Nov 2021 02:00:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_294/AWvuq_1635905388448yn7uy_JPEG/f7e18078-3c4a-11ec-9ee0-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김세영_어떤 표정]]></title>
+            <link>https://tv.naver.com/v/23311643</link>
+            <guid>https://tv.naver.com/v/23311643</guid>
+            <pubDate>Thu, 04 Nov 2021 02:00:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_28/16vt8_1635905307649gDEld_JPEG/8a5d4ef5-3c4a-11ec-ba2c-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추다혜차지스(CHUDAHYE CHAGIS)_좋다잘한다좋다(Dance of 5 Guardians)]]></title>
             <link>https://tv.naver.com/v/23197693</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
             <content:encoded><![CDATA[6:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_242/VoKY4_16304755742404qaDS_JPEG/9a16f9b7-0ae8-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신지훈_시가 될 이야기]]></title>
-            <link>https://tv.naver.com/v/22052605</link>
-            <guid>https://tv.naver.com/v/22052605</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210825_278/0dtK7_1629866373418tbbpb_JPEG/5f725b40-055d-11ec-9d74-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신지훈_꽃무늬 벽지]]></title>
-            <link>https://tv.naver.com/v/22052422</link>
-            <guid>https://tv.naver.com/v/22052422</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210825_12/toBpo_1629865893577QajCG_JPEG/bb36830c-055a-11ec-b835-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신지훈_목련 필 무렵]]></title>
-            <link>https://tv.naver.com/v/22052004</link>
-            <guid>https://tv.naver.com/v/22052004</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210825_107/KKeaf_1629864724346x8ii7_JPEG/7adcead8-0555-11ec-809b-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 05:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 06:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,6 +242,14 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[네이버 온스테이지 후원 라이브] 불고기디스코 '김치국' (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23367068</link>
+            <guid>https://tv.naver.com/v/23367068</guid>
+            <pubDate>Fri, 05 Nov 2021 06:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_215/V4UHs_16360916072449xf8e_JPEG/47fe0c75-3dfb-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김세영_틈 (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/23311699</link>
             <guid>https://tv.naver.com/v/23311699</guid>
@@ -472,14 +480,6 @@
             <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
             <content:encoded><![CDATA[4:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_153/hhAWL_1630476414917oYS2t_JPEG/e40e10a2-0ae8-11ec-882d-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전진희_breathing in june, breathing in october (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22193010</link>
-            <guid>https://tv.naver.com/v/22193010</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[6:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_242/VoKY4_16304755742404qaDS_JPEG/9a16f9b7-0ae8-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

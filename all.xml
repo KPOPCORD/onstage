@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 00:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 02:00:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,6 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Sat, 06 Nov 2021 22:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[매번 새로운 음악을 고민하는 싱어송라이터, 김세영을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리 시대 샤먼의 탄생, 추다혜차지스(CHUDAHYE CHAGIS) (VIBE ─ 온스테이지)]]></title>

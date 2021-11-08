@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2021-11-08T04:19:05.772Z</updated>
+    <updated>2021-11-08T05:13:52.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -10,6 +10,5 @@
         <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
         <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
         <updated>2021-11-07T19:11:29.870Z</updated>
-        <content type="html"><![CDATA[매번 새로운 음악을 고민하는 싱어송라이터, 김세영을 소개합니다.]]></content>
     </entry>
 </feed>

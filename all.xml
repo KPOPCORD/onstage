@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 09:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 10:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <title><![CDATA[포크에서 힙합 알앤비로. 김세영 (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Wed, 10 Nov 2021 09:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[매번 새로운 음악을 고민하는 싱어송라이터, 김세영을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리 시대 샤먼의 탄생, 추다혜차지스(CHUDAHYE CHAGIS) (VIBE ─ 온스테이지)]]></title>

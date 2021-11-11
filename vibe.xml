@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2021-11-11T01:58:06.860Z</updated>
+    <updated>2021-11-11T02:30:35.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포크에서 힙합 알앤비로. 김세영]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12561</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12561"/>
+        <updated>2021-11-11T02:30:16.518Z</updated>
+        <content type="html"><![CDATA[매번 새로운 음악을 고민하는 싱어송라이터, 김세영을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 시대 샤먼의 탄생, 추다혜차지스(CHUDAHYE CHAGIS)]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/12541</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/12361"/>
         <updated>2021-09-10T16:09:38.753Z</updated>
         <content type="html"><![CDATA[단단한 자아를 투명하게 노래하는 싱어송라이터, 신지훈을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말과 감정을 정확히 호명하는 노래, 임주연]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12341</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12341"/>
-        <updated>2021-09-10T16:09:38.758Z</updated>
-        <content type="html"><![CDATA[정서에 자연스레 스며드는 싱어송라이터 임주연을 소개합니다]]></content>
     </entry>
 </feed>

@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 00:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 01:58:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삐리뿌_Iraiza]]></title>
+            <link>https://tv.naver.com/v/23441286</link>
+            <guid>https://tv.naver.com/v/23441286</guid>
+            <pubDate>Thu, 11 Nov 2021 01:58:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211110_56/B8hcG_1636513047528KYcfD_JPEG/c9c1e31d-41d1-11ec-82c9-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삐리뿌_Indodri]]></title>
+            <link>https://tv.naver.com/v/23441269</link>
+            <guid>https://tv.naver.com/v/23441269</guid>
+            <pubDate>Thu, 11 Nov 2021 01:58:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211110_195/AQrQZ_1636513008325oL9vR_JPEG/a12242b3-41d1-11ec-8e54-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삐리뿌_Creeper]]></title>
+            <link>https://tv.naver.com/v/23441251</link>
+            <guid>https://tv.naver.com/v/23441251</guid>
+            <pubDate>Thu, 11 Nov 2021 01:58:06 GMT</pubDate>
+            <content:encoded><![CDATA[6:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211110_219/9e62c_16365129561555xpoW_JPEG/775741ca-41d1-11ec-82c9-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김세영_틈]]></title>
             <link>https://tv.naver.com/v/23311699</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210908_42/shaUz_1631092109214VbxC2_JPEG/12e72b4f-1084-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전진희_우리의 사랑은 여름이었지]]></title>
-            <link>https://tv.naver.com/v/22193492</link>
-            <guid>https://tv.naver.com/v/22193492</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_158/isXH1_1630476748681PVP3V_JPEG/659860e9-0aeb-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전진희_여름밤에 우리 (feat. wave to earth)]]></title>
-            <link>https://tv.naver.com/v/22193301</link>
-            <guid>https://tv.naver.com/v/22193301</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_153/hhAWL_1630476414917oYS2t_JPEG/e40e10a2-0ae8-11ec-882d-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전진희_breathing in june, breathing in october]]></title>
-            <link>https://tv.naver.com/v/22193010</link>
-            <guid>https://tv.naver.com/v/22193010</guid>
-            <pubDate>Fri, 05 Nov 2021 07:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[6:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_242/VoKY4_16304755742404qaDS_JPEG/9a16f9b7-0ae8-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

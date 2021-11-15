@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 07:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 08:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Mon, 15 Nov 2021 04:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[대담하고 담백한 자신감을 보여주는 3인조 밴드, 삐리뿌를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[포크에서 힙합 알앤비로. 김세영 (VIBE ─ 온스테이지)]]></title>

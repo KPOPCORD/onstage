@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2021-11-17T03:16:13.061Z</updated>
+    <updated>2021-11-17T04:19:21.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[어디에서도 목격한 적 없는 풍광, 삐리뿌]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12581</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12581"/>
-        <updated>2021-11-17T03:15:42.317Z</updated>
-        <content type="html"><![CDATA[대담하고 담백한 자신감을 보여주는 3인조 밴드, 삐리뿌를 소개합니다.]]></content>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
+        <updated>2021-11-17T04:18:58.927Z</updated>
     </entry>
 </feed>

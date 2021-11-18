@@ -4,14 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 01:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 02:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Wed, 17 Nov 2021 14:13:34 GMT</pubDate>
+            <title><![CDATA[[특별 프로젝트] 솔직함의 해학, 신승은 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12601</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12601</guid>
+            <pubDate>Thu, 18 Nov 2021 02:29:33 GMT</pubDate>
+            <content:encoded><![CDATA[삶에 구체성을 부여하는 생명력의 노래, 신승은을 소개합니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어디에서도 목격한 적 없는 풍광, 삐리뿌 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12581</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12581</guid>
+            <pubDate>Thu, 18 Nov 2021 02:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[대담하고 담백한 자신감을 보여주는 3인조 밴드, 삐리뿌를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[포크에서 힙합 알앤비로. 김세영 (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +99,28 @@
             <content:encoded><![CDATA[피아노와 목소리로 안식을 선사하는 뮤지션 전진희를 소개합니다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오래 걸려도 괜찮아, 맞는 길을 찾아가니까. 신지훈 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12361</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12361</guid>
-            <pubDate>Fri, 10 Sep 2021 16:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[단단한 자아를 투명하게 노래하는 싱어송라이터, 신지훈을 소개합니다.]]></content:encoded>
+            <title><![CDATA[신승은_잘못된 걸 잘못됐다 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-26504933</link>
+            <guid>https://www.vlive.tv/post/1-26504933</guid>
+            <pubDate>Thu, 18 Nov 2021 02:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211118_30/1637202418129ngI43_JPEG/48ee5e91-4780-11ec-b2c0-505dac8c38f5_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신승은_하하하하(Feat. 로삼) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-26498697</link>
+            <guid>https://www.vlive.tv/post/0-26498697</guid>
+            <pubDate>Thu, 18 Nov 2021 02:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211118_16/1637202446284vas9f_JPEG/77808558-4780-11ec-9524-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신승은_애매한 게 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-26498686</link>
+            <guid>https://www.vlive.tv/post/0-26498686</guid>
+            <pubDate>Thu, 18 Nov 2021 02:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211118_264/1637202388318xRbNq_JPEG/1895d02a-4780-11ec-9a6e-246e963a49a8_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삐리뿌_Creeper (ONSTAGE (온스테이지))]]></title>
@@ -103,7 +128,6 @@
             <guid>https://www.vlive.tv/post/1-26407030</guid>
             <pubDate>Thu, 11 Nov 2021 02:30:26 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_109/1636597562699pB3KX_JPEG/775741ca-41d1-11ec-82c9-505dac8c35ff_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삐리뿌_Indodri (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +135,6 @@
             <guid>https://www.vlive.tv/post/0-26400408</guid>
             <pubDate>Thu, 11 Nov 2021 02:30:26 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_294/1636597600638hr2JY_JPEG/a12242b3-41d1-11ec-8e54-505dac8c37f3_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삐리뿌_Iraiza (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +142,6 @@
             <guid>https://www.vlive.tv/post/0-26400399</guid>
             <pubDate>Thu, 11 Nov 2021 02:30:26 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_227/1636597522374biOGb_JPEG/c9c1e31d-41d1-11ec-82c9-505dac8c35ff_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김세영_어떤 표정 (ONSTAGE (온스테이지))]]></title>
@@ -217,27 +239,6 @@
             <link>https://www.vlive.tv/post/0-25816886</link>
             <guid>https://www.vlive.tv/post/0-25816886</guid>
             <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박지우_Happiness or Sadness (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-25816883</link>
-            <guid>https://www.vlive.tv/post/0-25816883</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[THAMA_Blessed (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-25699827</link>
-            <guid>https://www.vlive.tv/post/0-25699827</guid>
-            <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[THAMA_Chill이란 낱말의 존재이유 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-25706827</link>
-            <guid>https://www.vlive.tv/post/1-25706827</guid>
-            <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>

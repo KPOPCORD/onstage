@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 00:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 01:57:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신승은_하하하하(Feat. 로삼)]]></title>
+            <link>https://tv.naver.com/v/23580427</link>
+            <guid>https://tv.naver.com/v/23580427</guid>
+            <pubDate>Thu, 18 Nov 2021 01:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211117_84/6Yez3_16371378204919NPob_JPEG/77808558-4780-11ec-9524-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신승은_잘못된 걸 잘못됐다]]></title>
+            <link>https://tv.naver.com/v/23580397</link>
+            <guid>https://tv.naver.com/v/23580397</guid>
+            <pubDate>Thu, 18 Nov 2021 01:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211117_9/D79Nz_1637137750177Y2l5b_JPEG/48ee5e91-4780-11ec-b2c0-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신승은_애매한 게]]></title>
+            <link>https://tv.naver.com/v/23580369</link>
+            <guid>https://tv.naver.com/v/23580369</guid>
+            <pubDate>Thu, 18 Nov 2021 01:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211117_154/olN5I_16371376753289Xfmv_JPEG/1895d02a-4780-11ec-9a6e-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삐리뿌_Iraiza]]></title>
             <link>https://tv.naver.com/v/23441286</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
             <content:encoded><![CDATA[4:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210914_269/dIL2G_1631620550565B62W5_JPEG/3cfd0f88-152a-11ec-9d74-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CR태규_Hold Your Mental Line Tight]]></title>
-            <link>https://tv.naver.com/v/22341125</link>
-            <guid>https://tv.naver.com/v/22341125</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210908_55/7jrOk_16310923432042FakB_JPEG/a57e7b80-1084-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CR태규_청청청]]></title>
-            <link>https://tv.naver.com/v/22341086</link>
-            <guid>https://tv.naver.com/v/22341086</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210908_254/e2cGq_16310922329344DhK7_JPEG/5f2a2dfa-1084-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CR태규_행복회로]]></title>
-            <link>https://tv.naver.com/v/22341044</link>
-            <guid>https://tv.naver.com/v/22341044</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210908_42/shaUz_1631092109214VbxC2_JPEG/12e72b4f-1084-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2021-11-25T02:00:13.633Z</updated>
+    <updated>2021-11-25T02:33:27.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특별 프로젝트] 솔직함의 해학, 신승은]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12601</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12601"/>
+        <updated>2021-11-25T02:33:12.141Z</updated>
+        <content type="html"><![CDATA[삶에 구체성을 부여하는 생명력의 노래, 신승은을 소개합니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어디에서도 목격한 적 없는 풍광, 삐리뿌]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/12581</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/12382"/>
         <updated>2021-09-10T16:09:38.739Z</updated>
         <content type="html"><![CDATA[이용자와 함께 하는 특별 프로젝트 지금 시작합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나를 숨 쉬게 하는 음악. 전진희]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12381</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12381"/>
-        <updated>2021-09-10T16:09:38.740Z</updated>
-        <content type="html"><![CDATA[피아노와 목소리로 안식을 선사하는 뮤지션 전진희를 소개합니다]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 03:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 04:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[wave to earth_seasons]]></title>
+            <link>https://www.vlive.tv/post/0-26602425</link>
+            <guid>https://www.vlive.tv/post/0-26602425</guid>
+            <pubDate>Thu, 25 Nov 2021 04:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_148/1637810169242rcFus_JPEG/3be572d2-4ce4-11ec-9e9c-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[wave to earth_nouvelle vague]]></title>
             <link>https://www.vlive.tv/post/1-26608799</link>
@@ -16,12 +24,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20211125_233/1637810120461Tmrup_JPEG/e9dbb5dc-4ce3-11ec-b39d-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[wave to earth_Daisy.]]></title>
+            <link>https://www.vlive.tv/post/1-26608803</link>
+            <guid>https://www.vlive.tv/post/1-26608803</guid>
+            <pubDate>Thu, 25 Nov 2021 04:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_91/1637810147253s8Aqw_JPEG/22d34bcf-4ce4-11ec-9e9c-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신승은_잘못된 걸 잘못됐다]]></title>
             <link>https://www.vlive.tv/post/1-26504933</link>
             <guid>https://www.vlive.tv/post/1-26504933</guid>
             <pubDate>Thu, 18 Nov 2021 02:29:52 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_30/1637202418129ngI43_JPEG/48ee5e91-4780-11ec-b2c0-505dac8c38f5_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신승은_하하하하(Feat. 로삼)]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/0-26498697</guid>
             <pubDate>Thu, 18 Nov 2021 02:29:52 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_16/1637202446284vas9f_JPEG/77808558-4780-11ec-9524-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신승은_애매한 게]]></title>
@@ -134,20 +148,6 @@
             <link>https://www.vlive.tv/post/0-25975449</link>
             <guid>https://www.vlive.tv/post/0-25975449</guid>
             <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[cott_far]]></title>
-            <link>https://www.vlive.tv/post/1-25982804</link>
-            <guid>https://www.vlive.tv/post/1-25982804</guid>
-            <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박지우_Already know]]></title>
-            <link>https://www.vlive.tv/post/1-25824754</link>
-            <guid>https://www.vlive.tv/post/1-25824754</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
     </channel>

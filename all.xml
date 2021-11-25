@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 03:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 04:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <title><![CDATA[[특별 프로젝트] 파도가 뭍에 닿는 순간, wave to earth (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Thu, 25 Nov 2021 03:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[세련미 넘치는 사운드로 새로운 물결을 그리는 밴드, 웨이브투어스를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[특별 프로젝트] 솔직함의 해학, 신승은 (VIBE ─ 온스테이지)]]></title>
@@ -98,6 +99,14 @@
             <content:encoded><![CDATA[이용자와 함께 하는 특별 프로젝트 지금 시작합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[wave to earth_seasons (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-26602425</link>
+            <guid>https://www.vlive.tv/post/0-26602425</guid>
+            <pubDate>Thu, 25 Nov 2021 04:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_148/1637810169242rcFus_JPEG/3be572d2-4ce4-11ec-9e9c-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[wave to earth_nouvelle vague (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/1-26608799</link>
             <guid>https://www.vlive.tv/post/1-26608799</guid>
@@ -106,12 +115,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20211125_233/1637810120461Tmrup_JPEG/e9dbb5dc-4ce3-11ec-b39d-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[wave to earth_Daisy. (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-26608803</link>
+            <guid>https://www.vlive.tv/post/1-26608803</guid>
+            <pubDate>Thu, 25 Nov 2021 04:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_91/1637810147253s8Aqw_JPEG/22d34bcf-4ce4-11ec-9e9c-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신승은_잘못된 걸 잘못됐다 (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/1-26504933</link>
             <guid>https://www.vlive.tv/post/1-26504933</guid>
             <pubDate>Thu, 18 Nov 2021 02:29:52 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_30/1637202418129ngI43_JPEG/48ee5e91-4780-11ec-b2c0-505dac8c38f5_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신승은_하하하하(Feat. 로삼) (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +135,6 @@
             <guid>https://www.vlive.tv/post/0-26498697</guid>
             <pubDate>Thu, 18 Nov 2021 02:29:52 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_16/1637202446284vas9f_JPEG/77808558-4780-11ec-9524-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신승은_애매한 게 (ONSTAGE (온스테이지))]]></title>
@@ -224,20 +239,6 @@
             <link>https://www.vlive.tv/post/0-25975449</link>
             <guid>https://www.vlive.tv/post/0-25975449</guid>
             <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[cott_far (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-25982804</link>
-            <guid>https://www.vlive.tv/post/1-25982804</guid>
-            <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박지우_Already know (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-25824754</link>
-            <guid>https://www.vlive.tv/post/1-25824754</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>

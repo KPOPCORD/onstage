@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 00:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 02:00:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[wave to earth_seasons]]></title>
+            <link>https://tv.naver.com/v/23712910</link>
+            <guid>https://tv.naver.com/v/23712910</guid>
+            <pubDate>Thu, 25 Nov 2021 02:00:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_294/cuH5N_16377304631969OWTE_JPEG/3be572d2-4ce4-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[wave to earth_Daisy.]]></title>
+            <link>https://tv.naver.com/v/23712905</link>
+            <guid>https://tv.naver.com/v/23712905</guid>
+            <pubDate>Thu, 25 Nov 2021 02:00:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_189/PPOze_1637730434157RJBeQ_JPEG/22d34bcf-4ce4-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[wave to earth_nouvelle vague]]></title>
+            <link>https://tv.naver.com/v/23712858</link>
+            <guid>https://tv.naver.com/v/23712858</guid>
+            <pubDate>Thu, 25 Nov 2021 02:00:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_249/sOC0Q_1637730311060U2iJX_JPEG/e9dbb5dc-4ce3-11ec-b39d-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신승은_하하하하(Feat. 로삼)]]></title>
             <link>https://tv.naver.com/v/23580427</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
             <content:encoded><![CDATA[4:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210923_243/779fT_16323902129700GMTY_JPEG/f51bef5c-1c51-11ec-80a9-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서수진_Equality(Feat. Chordless Quartet)]]></title>
-            <link>https://tv.naver.com/v/22452174</link>
-            <guid>https://tv.naver.com/v/22452174</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_270/cg6F0_1631620597760fcgtE_JPEG/61cdeecc-1547-11ec-af84-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서수진_여름(Feat. 밤 새 Baum Sae)]]></title>
-            <link>https://tv.naver.com/v/22452158</link>
-            <guid>https://tv.naver.com/v/22452158</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_41/KmBVh_1631620565014X4SNG_JPEG/338d1cdd-1547-11ec-a77c-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서수진_Uncertainty(Feat. Coloris Trio)]]></title>
-            <link>https://tv.naver.com/v/22452152</link>
-            <guid>https://tv.naver.com/v/22452152</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_269/dIL2G_1631620550565B62W5_JPEG/3cfd0f88-152a-11ec-9d74-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

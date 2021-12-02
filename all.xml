@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 02:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 03:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,12 +98,35 @@
             <content:encoded><![CDATA[미시시피 삼각주의 멜랑콜리와 교감하는 정통 블루스 뮤지션, CR태규를 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[라포엠(LA POEM)_사랑의 노래 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-26712006</link>
+            <guid>https://www.vlive.tv/post/0-26712006</guid>
+            <pubDate>Thu, 02 Dec 2021 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_175/1638414874835DeGbG_JPEG/0d3e3ee9-525a-11ec-9a33-505dac8c3721_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라포엠(LA POEM)_눈부신 밤 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-26718565</link>
+            <guid>https://www.vlive.tv/post/1-26718565</guid>
+            <pubDate>Thu, 02 Dec 2021 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_112/1638414847068UusTH_JPEG/4f840920-525a-11ec-9524-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라포엠(LA POEM)_샤이닝 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-26711993</link>
+            <guid>https://www.vlive.tv/post/0-26711993</guid>
+            <pubDate>Thu, 02 Dec 2021 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_207/1638414820923R7PNw_JPEG/89ef5361-525a-11ec-a74c-48df379ccacc_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[wave to earth_seasons (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-26602425</link>
             <guid>https://www.vlive.tv/post/0-26602425</guid>
             <pubDate>Thu, 25 Nov 2021 04:19:20 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_148/1637810169242rcFus_JPEG/3be572d2-4ce4-11ec-9e9c-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[wave to earth_nouvelle vague (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +134,6 @@
             <guid>https://www.vlive.tv/post/1-26608799</guid>
             <pubDate>Thu, 25 Nov 2021 03:15:51 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_233/1637810120461Tmrup_JPEG/e9dbb5dc-4ce3-11ec-b39d-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[wave to earth_Daisy. (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +141,6 @@
             <guid>https://www.vlive.tv/post/1-26608803</guid>
             <pubDate>Thu, 25 Nov 2021 04:19:20 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_91/1637810147253s8Aqw_JPEG/22d34bcf-4ce4-11ec-9e9c-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신승은_잘못된 걸 잘못됐다 (ONSTAGE (온스테이지))]]></title>
@@ -217,27 +238,6 @@
             <link>https://www.vlive.tv/post/0-26085637</link>
             <guid>https://www.vlive.tv/post/0-26085637</guid>
             <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Jihye Lee Orchestra_Deep Blue Sea (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-26092101</link>
-            <guid>https://www.vlive.tv/post/1-26092101</guid>
-            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[cott_하필(HOW YOU FEEL?) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-25982816</link>
-            <guid>https://www.vlive.tv/post/1-25982816</guid>
-            <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[cott_SCENE (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-25975449</link>
-            <guid>https://www.vlive.tv/post/0-25975449</guid>
-            <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>

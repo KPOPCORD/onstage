@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 00:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 01:58:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -241,6 +241,30 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[라포엠(LA POEM)_샤이닝 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23834689</link>
+            <guid>https://tv.naver.com/v/23834689</guid>
+            <pubDate>Thu, 02 Dec 2021 01:58:52 GMT</pubDate>
+            <content:encoded><![CDATA[6:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_115/R68zH_1638331011962apYSQ_JPEG/89ef5361-525a-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라포엠(LA POEM)_눈부신 밤 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23834652</link>
+            <guid>https://tv.naver.com/v/23834652</guid>
+            <pubDate>Thu, 02 Dec 2021 01:58:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_63/8J1Cs_16383308988292yrMc_JPEG/4f840920-525a-11ec-9524-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라포엠(LA POEM)_사랑의 노래 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23834639</link>
+            <guid>https://tv.naver.com/v/23834639</guid>
+            <pubDate>Thu, 02 Dec 2021 01:58:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_76/IfzhQ_1638330822285Re6eI_JPEG/0d3e3ee9-525a-11ec-9a33-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[wave to earth_seasons (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/23712910</link>
             <guid>https://tv.naver.com/v/23712910</guid>
@@ -455,30 +479,6 @@
             <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
             <content:encoded><![CDATA[4:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_4/GrIbq_16328882838209IAfE_JPEG/f6838900-20d9-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만동_귀여움의 강도 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22581284</link>
-            <guid>https://tv.naver.com/v/22581284</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[6:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210923_196/eldyH_1632391020721ucP7T_JPEG/c3bf7388-1c53-11ec-b835-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만동_두 번 일시켜서 미안해 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22581171</link>
-            <guid>https://tv.naver.com/v/22581171</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[5:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210923_7/kzFjb_1632390650953sbwsz_JPEG/c011f13a-1c52-11ec-8678-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만동_홍시색 노을 위로 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22581018</link>
-            <guid>https://tv.naver.com/v/22581018</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210923_243/779fT_16323902129700GMTY_JPEG/f51bef5c-1c51-11ec-80a9-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

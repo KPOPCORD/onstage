@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2021-12-06T17:12:45.611Z</updated>
+    <updated>2021-12-31T08:58:30.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반복과 점층의 아름다움, 김재훈 with 다이브라인 앙상블]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12701</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12701"/>
+        <updated>2021-12-31T08:58:14.383Z</updated>
+        <content type="html"><![CDATA[피아노 퀸텟으로 돌아온 미니멀 작곡가, 김재훈을 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 안의 소울, 형선(HYNGSN)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12681</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12681"/>
+        <updated>2021-12-31T08:58:14.383Z</updated>
+        <content type="html"><![CDATA[근면한 모험으로 스스로에 다가가는 싱어송라이터, 형선을 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특별 프로젝트] 피부로 느끼는 목소리, 다린]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12661</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12661"/>
+        <updated>2021-12-31T08:58:14.384Z</updated>
+        <content type="html"><![CDATA[깊은 울림으로 사랑의 슬픔과 기쁨을 전달하는 싱어송라이터 다린을 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특별 프로젝트] 크로스오버 4중창, 라포엠(LA POEM)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12641</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12641"/>
+        <updated>2021-12-31T08:58:14.385Z</updated>
+        <content type="html"><![CDATA[새로운 크로스오버 바람의 주역, 라포엠을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특별 프로젝트] 파도가 뭍에 닿는 순간, wave to earth]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/12621</id>
@@ -60,33 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/12481"/>
         <updated>2021-10-14T02:00:37.952Z</updated>
         <content type="html"><![CDATA[수식 없이도 홀로 오롯이 전달될 음성, 싱어송라이터 박지우를 소개합니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모던 스트리트 소울, THAMA]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12461</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12461"/>
-        <updated>2021-10-07T02:03:25.032Z</updated>
-        <content type="html"><![CDATA[거리의 기운과 그루브를 표현하는 싱어송라이터, THAMA를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈틈으로 꽉 찬 움직임, 만동]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12441</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12441"/>
-        <updated>2021-09-30T02:05:10.107Z</updated>
-        <content type="html"><![CDATA[문법보다는 내용으로 선명함을 드러내는 밴드, 만동을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무한의 자유. 서수진]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12421</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12421"/>
-        <updated>2021-09-24T05:12:48.890Z</updated>
-        <content type="html"><![CDATA[익숙한 음악어법에 끊임없이 균열을 내는 창작자 서수진을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨알이 먹힐 때까지 블루스, CR태규]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12401</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12401"/>
-        <updated>2021-09-16T02:02:48.076Z</updated>
-        <content type="html"><![CDATA[미시시피 삼각주의 멜랑콜리와 교감하는 정통 블루스 뮤지션, CR태규를 소개합니다.]]></content>
     </entry>
 </feed>

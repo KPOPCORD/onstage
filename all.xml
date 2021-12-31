@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 17:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 08:58:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,34 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Mon, 06 Dec 2021 17:12:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[반복과 점층의 아름다움, 김재훈 with 다이브라인 앙상블 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12701</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12701</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:14 GMT</pubDate>
+            <content:encoded><![CDATA[피아노 퀸텟으로 돌아온 미니멀 작곡가, 김재훈을 소개합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[내 안의 소울, 형선(HYNGSN) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12681</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12681</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:14 GMT</pubDate>
+            <content:encoded><![CDATA[근면한 모험으로 스스로에 다가가는 싱어송라이터, 형선을 소개합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[특별 프로젝트] 피부로 느끼는 목소리, 다린 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12661</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12661</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:14 GMT</pubDate>
+            <content:encoded><![CDATA[깊은 울림으로 사랑의 슬픔과 기쁨을 전달하는 싱어송라이터 다린을 소개합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[특별 프로젝트] 크로스오버 4중창, 라포엠(LA POEM) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12641</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12641</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:14 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 크로스오버 바람의 주역, 라포엠을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[특별 프로젝트] 파도가 뭍에 닿는 순간, wave to earth (VIBE ─ 온스테이지)]]></title>
@@ -70,32 +98,91 @@
             <content:encoded><![CDATA[수식 없이도 홀로 오롯이 전달될 음성, 싱어송라이터 박지우를 소개합니다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모던 스트리트 소울, THAMA (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12461</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12461</guid>
-            <pubDate>Thu, 07 Oct 2021 02:03:25 GMT</pubDate>
-            <content:encoded><![CDATA[거리의 기운과 그루브를 표현하는 싱어송라이터, THAMA를 소개합니다.]]></content:encoded>
+            <title><![CDATA[효도앤베이스_City Song (with.김윤기) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-27170112</link>
+            <guid>https://www.vlive.tv/post/0-27170112</guid>
+            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_107/1640841629136zPTbe_JPEG/e712e519-692e-11ec-a831-48df379cca40_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빈틈으로 꽉 찬 움직임, 만동 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12441</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12441</guid>
-            <pubDate>Thu, 30 Sep 2021 00:51:28 GMT</pubDate>
-            <content:encoded><![CDATA[문법보다는 내용으로 선명함을 드러내는 밴드, 만동을 소개합니다.]]></content:encoded>
+            <title><![CDATA[효도앤베이스_여러가지 (with.김윤기) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-27169698</link>
+            <guid>https://www.vlive.tv/post/0-27169698</guid>
+            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_228/1640841060224f3ED8_JPEG/74829670-692e-11ec-9190-505dac8c385b_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무한의 자유. 서수진 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12421</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12421</guid>
-            <pubDate>Fri, 24 Sep 2021 05:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[익숙한 음악어법에 끊임없이 균열을 내는 창작자 서수진을 소개합니다.]]></content:encoded>
+            <title><![CDATA[효도앤베이스_강아지, 여자친구, 비데 (with.김윤기) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-27175385</link>
+            <guid>https://www.vlive.tv/post/1-27175385</guid>
+            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_108/1640840867847NPFvH_JPEG/33e6ac02-692e-11ec-a42f-505dac8c3721_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[씨알이 먹힐 때까지 블루스, CR태규 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12401</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12401</guid>
-            <pubDate>Thu, 16 Sep 2021 02:02:48 GMT</pubDate>
-            <content:encoded><![CDATA[미시시피 삼각주의 멜랑콜리와 교감하는 정통 블루스 뮤지션, CR태규를 소개합니다.]]></content:encoded>
+            <title><![CDATA[김재훈_SWIM (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-27050448</link>
+            <guid>https://www.vlive.tv/post/1-27050448</guid>
+            <pubDate>Thu, 23 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김재훈_WOOD SONG (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-27050444</link>
+            <guid>https://www.vlive.tv/post/1-27050444</guid>
+            <pubDate>Thu, 23 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김재훈_MINE (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-27044300</link>
+            <guid>https://www.vlive.tv/post/0-27044300</guid>
+            <pubDate>Thu, 23 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[형선(HYNGSN)_Day Life (Feat.크루셜스타) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-26961486</link>
+            <guid>https://www.vlive.tv/post/1-26961486</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[형선(HYNGSN)_B-A-B-Y (Feat.SFC.JGR) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-26961480</link>
+            <guid>https://www.vlive.tv/post/1-26961480</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[형선(HYNGSN)_Damdi (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-26955569</link>
+            <guid>https://www.vlive.tv/post/0-26955569</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다린_가을 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-26857846</link>
+            <guid>https://www.vlive.tv/post/0-26857846</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다린_갈래 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-26864249</link>
+            <guid>https://www.vlive.tv/post/1-26864249</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다린_Ribbon (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-26864253</link>
+            <guid>https://www.vlive.tv/post/1-26864253</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[라포엠(LA POEM)_사랑의 노래 (ONSTAGE (온스테이지))]]></title>
@@ -103,7 +190,6 @@
             <guid>https://www.vlive.tv/post/0-26712006</guid>
             <pubDate>Thu, 02 Dec 2021 03:15:42 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_175/1638414874835DeGbG_JPEG/0d3e3ee9-525a-11ec-9a33-505dac8c3721_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라포엠(LA POEM)_눈부신 밤 (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +197,6 @@
             <guid>https://www.vlive.tv/post/1-26718565</guid>
             <pubDate>Thu, 02 Dec 2021 03:15:42 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_112/1638414847068UusTH_JPEG/4f840920-525a-11ec-9524-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라포엠(LA POEM)_샤이닝 (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +204,6 @@
             <guid>https://www.vlive.tv/post/0-26711993</guid>
             <pubDate>Thu, 02 Dec 2021 03:15:42 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_207/1638414820923R7PNw_JPEG/89ef5361-525a-11ec-a74c-48df379ccacc_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[wave to earth_seasons (ONSTAGE (온스테이지))]]></title>
@@ -157,88 +241,100 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신승은_애매한 게 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-26498686</link>
-            <guid>https://www.vlive.tv/post/0-26498686</guid>
-            <pubDate>Thu, 18 Nov 2021 02:29:52 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[효도앤베이스_강아지, 여자친구, 비데 (with.김윤기) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24347345</link>
+            <guid>https://tv.naver.com/v/24347345</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_245/RlaMs_1640825342275nL22n_JPEG/d082fc31-6909-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삐리뿌_Creeper (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-26407030</link>
-            <guid>https://www.vlive.tv/post/1-26407030</guid>
-            <pubDate>Thu, 11 Nov 2021 02:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[효도앤베이스_여러가지 (with.김윤기) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24347310</link>
+            <guid>https://tv.naver.com/v/24347310</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_229/5kz8R_16408252158724gAmd_JPEG/972b6ba1-6909-11ec-9d44-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삐리뿌_Indodri (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-26400408</link>
-            <guid>https://www.vlive.tv/post/0-26400408</guid>
-            <pubDate>Thu, 11 Nov 2021 02:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[효도앤베이스_City Song (with.김윤기) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24347279</link>
+            <guid>https://tv.naver.com/v/24347279</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[4:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_202/J1JQd_1640825027501fGxSS_JPEG/f1758c25-6908-11ec-b908-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삐리뿌_Iraiza (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-26400399</link>
-            <guid>https://www.vlive.tv/post/0-26400399</guid>
-            <pubDate>Thu, 11 Nov 2021 02:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[김재훈_MINE (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24200348</link>
+            <guid>https://tv.naver.com/v/24200348</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[6:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_152/hRq4q_1640149456991PXL4t_JPEG/4b100856-62e4-11ec-83c9-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김세영_어떤 표정 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-26311993</link>
-            <guid>https://www.vlive.tv/post/1-26311993</guid>
-            <pubDate>Thu, 04 Nov 2021 02:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[김재훈_SWIM (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24200288</link>
+            <guid>https://tv.naver.com/v/24200288</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[4:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_237/w0iCQ_1640149299648xgiiB_JPEG/ed99a366-62e3-11ec-bcc9-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김세영_Homework (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-26305733</link>
-            <guid>https://www.vlive.tv/post/0-26305733</guid>
-            <pubDate>Thu, 04 Nov 2021 02:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[김재훈_WOOD SONG (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24200221</link>
+            <guid>https://tv.naver.com/v/24200221</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_94/MOY26_1640149139250n0kgN_JPEG/1de137c2-62e3-11ec-badc-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김세영_틈 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-26311977</link>
-            <guid>https://www.vlive.tv/post/1-26311977</guid>
-            <pubDate>Thu, 04 Nov 2021 02:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[형선(HYNGSN)_B-A-B-Y (Feat.SFC.JGR) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24103040</link>
+            <guid>https://tv.naver.com/v/24103040</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_208/WN6Hy_1639618068152zLqlK_JPEG/51a55c31-5e0d-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[추다혜차지스(CHUDAHYE CHAGIS)_비나수+(Binasoo+) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-26202021</link>
-            <guid>https://www.vlive.tv/post/0-26202021</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[형선(HYNGSN)_Damdi (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24103038</link>
+            <guid>https://tv.naver.com/v/24103038</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_118/ROslh_1639618056294mkrAB_JPEG/33a77166-5e0d-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[추다혜차지스(CHUDAHYE CHAGIS)_리츄얼댄스(Ritual Dance) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-26208415</link>
-            <guid>https://www.vlive.tv/post/1-26208415</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[형선(HYNGSN)_Day Life (Feat.크루셜스타) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24102957</link>
+            <guid>https://tv.naver.com/v/24102957</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_282/ljGnw_1639617657734beKqM_JPEG/f358bc1a-5e0c-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[추다혜차지스(CHUDAHYE CHAGIS)_좋다잘한다좋다(Dance of 5 Guardians) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-26208407</link>
-            <guid>https://www.vlive.tv/post/1-26208407</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[다린_갈래 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23970547</link>
+            <guid>https://tv.naver.com/v/23970547</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[4:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_227/5JDD0_1638936549705VlKgL_JPEG/44fa52a9-57dc-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jihye Lee Orchestra_Struggle Gives You Strength (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-26092109</link>
-            <guid>https://www.vlive.tv/post/1-26092109</guid>
-            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[다린_Ribbon (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23970469</link>
+            <guid>https://tv.naver.com/v/23970469</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_122/Zu9Ez_1638936377034pvmUP_JPEG/cbb6ecb2-57db-11ec-9970-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jihye Lee Orchestra_새타령 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-26085637</link>
-            <guid>https://www.vlive.tv/post/0-26085637</guid>
-            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[다린_가을 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/23970399</link>
+            <guid>https://tv.naver.com/v/23970399</guid>
+            <pubDate>Fri, 31 Dec 2021 08:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_113/maiGB_1638936194505Vq3zH_JPEG/6f9606e6-57db-11ec-9d5b-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라포엠(LA POEM)_샤이닝 (ONSTAGE (온스테이지))]]></title>
@@ -383,102 +479,6 @@
             <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
             <content:encoded><![CDATA[7:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_292/ujgSO_1635313205347j7vSM_JPEG/0df0f3d1-36e8-11ec-9a33-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jihye Lee Orchestra_Deep Blue Sea (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/23062106</link>
-            <guid>https://tv.naver.com/v/23062106</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[8:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_65/fY4WX_1634700700853LTphg_JPEG/9e386626-3155-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jihye Lee Orchestra_새타령 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/23062017</link>
-            <guid>https://tv.naver.com/v/23062017</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[9:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_104/WrMAt_1634700423066AJfCr_JPEG/08b4f245-3155-11ec-9524-505dacfbaa5c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jihye Lee Orchestra_Struggle Gives You Strength (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/23061926</link>
-            <guid>https://tv.naver.com/v/23061926</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[6:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_161/ZDG9p_1634700165873Abbf8_JPEG/9aca5d2b-3154-11ec-ba2c-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[cott_far (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22934000</link>
-            <guid>https://tv.naver.com/v/22934000</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211013_202/aRl6T_1634103329805gWSHA_JPEG/1765cd15-2be7-11ec-b8d4-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[cott_SCENE (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22933934</link>
-            <guid>https://tv.naver.com/v/22933934</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211013_15/AE72C_16341031964340zCOk_JPEG/d5d1791b-2be6-11ec-a2d9-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[cott_하필(HOW YOU FEEL?) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22933865</link>
-            <guid>https://tv.naver.com/v/22933865</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211013_160/v9kgH_1634103082475ym6vl_JPEG/a0d0976c-2be6-11ec-8918-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지우_Happiness or Sadness (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22817395</link>
-            <guid>https://tv.naver.com/v/22817395</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_285/MKQKd_1633505770347pqgCU_JPEG/d87f2e66-2677-11ec-a8ac-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지우_Whisper (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22817336</link>
-            <guid>https://tv.naver.com/v/22817336</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_161/pgqj8_1633505662046mrU06_JPEG/b0d95729-2677-11ec-8111-505dac8c381b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지우_Already know (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22817300</link>
-            <guid>https://tv.naver.com/v/22817300</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_56/Iv0Cm_1633505594430eizXz_JPEG/74ca6f27-2677-11ec-9845-505dacfbaa5c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THAMA_Blessed (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22677980</link>
-            <guid>https://tv.naver.com/v/22677980</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_66/ijOpH_1632888526927CgPGa_JPEG/aae2c43d-20da-11ec-9845-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THAMA_순간들 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22677931</link>
-            <guid>https://tv.naver.com/v/22677931</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_145/rLEGX_1632888393563yCh5y_JPEG/67c3b12c-20da-11ec-a613-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THAMA_Chill이란 낱말의 존재이유 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/22677892</link>
-            <guid>https://tv.naver.com/v/22677892</guid>
-            <pubDate>Mon, 01 Nov 2021 06:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_4/GrIbq_16328882838209IAfE_JPEG/f6838900-20d9-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 01:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 03:45:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ADOY이기에 가능했던 온라인 공연! (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13302</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13302</guid>
+            <pubDate>Fri, 22 Jul 2022 03:44:44 GMT</pubDate>
+            <content:encoded><![CDATA[영상 3편 공개합니다.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[무소유와 무경계의 음악, TAAL (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/season/2/article/13301</link>
@@ -90,13 +97,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/13081</guid>
             <pubDate>Thu, 12 May 2022 02:52:22 GMT</pubDate>
             <content:encoded><![CDATA[각별한 기운의 R&amp;B 싱어송라이터, 욘코를 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네 이야기를 들려줘, 최엘비(CHOILB) (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13061</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13061</guid>
-            <pubDate>Fri, 06 May 2022 02:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[- 친숙하고 강단 있게 자신의 이야기를 건네는 래퍼, 최엘비를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TAAL_술비 (ONSTAGE (온스테이지))]]></title>
@@ -242,6 +242,14 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[온스테이지 후원 라이브] 아도이 - Simply (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/28094347</link>
+            <guid>https://tv.naver.com/v/28094347</guid>
+            <pubDate>Fri, 22 Jul 2022 03:45:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_198/frkia_1658452633604y6O6P_JPEG/925919e1-095b-11ed-9fa8-505dacfba98a_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[온스테이지 후원 라이브] 아도이 - Swim (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/28056285</link>
             <guid>https://tv.naver.com/v/28056285</guid>
@@ -256,14 +264,6 @@
             <pubDate>Fri, 22 Jul 2022 01:06:14 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_40/b0BXV_1658299135638GO7Ex_JPEG/f8a2bd1e-07f5-11ed-89b9-d4f5ef5906a4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지 후원 라이브] 아도이 - Simply (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/28056193</link>
-            <guid>https://tv.naver.com/v/28056193</guid>
-            <pubDate>Fri, 22 Jul 2022 01:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_20/tNypX_1658307179946X1wwu_JPEG/d3512b72-07f4-11ed-b77c-48df379cca40_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TAAL_양산도 (ONSTAGE (온스테이지))]]></title>

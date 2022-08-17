@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 01:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 03:54:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Wed, 17 Aug 2022 01:05:41 GMT</pubDate>
+            <title><![CDATA[둥글게 둥글게, 자꾸 걸어 나가면, 지소쿠리(JISOKURY) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13361</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13361</guid>
+            <pubDate>Wed, 17 Aug 2022 03:54:04 GMT</pubDate>
+            <content:encoded><![CDATA[작은 일상의 순간을 소중히 담아내는 싱어송라이터 지소쿠리를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[말하지 않아도 언제나 청춘, 강승원 (VIBE ─ 온스테이지)]]></title>
@@ -98,12 +99,35 @@
             <content:encoded><![CDATA[한국 발라드의 사려 깊은 연인, 이주영을 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[JISOKURY_Take On (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-30221126</link>
+            <guid>https://www.vlive.tv/post/1-30221126</guid>
+            <pubDate>Wed, 17 Aug 2022 03:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220817_9/16607080279274CrOR_JPEG/06448654-1ddf-11ed-b440-505dacfba98a_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JISOKURY_Light Chaser (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-30212597</link>
+            <guid>https://www.vlive.tv/post/0-30212597</guid>
+            <pubDate>Wed, 17 Aug 2022 03:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220817_83/1660708039721UEJON_JPEG/a9a2b0bb-1dde-11ed-b253-505dac8c381b_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JISOKURY_a Plumber (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-30212585</link>
+            <guid>https://www.vlive.tv/post/0-30212585</guid>
+            <pubDate>Wed, 17 Aug 2022 03:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220817_212/1660708049436990wf_JPEG/0e48f171-1dde-11ed-89cb-505dac8c35ff_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강승원_나는 지금 (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/1-30059478</link>
             <guid>https://www.vlive.tv/post/1-30059478</guid>
             <pubDate>Tue, 16 Aug 2022 09:11:09 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220803_105/1659510989309t2bUm_JPEG/c9a999bc-12fb-11ed-81b1-505dac8c3639_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강승원_말하지 않아도 알아요 (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +135,6 @@
             <guid>https://www.vlive.tv/post/1-30059460</guid>
             <pubDate>Tue, 16 Aug 2022 09:11:09 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220803_196/1659510795295uagYg_JPEG/73346c93-12fb-11ed-ba01-505dac8c3607_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강승원_처음 (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +142,6 @@
             <guid>https://www.vlive.tv/post/0-30053097</guid>
             <pubDate>Tue, 16 Aug 2022 09:11:09 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220803_144/1659511821631NnB3X_JPEG/3c1e71c2-12fc-11ed-bb12-d4f5ef5a9532_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예빛_집에 가자 (ONSTAGE (온스테이지))]]></title>
@@ -216,27 +238,6 @@
             <title><![CDATA[Rad Museum_Forever (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-29692956</link>
             <guid>https://www.vlive.tv/post/0-29692956</guid>
-            <pubDate>Tue, 16 Aug 2022 09:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Rad Museum_Off-Line (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-29692327</link>
-            <guid>https://www.vlive.tv/post/0-29692327</guid>
-            <pubDate>Tue, 16 Aug 2022 09:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Y2K92_ChampagneCasanova (DEMO) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-29609342</link>
-            <guid>https://www.vlive.tv/post/1-29609342</guid>
-            <pubDate>Tue, 16 Aug 2022 09:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Y2K92_Bi-elijah (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-29609324</link>
-            <guid>https://www.vlive.tv/post/1-29609324</guid>
             <pubDate>Tue, 16 Aug 2022 09:11:09 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>

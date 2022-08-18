@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 08:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 09:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,6 +242,14 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['NAVER ONSTAGE 로컬 라이브 보드' 부산 공연 TEASER (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/28646987</link>
+            <guid>https://tv.naver.com/v/28646987</guid>
+            <pubDate>Thu, 18 Aug 2022 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_142/TveJf_166081162275256vA6_JPEG/3e02b920-1ed0-11ed-a7c3-d4f5ef58ad5e_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Moon Kyoo_Ten Birds (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/28590528</link>
             <guid>https://tv.naver.com/v/28590528</guid>
@@ -472,14 +480,6 @@
             <pubDate>Thu, 23 Jun 2022 03:05:36 GMT</pubDate>
             <content:encoded><![CDATA[4:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220622_284/SbpZy_1655885465899O5aRc_JPEG/8158f5cf-f202-11ec-9fa8-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Y2K92_Queen TanTan + Uainrealli Remix (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/27496782</link>
-            <guid>https://tv.naver.com/v/27496782</guid>
-            <pubDate>Thu, 23 Jun 2022 03:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_256/ed8Uz_16558852986551BvAD_JPEG/4b47dd23-f202-11ec-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

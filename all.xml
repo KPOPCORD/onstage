@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 22:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 23:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,6 @@
             <link>https://vibe.naver.com/onstage/season/2/article/13601</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/13601</guid>
             <pubDate>Wed, 16 Nov 2022 18:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 강아솔과 함께 숲속 원테이크 콘서트를 열었습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[바닷바위의 노래, 해파 (VIBE ─ 온스테이지)]]></title>

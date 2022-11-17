@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 01:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 02:50:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최백호_낭만에 대하여]]></title>
+            <link>https://tv.naver.com/v/30819922</link>
+            <guid>https://tv.naver.com/v/30819922</guid>
+            <pubDate>Thu, 17 Nov 2022 02:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_265/QsO4F_1668586870449biIpq_JPEG/2b17702d-6587-11ed-9f92-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최백호_내 마음 갈 곳을 잃어]]></title>
+            <link>https://tv.naver.com/v/30819880</link>
+            <guid>https://tv.naver.com/v/30819880</guid>
+            <pubDate>Thu, 17 Nov 2022 02:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_282/vzvUQ_16685867976150rf64_JPEG/2764a15a-6587-11ed-9f92-48df379cc9e4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최백호_책]]></title>
+            <link>https://tv.naver.com/v/30819865</link>
+            <guid>https://tv.naver.com/v/30819865</guid>
+            <pubDate>Thu, 17 Nov 2022 02:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_66/l67yo_1668586768020M49bl_JPEG/24335e98-6587-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[온스테이지 원테이크 콘서트] #1 강아솔_아무말도 더 하지않고, 섬, 아름다웠지 우리 외]]></title>
             <link>https://tv.naver.com/v/30615946</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[4:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_81/AGsYf_1662521254021XyTXe_JPEG/c68961e7-2e5a-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김새녘_FLOOR FLOWER]]></title>
-            <link>https://tv.naver.com/v/29067184</link>
-            <guid>https://tv.naver.com/v/29067184</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_169/Zhs0P_1662520278348mVntY_JPEG/2cafd0d2-2e59-11ed-b25c-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김새녘_알람]]></title>
-            <link>https://tv.naver.com/v/29066881</link>
-            <guid>https://tv.naver.com/v/29066881</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[6:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_4/YQCy1_16625195872605aLX5_JPEG/b106c7e9-2e56-11ed-a14d-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[unofficialboyy_그물,덫,발사대기,포획]]></title>
-            <link>https://tv.naver.com/v/28901868</link>
-            <guid>https://tv.naver.com/v/28901868</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220830_215/OCecI_1661849335312QThRc_JPEG/6cea0f24-2840-11ed-8d11-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

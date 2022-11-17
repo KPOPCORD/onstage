@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 20:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 21:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,6 @@
             <link>https://vibe.naver.com/onstage/season/2/article/13621</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/13621</guid>
             <pubDate>Thu, 17 Nov 2022 20:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[삶의 모든 순간을 노래하는 가수, 최백호를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고요함이 주는 위로, 강아솔 (VIBE ─ 온스테이지)]]></title>

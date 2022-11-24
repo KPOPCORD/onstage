@@ -4,9 +4,17 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 00:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 02:31:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[온스테이지 원테이크 콘서트] #2 김오키_코타르 증후군, 눈부시게 빛나는]]></title>
+            <link>https://tv.naver.com/v/31013807</link>
+            <guid>https://tv.naver.com/v/31013807</guid>
+            <pubDate>Thu, 24 Nov 2022 02:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[22:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_71/vHmdW_16691827672596KTyS_JPEG/f3abd289-6af1-11ed-bdf3-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최백호_낭만에 대하여]]></title>
             <link>https://tv.naver.com/v/30819922</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[44:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220914_283/Q99Xb_16631305782943Wfzn_JPEG/b4242bf8-33e5-11ed-8613-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김새녘_싫증]]></title>
-            <link>https://tv.naver.com/v/29067483</link>
-            <guid>https://tv.naver.com/v/29067483</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_81/AGsYf_1662521254021XyTXe_JPEG/c68961e7-2e5a-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

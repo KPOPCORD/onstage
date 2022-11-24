@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 00:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 02:31:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Wed, 23 Nov 2022 22:11:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[낭만의 찰나, 최백호 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13621</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13621</guid>
+            <pubDate>Thu, 24 Nov 2022 02:30:42 GMT</pubDate>
+            <content:encoded><![CDATA[삶의 모든 순간을 노래하는 가수, 최백호를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고요함이 주는 위로, 강아솔 (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +96,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/13421</guid>
             <pubDate>Thu, 08 Sep 2022 04:03:20 GMT</pubDate>
             <content:encoded><![CDATA[할 수 있는 건 다 해내는 래퍼, 언오피셜보이를 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바다를 건넌 블루스의 도전, Richiman & Groove Nice (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13401</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13401</guid>
-            <pubDate>Thu, 01 Sep 2022 04:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[기술보다 흥으로 멤피스를 제패한 블루스 밴드, 리치맨과그루브나이스를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[로스(Los)_Intro + LA 2 Korea (ONSTAGE (온스테이지))]]></title>
@@ -239,6 +239,14 @@
             <guid>https://www.vlive.tv/post/1-30059460</guid>
             <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[온스테이지 원테이크 콘서트] #2 김오키_코타르 증후군, 눈부시게 빛나는 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/31013807</link>
+            <guid>https://tv.naver.com/v/31013807</guid>
+            <pubDate>Thu, 24 Nov 2022 02:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[22:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_71/vHmdW_16691827672596KTyS_JPEG/f3abd289-6af1-11ed-bdf3-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최백호_낭만에 대하여 (ONSTAGE (온스테이지))]]></title>
@@ -471,14 +479,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[44:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220914_283/Q99Xb_16631305782943Wfzn_JPEG/b4242bf8-33e5-11ed-8613-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김새녘_싫증 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/29067483</link>
-            <guid>https://tv.naver.com/v/29067483</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_81/AGsYf_1662521254021XyTXe_JPEG/c68961e7-2e5a-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

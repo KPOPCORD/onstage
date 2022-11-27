@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 22:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 23:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,6 @@
             <link>https://vibe.naver.com/onstage/season/2/article/13641</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/13641</guid>
             <pubDate>Sun, 27 Nov 2022 20:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[새소리가 함께하는 색소포니스트 김오키의 원테이크 콘서트입니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[낭만의 찰나, 최백호 (VIBE ─ 온스테이지)]]></title>

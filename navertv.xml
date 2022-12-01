@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 23:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 01:01:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[튜즈데이 비치 클럽_LOBSTER KING]]></title>
+            <link>https://tv.naver.com/v/31218773</link>
+            <guid>https://tv.naver.com/v/31218773</guid>
+            <pubDate>Thu, 01 Dec 2022 01:01:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_76/ICeaH_16697996261678BUT9_JPEG/f2572de7-708e-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[튜즈데이 비치 클럽_Sunset]]></title>
+            <link>https://tv.naver.com/v/31218739</link>
+            <guid>https://tv.naver.com/v/31218739</guid>
+            <pubDate>Thu, 01 Dec 2022 01:01:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_297/QVuq3_16697995820966c0eX_JPEG/f9ae258a-708e-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[튜즈데이 비치 클럽_O!]]></title>
+            <link>https://tv.naver.com/v/31218779</link>
+            <guid>https://tv.naver.com/v/31218779</guid>
+            <pubDate>Thu, 01 Dec 2022 01:01:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_129/7yjzQ_1669799632156gucS4_JPEG/01eeb9de-708f-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[온스테이지 원테이크 콘서트] #2 김오키_코타르 증후군, 눈부시게 빛나는]]></title>
             <link>https://tv.naver.com/v/31013807</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[25:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220914_249/0v0aG_1663130678692wy2WG_JPEG/a8e3c4b2-33e5-11ed-a14d-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 온스테이지 로컬 라이브 보드] 장풍파랑 051 - 더 바스타즈]]></title>
-            <link>https://tv.naver.com/v/29186999</link>
-            <guid>https://tv.naver.com/v/29186999</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[28:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_131/Xvruq_16631305827876MEFl_JPEG/d2985830-33e5-11ed-8892-505dac8c35ff_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 온스테이지 로컬 라이브 보드] 장풍파랑 051 - 하퍼스]]></title>
-            <link>https://tv.naver.com/v/29186998</link>
-            <guid>https://tv.naver.com/v/29186998</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[23:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_73/R1EW4_1663130580629lEcCf_JPEG/c6d1f803-33e5-11ed-bbda-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 온스테이지 로컬 라이브 보드] 장풍파랑 051 - 세이수미]]></title>
-            <link>https://tv.naver.com/v/29186997</link>
-            <guid>https://tv.naver.com/v/29186997</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[44:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_283/Q99Xb_16631305782943Wfzn_JPEG/b4242bf8-33e5-11ed-8613-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

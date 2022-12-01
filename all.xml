@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 10:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 11:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,6 +242,14 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2022 크리스마스] 온스테이지x바이브 캐럴 리메이크 프로젝트 공개 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/31256436</link>
+            <guid>https://tv.naver.com/v/31256436</guid>
+            <pubDate>Thu, 01 Dec 2022 11:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_203/1VjNT_1669891409333uIr2z_JPEG/cbefc584-7164-11ed-a645-505dacfbaa5c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 Christmas ONSTAGE – 강지원 (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/31246205</link>
             <guid>https://tv.naver.com/v/31246205</guid>
@@ -472,14 +480,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[7:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220928_185/3ski2_166435143774803FkU_JPEG/95cb76e8-3f01-11ed-999c-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야마가타 트윅스터_후쿠시마러버 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/29527748</link>
-            <guid>https://tv.naver.com/v/29527748</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[5:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220928_264/vj8sB_1664351367900EhGLL_JPEG/8a5e81cd-3f01-11ed-999c-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

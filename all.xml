@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 00:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 02:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13681</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13681</guid>
+            <pubDate>Thu, 08 Dec 2022 02:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[혼란한 시대, 악하고 강한 치킨 헤드의 펑크록 밴드, 럼킥스를 소개합니다.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[적막한 해변의 낮잠과 꿈, Tuesday Beach Club (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/season/2/article/13661</link>
@@ -90,13 +97,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/13461</guid>
             <pubDate>Thu, 15 Sep 2022 07:26:16 GMT</pubDate>
             <content:encoded><![CDATA[- 정통 웨스트코스트 힙합을 들려주는 LA 출신 래퍼 로스를 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[은은하게 빛나는 진중한 목소리, 김새녘 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13441</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13441</guid>
-            <pubDate>Thu, 15 Sep 2022 07:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[‘싫증’으로 주목받는 신인으로 떠오른 싱어송라이터, 김새녘을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[로스(Los)_Intro + LA 2 Korea (ONSTAGE (온스테이지))]]></title>
@@ -240,6 +240,30 @@
             <guid>https://www.vlive.tv/post/1-30059460</guid>
             <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[럼킥스(RUMKICKS)_Don't Touch My Head (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/31434579</link>
+            <guid>https://tv.naver.com/v/31434579</guid>
+            <pubDate>Thu, 08 Dec 2022 02:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_171/y6M8r_1670464633662LSGuo_JPEG/14a32d12-769b-11ed-bdf3-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럼킥스(RUMKICKS)_PUNK is nowhere (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/31434577</link>
+            <guid>https://tv.naver.com/v/31434577</guid>
+            <pubDate>Thu, 08 Dec 2022 02:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_60/LTdiL_1670464630917Gorfm_JPEG/0dd7faae-769b-11ed-bdf3-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럼킥스(RUMKICKS)_Punk rocker (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/31434538</link>
+            <guid>https://tv.naver.com/v/31434538</guid>
+            <pubDate>Thu, 08 Dec 2022 02:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_37/p99s8_1670464558409FMLSz_JPEG/05f1e26b-769b-11ed-bdf3-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온스테이지 로컬 라이브 보드 (ONSTAGE (온스테이지))]]></title>
@@ -456,30 +480,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221012_62/LwxRw_1665557766066ifWv3_JPEG/5a1fabb8-49fa-11ed-b25c-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남유선_New Morning (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/29683432</link>
-            <guid>https://tv.naver.com/v/29683432</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_66/DCjEO_1664941812897nOrUL_JPEG/c2bf5762-4452-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남유선_Moon (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/29683421</link>
-            <guid>https://tv.naver.com/v/29683421</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_17/9xNqc_1664941783930iKuuz_JPEG/9ec2645a-4452-11ed-b6e8-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남유선_Corinthians 1614 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/29683406</link>
-            <guid>https://tv.naver.com/v/29683406</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[5:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_57/bmt8E_1664941753729HONzv_JPEG/711742a0-4452-11ed-aa59-d4f5ef58ac88_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

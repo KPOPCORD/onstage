@@ -4,9 +4,17 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 05:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 06:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로컬라이브 보드_무등호락 062 티져]]></title>
+            <link>https://tv.naver.com/v/31474974</link>
+            <guid>https://tv.naver.com/v/31474974</guid>
+            <pubDate>Fri, 09 Dec 2022 06:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_67/ukHG0_1670565708106KiL8x_JPEG/182cde84-7786-11ed-bcd3-48df379cca40_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[럼킥스(RUMKICKS)_Don't Touch My Head]]></title>
             <link>https://tv.naver.com/v/31434579</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221012_280/QtMAS_16655577929414NWqg_JPEG/6053590d-49fa-11ed-b25c-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blase (블라세)_BIG MAC (feat. Chillin Homie)]]></title>
-            <link>https://tv.naver.com/v/29863669</link>
-            <guid>https://tv.naver.com/v/29863669</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_62/LwxRw_1665557766066ifWv3_JPEG/5a1fabb8-49fa-11ed-b25c-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

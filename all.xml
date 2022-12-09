@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 06:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 07:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,12 +242,12 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[로컬라이브 보드_무등호락 062 티져 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/31474974</link>
-            <guid>https://tv.naver.com/v/31474974</guid>
-            <pubDate>Fri, 09 Dec 2022 06:14:05 GMT</pubDate>
+            <title><![CDATA[네이버 온스테이지 로컬 라이브 보드_무등호락 062 Teaser (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/31477316</link>
+            <guid>https://tv.naver.com/v/31477316</guid>
+            <pubDate>Fri, 09 Dec 2022 07:11:15 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_67/ukHG0_1670565708106KiL8x_JPEG/182cde84-7786-11ed-bcd3-48df379cca40_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_249/KPLRS_16705691350067RkjK_JPEG/97e63040-778e-11ed-b0f2-d4f5ef58ad5e_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[럼킥스(RUMKICKS)_Don't Touch My Head (ONSTAGE (온스테이지))]]></title>

@@ -4,15 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 03:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 04:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2022 Christmas ONSTAGE (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13702</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13702</guid>
-            <pubDate>Tue, 20 Dec 2022 03:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[온스테이지 뮤지션과 함께한 라이브 무대 즐겨보세요!]]></content:encoded>
+            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
+            <pubDate>Tue, 20 Dec 2022 04:12:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[복태와한군에서 선과영으로 (VIBE ─ 온스테이지)]]></title>
@@ -240,6 +239,14 @@
             <guid>https://www.vlive.tv/post/1-30059460</guid>
             <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[온스테이지 로컬 라이브 보드] 대구 - ORIGIN ALIVE 053 Teaser (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/31748208</link>
+            <guid>https://tv.naver.com/v/31748208</guid>
+            <pubDate>Tue, 20 Dec 2022 04:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_162/wyHVq_1671509310441rdHBh_JPEG/b549d407-801b-11ed-a64d-a0369ffb3c64_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선과영_슬픔의 자리 (ONSTAGE (온스테이지))]]></title>
@@ -472,14 +479,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221020_33/ebnZy_1666232544151sU9Nu_JPEG/f24a42c7-501d-11ed-9aa2-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김푸름_꺼벙이 안경 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/30061537</link>
-            <guid>https://tv.naver.com/v/30061537</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[5:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221019_216/nzfJj_1666174609521l1DIY_JPEG/ef3e2763-4f96-11ed-b41c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

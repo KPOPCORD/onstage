@@ -4,9 +4,17 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 03:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 04:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[온스테이지 로컬 라이브 보드] 대구 - ORIGIN ALIVE 053 Teaser]]></title>
+            <link>https://tv.naver.com/v/31748208</link>
+            <guid>https://tv.naver.com/v/31748208</guid>
+            <pubDate>Tue, 20 Dec 2022 04:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_162/wyHVq_1671509310441rdHBh_JPEG/b549d407-801b-11ed-a64d-a0369ffb3c64_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선과영_슬픔의 자리]]></title>
             <link>https://tv.naver.com/v/31608365</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221020_33/ebnZy_1666232544151sU9Nu_JPEG/f24a42c7-501d-11ed-9aa2-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김푸름_꺼벙이 안경]]></title>
-            <link>https://tv.naver.com/v/30061537</link>
-            <guid>https://tv.naver.com/v/30061537</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[5:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221019_216/nzfJj_1666174609521l1DIY_JPEG/ef3e2763-4f96-11ed-b41c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 10:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 11:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -241,6 +241,14 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[온스테이지 원테이크 콘서트] #3 하헌진_오 나의 야옹아 넌 날 너무 슬프게 해 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/31792218</link>
+            <guid>https://tv.naver.com/v/31792218</guid>
+            <pubDate>Wed, 21 Dec 2022 11:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[26:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_283/AUyVA_1671618217429H99Rl_JPEG/d566059c-8116-11ed-b2ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[온스테이지 로컬 라이브 보드] 대구 - ORIGIN ALIVE 053 Teaser (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/31748208</link>
             <guid>https://tv.naver.com/v/31748208</guid>
@@ -471,14 +479,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221027_124/raFSV_1666841779216SY31o_JPEG/483d596d-55a8-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김푸름_꿈이었기에 더 슬펐던 꿈 (feat. 채욱진 of basecamp) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/30078195</link>
-            <guid>https://tv.naver.com/v/30078195</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_33/ebnZy_1666232544151sU9Nu_JPEG/f24a42c7-501d-11ed-9aa2-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 00:50:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 02:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2022 Christmas ONSTAGE (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13702</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13702</guid>
-            <pubDate>Thu, 22 Dec 2022 00:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[온스테이지 뮤지션과 함께한 라이브 무대 즐겨보세요!]]></content:encoded>
+            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
+            <pubDate>Thu, 22 Dec 2022 02:08:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[복태와한군에서 선과영으로 (VIBE ─ 온스테이지)]]></title>

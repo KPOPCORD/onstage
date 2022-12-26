@@ -4,9 +4,17 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 09:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 10:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[온스테이지 로컬 라이브 보드] 인천 - RE:BOOT 032 Teaser]]></title>
+            <link>https://tv.naver.com/v/31901598</link>
+            <guid>https://tv.naver.com/v/31901598</guid>
+            <pubDate>Mon, 26 Dec 2022 10:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_300/5HW9N_1672049212913KuNxk_JPEG/1672049208919.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[온스테이지 원테이크 콘서트] #3 하헌진_오 나의 야옹아 넌 날 너무 슬프게 해]]></title>
             <link>https://tv.naver.com/v/31792218</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221027_200/luZQ5_16668417955453C3gU_JPEG/430ceb45-55a8-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해파_I’m Finally a Ghost]]></title>
-            <link>https://tv.naver.com/v/30273323</link>
-            <guid>https://tv.naver.com/v/30273323</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_124/raFSV_1666841779216SY31o_JPEG/483d596d-55a8-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

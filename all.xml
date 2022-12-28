@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 06:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 07:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -361,14 +361,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221201_210/Jajnw_1669874102045w6wTF_JPEG/8879bffc-713c-11ed-bf7a-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 Christmas ONSTAGE – Colde (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/31245983</link>
-            <guid>https://tv.naver.com/v/31245983</guid>
-            <pubDate>Thu, 01 Dec 2022 08:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_4/O3ReC_16698739693760ehfe_JPEG/3c28da00-713c-11ed-9ff0-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 Christmas ONSTAGE – 선우정아 (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/31245902</link>
             <guid>https://tv.naver.com/v/31245902</guid>
@@ -479,6 +471,14 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221027_200/luZQ5_16668417955453C3gU_JPEG/430ceb45-55a8-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해파_I’m Finally a Ghost (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/30273323</link>
+            <guid>https://tv.naver.com/v/30273323</guid>
+            <pubDate>Wed, 28 Dec 2022 07:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_124/raFSV_1666841779216SY31o_JPEG/483d596d-55a8-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

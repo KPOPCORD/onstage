@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 00:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 02:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -241,6 +241,14 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Livigesh_Dr. Groove (feat. Airy) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/31954309</link>
+            <guid>https://tv.naver.com/v/31954309</guid>
+            <pubDate>Thu, 29 Dec 2022 02:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[4:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_72/w2jNt_1672214519610m7pQv_JPEG/d3ddf2b4-867f-11ed-9a3c-a0369ffdb988_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[온스테이지 로컬 라이브 보드] 인천 - RE:BOOT 032 Teaser (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/31901598</link>
             <guid>https://tv.naver.com/v/31901598</guid>
@@ -471,14 +479,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221027_200/luZQ5_16668417955453C3gU_JPEG/430ceb45-55a8-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해파_I’m Finally a Ghost (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/30273323</link>
-            <guid>https://tv.naver.com/v/30273323</guid>
-            <pubDate>Wed, 28 Dec 2022 07:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_124/raFSV_1666841779216SY31o_JPEG/483d596d-55a8-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

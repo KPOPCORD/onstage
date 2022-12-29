@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 02:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 03:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Wed, 28 Dec 2022 19:08:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[중요한 건 꺾이지 않는 블루스, 하헌진 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13721</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13721</guid>
+            <pubDate>Thu, 29 Dec 2022 03:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[델타 블루스를 사랑하던 청년에서 사연 많은 블루스맨으로 성장한 싱어송라이터, 하헌진을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 Christmas ONSTAGE (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +96,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/13521</guid>
             <pubDate>Wed, 12 Oct 2022 23:15:23 GMT</pubDate>
             <content:encoded><![CDATA[색소폰과 신시사이저가 만났을 때, 재즈 아티스트 남유선을 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[그곳엔 언제나 그가 있다 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13501</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13501</guid>
-            <pubDate>Thu, 06 Oct 2022 01:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[온몸으로 노래하며 지금을 사는, 민중 엔터테이너 야마가타 트윅스터를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[로스(Los)_Intro + LA 2 Korea (ONSTAGE (온스테이지))]]></title>
@@ -247,6 +247,22 @@
             <pubDate>Thu, 29 Dec 2022 02:10:45 GMT</pubDate>
             <content:encoded><![CDATA[4:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221228_72/w2jNt_1672214519610m7pQv_JPEG/d3ddf2b4-867f-11ed-9a3c-a0369ffdb988_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Livigesh_Fighting My Shadow (feat. Jeongjeon) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/31954295</link>
+            <guid>https://tv.naver.com/v/31954295</guid>
+            <pubDate>Thu, 29 Dec 2022 03:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_269/sKdQ2_1672214497375chckT_JPEG/b1ce81a7-8680-11ed-9cc6-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Livigesh_Mountain Air (feat. Gillee) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/31954281</link>
+            <guid>https://tv.naver.com/v/31954281</guid>
+            <pubDate>Thu, 29 Dec 2022 03:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[4:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_48/mY9Qx_1672214479682BUTAW_JPEG/665b2b4a-8680-11ed-9231-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[온스테이지 로컬 라이브 보드] 인천 - RE:BOOT 032 Teaser (ONSTAGE (온스테이지))]]></title>
@@ -463,22 +479,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
             <content:encoded><![CDATA[19:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221109_189/JXvBF_1667992648254dRgS9_JPEG/3b2c76f0-5ff1-11ed-a7c3-d4f5ef58ad5e_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해파_모르겠어요 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/30273341</link>
-            <guid>https://tv.naver.com/v/30273341</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_134/W6FOO_1666841807401y9jDi_JPEG/3f5b7bfe-55a8-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해파_커다란 망치 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/30273332</link>
-            <guid>https://tv.naver.com/v/30273332</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_200/luZQ5_16668417955453C3gU_JPEG/430ceb45-55a8-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

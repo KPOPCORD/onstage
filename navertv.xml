@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 00:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 02:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hookuo(후쿠오)_New thing (Feat. Jue)]]></title>
+            <link>https://tv.naver.com/v/32120433</link>
+            <guid>https://tv.naver.com/v/32120433</guid>
+            <pubDate>Thu, 05 Jan 2023 02:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_2/jn25L_1672828526854bAlvh_JPEG/a0917983-8c1a-11ed-b2ec-48df37ae3fca_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hookuo(후쿠오)_Cosmic Racer]]></title>
+            <link>https://tv.naver.com/v/32120425</link>
+            <guid>https://tv.naver.com/v/32120425</guid>
+            <pubDate>Thu, 05 Jan 2023 02:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_238/9t3gW_1672828370569IHr15_JPEG/4b9a5fea-8c1a-11ed-85c6-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hookuo(후쿠오)_미소예찬 (with. Jue)]]></title>
+            <link>https://tv.naver.com/v/32120412</link>
+            <guid>https://tv.naver.com/v/32120412</guid>
+            <pubDate>Thu, 05 Jan 2023 02:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_152/vviO8_1672828336281yLTFA_JPEG/0f1b77ff-8c1a-11ed-9231-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Livigesh_Dr. Groove (feat. Airy)]]></title>
             <link>https://tv.naver.com/v/31954309</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 17 Nov 2022 02:50:00 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221116_265/QsO4F_1668586870449biIpq_JPEG/2b17702d-6587-11ed-9f92-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최백호_내 마음 갈 곳을 잃어]]></title>
-            <link>https://tv.naver.com/v/30819880</link>
-            <guid>https://tv.naver.com/v/30819880</guid>
-            <pubDate>Thu, 17 Nov 2022 02:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_282/vzvUQ_16685867976150rf64_JPEG/2764a15a-6587-11ed-9f92-48df379cc9e4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최백호_책]]></title>
-            <link>https://tv.naver.com/v/30819865</link>
-            <guid>https://tv.naver.com/v/30819865</guid>
-            <pubDate>Thu, 17 Nov 2022 02:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_66/l67yo_1668586768020M49bl_JPEG/24335e98-6587-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지 원테이크 콘서트] #1 강아솔_아무말도 더 하지않고, 섬, 아름다웠지 우리 외]]></title>
-            <link>https://tv.naver.com/v/30615946</link>
-            <guid>https://tv.naver.com/v/30615946</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[19:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221109_189/JXvBF_1667992648254dRgS9_JPEG/3b2c76f0-5ff1-11ed-a7c3-d4f5ef58ad5e_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

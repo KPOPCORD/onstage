@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 10:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 11:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,78 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/13541</guid>
             <pubDate>Thu, 20 Oct 2022 03:59:54 GMT</pubDate>
             <content:encoded><![CDATA[드릴을 중심으로 다양한 UK 계열 장르음악을 제안하는 래퍼, 블라세를 소개합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우물안 개구리_연차 좀 씁시다 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/32303044</link>
+            <guid>https://tv.naver.com/v/32303044</guid>
+            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_27/7ws8H_1673432308003401kb_JPEG/640467d0-9198-11ed-85c6-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hon'z_별(Star) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/32303037</link>
+            <guid>https://tv.naver.com/v/32303037</guid>
+            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_9/TwElO_1673432298626F8ewQ_JPEG/867bf332-9198-11ed-97c6-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하퍼스_스근하게 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/32303030</link>
+            <guid>https://tv.naver.com/v/32303030</guid>
+            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_50/FN0ko_1673432289509cVxsa_JPEG/878c2ab4-9198-11ed-97c6-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BADLAMB_Love, Lies, Bleeding (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/32303028</link>
+            <guid>https://tv.naver.com/v/32303028</guid>
+            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[6:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_125/KVf7o_1673432282408pNkeI_JPEG/923e349b-9198-11ed-a307-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hammering_Libera Me (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/32303026</link>
+            <guid>https://tv.naver.com/v/32303026</guid>
+            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[7:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_201/hOV33_1673432279274pKosI_JPEG/b53d670b-9198-11ed-8683-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TheTunas_Luna, Dance Floor_Final (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/32303023</link>
+            <guid>https://tv.naver.com/v/32303023</guid>
+            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_34/iMFdO_1673432274235KCjA1_JPEG/bbcf39ec-9198-11ed-8683-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Vastards_Take me out, tonight (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/32303019</link>
+            <guid>https://tv.naver.com/v/32303019</guid>
+            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_285/4ioZb_1673432268222zj1NE_JPEG/9b25b753-9198-11ed-a307-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이글루(igloo)_우리는 빛으로 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/32303015</link>
+            <guid>https://tv.naver.com/v/32303015</guid>
+            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_243/Y5Zje_1673432263071zMGj5_JPEG/7a72e5cf-9198-11ed-9231-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼플웨일 _ 마음은 왜 움직이는 걸까? (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/32303014</link>
+            <guid>https://tv.naver.com/v/32303014</guid>
+            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[5:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_133/18Xhh_16734322578308A6VB_JPEG/6fcbd8f2-9198-11ed-85c6-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[온스테이지 로컬 라이브 보드 In 부산] 하퍼스_스근하게 (ONSTAGE (온스테이지))]]></title>
@@ -264,78 +336,6 @@
             <pubDate>Thu, 01 Dec 2022 08:16:28 GMT</pubDate>
             <content:encoded><![CDATA[5:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221201_120/1Y7Im_1669874199470nXOzM_JPEG/cdc80f15-713c-11ed-ac76-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Christmas ONSTAGE – 까데호 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/31246102</link>
-            <guid>https://tv.naver.com/v/31246102</guid>
-            <pubDate>Thu, 01 Dec 2022 08:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_210/Jajnw_1669874102045w6wTF_JPEG/8879bffc-713c-11ed-bf7a-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Christmas ONSTAGE – 선우정아 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/31245902</link>
-            <guid>https://tv.naver.com/v/31245902</guid>
-            <pubDate>Thu, 01 Dec 2022 08:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_4/96vfz_16698738640975JzIo_JPEG/fda93ffe-713b-11ed-a6e4-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Christmas ONSTAGE – pH-1,SUMIN (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/31245791</link>
-            <guid>https://tv.naver.com/v/31245791</guid>
-            <pubDate>Thu, 01 Dec 2022 08:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_179/OpjXj_1669873704005IC884_JPEG/801df747-713b-11ed-bdf3-d4f5ef5906a4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Christmas ONSTAGE – 허윤진 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/31245589</link>
-            <guid>https://tv.naver.com/v/31245589</guid>
-            <pubDate>Thu, 01 Dec 2022 08:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_166/PVsOx_1669873393841H4Pgh_JPEG/54593e80-713a-11ed-be03-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Christmas ONSTAGE - 이수현 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/31245350</link>
-            <guid>https://tv.naver.com/v/31245350</guid>
-            <pubDate>Thu, 01 Dec 2022 08:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_193/hWKC7_1669875232863ThLmF_JPEG/b40224ab-7138-11ed-bdf3-d4f5ef5906a4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tuesday Beach Club_O! (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/31218779</link>
-            <guid>https://tv.naver.com/v/31218779</guid>
-            <pubDate>Thu, 01 Dec 2022 01:01:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_129/7yjzQ_1669799632156gucS4_JPEG/01eeb9de-708f-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tuesday Beach Club_LOBSTER KING (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/31218773</link>
-            <guid>https://tv.naver.com/v/31218773</guid>
-            <pubDate>Thu, 01 Dec 2022 01:01:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_76/ICeaH_16697996261678BUT9_JPEG/f2572de7-708e-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tuesday Beach Club_Sunset (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/31218739</link>
-            <guid>https://tv.naver.com/v/31218739</guid>
-            <pubDate>Thu, 01 Dec 2022 01:01:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_297/QVuq3_16697995820966c0eX_JPEG/f9ae258a-708e-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지 원테이크 콘서트] #2 김오키_코타르 증후군, 눈부시게 빛나는 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/31013807</link>
-            <guid>https://tv.naver.com/v/31013807</guid>
-            <pubDate>Thu, 24 Nov 2022 02:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[22:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_71/vHmdW_16691827672596KTyS_JPEG/f3abd289-6af1-11ed-bdf3-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

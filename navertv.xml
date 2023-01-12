@@ -4,7 +4,7 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 00:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 02:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,30 @@
             <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
             <content:encoded><![CDATA[5:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_133/18Xhh_16734322578308A6VB_JPEG/6fcbd8f2-9198-11ed-85c6-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숨비_아빠]]></title>
+            <link>https://tv.naver.com/v/32260831</link>
+            <guid>https://tv.naver.com/v/32260831</guid>
+            <pubDate>Thu, 12 Jan 2023 02:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_143/S74Fy_1673320101677pe5R8_JPEG/d194f0ce-9091-11ed-8dee-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숨비_WATER]]></title>
+            <link>https://tv.naver.com/v/32260828</link>
+            <guid>https://tv.naver.com/v/32260828</guid>
+            <pubDate>Thu, 12 Jan 2023 02:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_31/U5s2x_1673320098263ijFal_JPEG/cd4ee2ac-9091-11ed-8dee-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숨비_사랑은 영원하다]]></title>
+            <link>https://tv.naver.com/v/32260464</link>
+            <guid>https://tv.naver.com/v/32260464</guid>
+            <pubDate>Thu, 12 Jan 2023 02:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_95/zYawk_16733191970774eop9_JPEG/d5b43d0f-9091-11ed-8dee-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[온스테이지 로컬 라이브 보드 In 부산] 하퍼스_스근하게]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 01 Dec 2022 12:22:32 GMT</pubDate>
             <content:encoded><![CDATA[11:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221201_236/ym9H7_1669894467303G3u3r_JPEG/0332a27d-716c-11ed-93f8-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 크리스마스] 온스테이지x바이브 캐럴 리메이크 프로젝트 공개]]></title>
-            <link>https://tv.naver.com/v/31256436</link>
-            <guid>https://tv.naver.com/v/31256436</guid>
-            <pubDate>Thu, 01 Dec 2022 11:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_203/1VjNT_1669891409333uIr2z_JPEG/cbefc584-7164-11ed-a645-505dacfbaa5c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Christmas ONSTAGE – 강지원]]></title>
-            <link>https://tv.naver.com/v/31246205</link>
-            <guid>https://tv.naver.com/v/31246205</guid>
-            <pubDate>Thu, 01 Dec 2022 08:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_137/DmBuo_1669874262457IKKy9_JPEG/f645a866-713c-11ed-a94b-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Christmas ONSTAGE – 윤석철트리오]]></title>
-            <link>https://tv.naver.com/v/31246165</link>
-            <guid>https://tv.naver.com/v/31246165</guid>
-            <pubDate>Thu, 01 Dec 2022 08:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[5:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_120/1Y7Im_1669874199470nXOzM_JPEG/cdc80f15-713c-11ed-ac76-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 23:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 00:50:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,6 @@
             <link>https://vibe.naver.com/onstage/season/2/article/13781</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/13781</guid>
             <pubDate>Fri, 13 Jan 2023 23:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[다채로운 음악의 스펙트럼을 하나의 숨결로 꿰어내는 싱어송라이터 숨비를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마음 가는 대로, 후쿠오 (VIBE ─ 온스테이지)]]></title>

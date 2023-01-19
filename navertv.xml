@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 00:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 02:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장들레_가족들에게]]></title>
+            <link>https://tv.naver.com/v/32462898</link>
+            <guid>https://tv.naver.com/v/32462898</guid>
+            <pubDate>Thu, 19 Jan 2023 02:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_257/CLaT6_1674004678000Hpx3e_JPEG/a77507b7-96cd-11ed-9590-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장들레_모르겠어요]]></title>
+            <link>https://tv.naver.com/v/32462896</link>
+            <guid>https://tv.naver.com/v/32462896</guid>
+            <pubDate>Thu, 19 Jan 2023 02:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_253/9p9Gy_1674004674804Az4J6_JPEG/b5255c26-96cd-11ed-9dc8-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장들레_사랑하고 싶어]]></title>
+            <link>https://tv.naver.com/v/32462894</link>
+            <guid>https://tv.naver.com/v/32462894</guid>
+            <pubDate>Thu, 19 Jan 2023 02:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_275/YMpjH_1674004671275xEFBr_JPEG/ab9f9e99-96cd-11ed-9590-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우물안 개구리_연차 좀 씁시다]]></title>
             <link>https://tv.naver.com/v/32303044</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 08 Dec 2022 02:18:00 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_171/y6M8r_1670464633662LSGuo_JPEG/14a32d12-769b-11ed-bdf3-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럼킥스(RUMKICKS)_PUNK is nowhere]]></title>
-            <link>https://tv.naver.com/v/31434577</link>
-            <guid>https://tv.naver.com/v/31434577</guid>
-            <pubDate>Thu, 08 Dec 2022 02:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_60/LTdiL_1670464630917Gorfm_JPEG/0dd7faae-769b-11ed-bdf3-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럼킥스(RUMKICKS)_Punk rocker]]></title>
-            <link>https://tv.naver.com/v/31434538</link>
-            <guid>https://tv.naver.com/v/31434538</guid>
-            <pubDate>Thu, 08 Dec 2022 02:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_37/p99s8_1670464558409FMLSz_JPEG/05f1e26b-769b-11ed-bdf3-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온스테이지 로컬 라이브 보드]]></title>
-            <link>https://tv.naver.com/v/31257803</link>
-            <guid>https://tv.naver.com/v/31257803</guid>
-            <pubDate>Thu, 01 Dec 2022 12:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[11:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_236/ym9H7_1669894467303G3u3r_JPEG/0332a27d-716c-11ed-93f8-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

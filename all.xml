@@ -4,14 +4,21 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 06:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 07:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
+            <pubDate>Thu, 26 Jan 2023 07:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[피아노 앞의 짝사랑 전문가 (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/season/2/article/13801</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/13801</guid>
             <pubDate>Thu, 26 Jan 2023 06:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[해맑은 목소리로 삶과 사랑의 고민을 노래하는 싱어송라이터, 장들레를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[다양한 색으로 굴절한 한 줌의 호흡, 숨비 (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +96,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/13601</guid>
             <pubDate>Wed, 16 Nov 2022 18:19:34 GMT</pubDate>
             <content:encoded><![CDATA[싱어송라이터 강아솔과 함께 숲속 원테이크 콘서트를 열었습니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바닷바위의 노래, 해파 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13581</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13581</guid>
-            <pubDate>Thu, 10 Nov 2022 04:34:40 GMT</pubDate>
-            <content:encoded><![CDATA[첫 헤엄을 배우듯 음악과 세상의 파도를 헤쳐 나가는, 싱어송라이터 해파를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한로로_정류장 (ONSTAGE (온스테이지))]]></title>

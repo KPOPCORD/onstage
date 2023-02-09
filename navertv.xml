@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 00:52:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 02:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HYPNOSIS THERAPY_MEDUSA]]></title>
+            <link>https://tv.naver.com/v/32920169</link>
+            <guid>https://tv.naver.com/v/32920169</guid>
+            <pubDate>Thu, 09 Feb 2023 02:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_82/YYnO7_1675667125938zguX3_JPEG/23b02fa6-a5eb-11ed-9fa5-a0369ff83d3c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HYPNOSIS THERAPY_+82]]></title>
+            <link>https://tv.naver.com/v/32920066</link>
+            <guid>https://tv.naver.com/v/32920066</guid>
+            <pubDate>Thu, 09 Feb 2023 02:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_277/8kFef_1675666942046mc2DR_JPEG/18f796ec-a5eb-11ed-88a0-a0369ff8413c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HYPNOSIS THERAPY_Daze]]></title>
+            <link>https://tv.naver.com/v/32920046</link>
+            <guid>https://tv.naver.com/v/32920046</guid>
+            <pubDate>Thu, 09 Feb 2023 02:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_292/VIkIy_1675666901501LtM2J_JPEG/0e8f8de4-a5eb-11ed-b269-a0369ff83be8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마리아 킴_Bitter with the Sweet]]></title>
             <link>https://tv.naver.com/v/32795363</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 29 Dec 2022 03:11:48 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221228_269/sKdQ2_1672214497375chckT_JPEG/b1ce81a7-8680-11ed-9cc6-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Livigesh_Mountain Air (feat. Gillee)]]></title>
-            <link>https://tv.naver.com/v/31954281</link>
-            <guid>https://tv.naver.com/v/31954281</guid>
-            <pubDate>Thu, 29 Dec 2022 03:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_48/mY9Qx_1672214479682BUTAW_JPEG/665b2b4a-8680-11ed-9231-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지 로컬 라이브 보드] 인천 - RE:BOOT 032 Teaser]]></title>
-            <link>https://tv.naver.com/v/31901598</link>
-            <guid>https://tv.naver.com/v/31901598</guid>
-            <pubDate>Mon, 26 Dec 2022 10:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_300/5HW9N_1672049212913KuNxk_JPEG/1672049208919.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지 원테이크 콘서트] #3 하헌진_오 나의 야옹아 넌 날 너무 슬프게 해]]></title>
-            <link>https://tv.naver.com/v/31792218</link>
-            <guid>https://tv.naver.com/v/31792218</guid>
-            <pubDate>Wed, 21 Dec 2022 11:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[26:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_283/AUyVA_1671618217429H99Rl_JPEG/d566059c-8116-11ed-b2ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

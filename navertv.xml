@@ -4,9 +4,17 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 00:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 02:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배현이(baehyuni)_ZOO]]></title>
+            <link>https://tv.naver.com/v/33123997</link>
+            <guid>https://tv.naver.com/v/33123997</guid>
+            <pubDate>Thu, 16 Feb 2023 02:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_87/o7CEd_1676370729045quta3_JPEG/c0bf94a3-ac52-11ed-a4a0-48df37e2c042_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HYPNOSIS THERAPY_MEDUSA]]></title>
             <link>https://tv.naver.com/v/32920169</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 29 Dec 2022 02:10:45 GMT</pubDate>
             <content:encoded><![CDATA[4:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221228_72/w2jNt_1672214519610m7pQv_JPEG/d3ddf2b4-867f-11ed-9a3c-a0369ffdb988_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Livigesh_Fighting My Shadow (feat. Jeongjeon)]]></title>
-            <link>https://tv.naver.com/v/31954295</link>
-            <guid>https://tv.naver.com/v/31954295</guid>
-            <pubDate>Thu, 29 Dec 2022 03:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_269/sKdQ2_1672214497375chckT_JPEG/b1ce81a7-8680-11ed-9cc6-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

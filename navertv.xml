@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 00:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 02:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매미(MEMI)_Hate U]]></title>
+            <link>https://tv.naver.com/v/33359476</link>
+            <guid>https://tv.naver.com/v/33359476</guid>
+            <pubDate>Thu, 23 Feb 2023 02:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_124/H9D7f_1677032907281VtWLV_JPEG/6f6ace58-b258-11ed-8994-a0369ff85c2c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매미(MEMI)_Guitar Pick]]></title>
+            <link>https://tv.naver.com/v/33359466</link>
+            <guid>https://tv.naver.com/v/33359466</guid>
+            <pubDate>Thu, 23 Feb 2023 02:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_129/ahLdU_16770328892529i0cv_JPEG/67af4887-b258-11ed-8994-a0369ff85c2c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매미(MEMI)_I Don't give a]]></title>
+            <link>https://tv.naver.com/v/33359487</link>
+            <guid>https://tv.naver.com/v/33359487</guid>
+            <pubDate>Thu, 23 Feb 2023 02:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_248/wccWp_1677032928215ME77K_JPEG/77b351ea-b258-11ed-8994-a0369ff85c2c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배현이(baehyuni)_ZOO]]></title>
             <link>https://tv.naver.com/v/33123997</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 12 Jan 2023 02:14:25 GMT</pubDate>
             <content:encoded><![CDATA[3:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230110_95/zYawk_16733191970774eop9_JPEG/d5b43d0f-9091-11ed-8dee-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지 로컬 라이브 보드 In 부산] 하퍼스_스근하게]]></title>
-            <link>https://tv.naver.com/v/32235698</link>
-            <guid>https://tv.naver.com/v/32235698</guid>
-            <pubDate>Mon, 09 Jan 2023 06:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_113/XiyUI_1673244302200IJJjf_JPEG/0314b494-8fe3-11ed-bda9-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hookuo(후쿠오)_New thing (Feat. Jue)]]></title>
-            <link>https://tv.naver.com/v/32120433</link>
-            <guid>https://tv.naver.com/v/32120433</guid>
-            <pubDate>Thu, 05 Jan 2023 02:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[4:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_2/jn25L_1672828526854bAlvh_JPEG/a0917983-8c1a-11ed-b2ec-48df37ae3fca_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hookuo(후쿠오)_Cosmic Racer]]></title>
-            <link>https://tv.naver.com/v/32120425</link>
-            <guid>https://tv.naver.com/v/32120425</guid>
-            <pubDate>Thu, 05 Jan 2023 02:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_238/9t3gW_1672828370569IHr15_JPEG/4b9a5fea-8c1a-11ed-85c6-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

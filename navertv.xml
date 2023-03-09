@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 00:57:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 02:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OUR AGE_Now (Just Another Day)]]></title>
+            <link>https://tv.naver.com/v/33765265</link>
+            <guid>https://tv.naver.com/v/33765265</guid>
+            <pubDate>Thu, 09 Mar 2023 02:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[5:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_180/taulL_16782464630152v8s7_JPEG/d8894cbc-bd60-11ed-befd-a0369ffab218_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OUR AGE_You Will Find]]></title>
+            <link>https://tv.naver.com/v/33765254</link>
+            <guid>https://tv.naver.com/v/33765254</guid>
+            <pubDate>Thu, 09 Mar 2023 02:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_157/Vh45S_1678246443169iMhnq_JPEG/a172363c-bd60-11ed-91a4-e4434b367960_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OUR AGE_Forgot]]></title>
+            <link>https://tv.naver.com/v/33765189</link>
+            <guid>https://tv.naver.com/v/33765189</guid>
+            <pubDate>Thu, 09 Mar 2023 02:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_89/Ta4hF_1678246293501ROX0D_JPEG/740b979e-bd60-11ed-9cfe-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[oceanfromtheblue_슈퍼마리오 (Super Mario)]]></title>
             <link>https://tv.naver.com/v/33532909</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
             <content:encoded><![CDATA[4:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_34/iMFdO_1673432274235KCjA1_JPEG/bbcf39ec-9198-11ed-8683-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Vastards_Take me out, tonight]]></title>
-            <link>https://tv.naver.com/v/32303019</link>
-            <guid>https://tv.naver.com/v/32303019</guid>
-            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_285/4ioZb_1673432268222zj1NE_JPEG/9b25b753-9198-11ed-a307-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이글루(igloo)_우리는 빛으로]]></title>
-            <link>https://tv.naver.com/v/32303015</link>
-            <guid>https://tv.naver.com/v/32303015</guid>
-            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_243/Y5Zje_1673432263071zMGj5_JPEG/7a72e5cf-9198-11ed-9231-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼플웨일 _ 마음은 왜 움직이는 걸까?]]></title>
-            <link>https://tv.naver.com/v/32303014</link>
-            <guid>https://tv.naver.com/v/32303014</guid>
-            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[5:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_133/18Xhh_16734322578308A6VB_JPEG/6fcbd8f2-9198-11ed-85c6-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 00:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 02:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Other Life_어떤 슬픔을 위한 노래]]></title>
+            <link>https://tv.naver.com/v/33991841</link>
+            <guid>https://tv.naver.com/v/33991841</guid>
+            <pubDate>Thu, 16 Mar 2023 02:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_177/0xfmv_1678853512396XKc4A_JPEG/f2d11aff-c2e6-11ed-b4cf-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Other Life_Goin' Home]]></title>
+            <link>https://tv.naver.com/v/33991723</link>
+            <guid>https://tv.naver.com/v/33991723</guid>
+            <pubDate>Thu, 16 Mar 2023 02:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_164/qCFjD_1678853290170D68EC_JPEG/8d00cdd4-c2e6-11ed-98ec-a0369ffdaefc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Other Life_Odd 3]]></title>
+            <link>https://tv.naver.com/v/33991615</link>
+            <guid>https://tv.naver.com/v/33991615</guid>
+            <pubDate>Thu, 16 Mar 2023 02:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[6:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_271/nGjUZ_1678853127183xzMq4_JPEG/145a4437-c2e6-11ed-bc06-a0369ffdb8e8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OUR AGE_Now (Just Another Day)]]></title>
             <link>https://tv.naver.com/v/33765265</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
             <content:encoded><![CDATA[2:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_50/FN0ko_1673432289509cVxsa_JPEG/878c2ab4-9198-11ed-97c6-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BADLAMB_Love, Lies, Bleeding]]></title>
-            <link>https://tv.naver.com/v/32303028</link>
-            <guid>https://tv.naver.com/v/32303028</guid>
-            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[6:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_125/KVf7o_1673432282408pNkeI_JPEG/923e349b-9198-11ed-a307-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hammering_Libera Me]]></title>
-            <link>https://tv.naver.com/v/32303026</link>
-            <guid>https://tv.naver.com/v/32303026</guid>
-            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[7:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_201/hOV33_1673432279274pKosI_JPEG/b53d670b-9198-11ed-8683-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TheTunas_Luna, Dance Floor_Final]]></title>
-            <link>https://tv.naver.com/v/32303023</link>
-            <guid>https://tv.naver.com/v/32303023</guid>
-            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_34/iMFdO_1673432274235KCjA1_JPEG/bbcf39ec-9198-11ed-8683-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

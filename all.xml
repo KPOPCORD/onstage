@@ -4,14 +4,21 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 00:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 02:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
+            <pubDate>Thu, 23 Mar 2023 02:04:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[음악의 가지수만큼 다양한 패기의 재즈, Other Life (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/season/2/article/13865</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/13865</guid>
             <pubDate>Thu, 23 Mar 2023 00:48:44 GMT</pubDate>
+            <content:encoded><![CDATA[재즈의 색다른 매력을 앞장서 발산하는 밴드, Other Life를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[얼터너티브가 돌아온다, 아워 에이지 (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +98,28 @@
             <content:encoded><![CDATA[멈추지 않는 유연한 동력의 전자음악가, 리비게쉬를 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[중요한 건 꺾이지 않는 블루스, 하헌진 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13721</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13721</guid>
-            <pubDate>Thu, 29 Dec 2022 03:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[델타 블루스를 사랑하던 청년에서 사연 많은 블루스맨으로 성장한 싱어송라이터, 하헌진을 소개합니다.]]></content:encoded>
+            <title><![CDATA[다운(Dvwn)_BADKID!!! (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/34229998</link>
+            <guid>https://tv.naver.com/v/34229998</guid>
+            <pubDate>Thu, 23 Mar 2023 02:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_85/X8625_1679478555948Igqs9_JPEG/112ee9d3-c896-11ed-95ba-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다운(Dvwn)_Highteen (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/34229988</link>
+            <guid>https://tv.naver.com/v/34229988</guid>
+            <pubDate>Thu, 23 Mar 2023 02:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_145/xtF8b_1679478542943dzyrm_JPEG/2b9248de-c896-11ed-8c12-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다운(Dvwn)_사심 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/34229975</link>
+            <guid>https://tv.naver.com/v/34229975</guid>
+            <pubDate>Thu, 23 Mar 2023 02:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_246/Rl8Dm_1679478521578XeMmH_JPEG/1eed489c-c896-11ed-9441-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Other Life_어떤 슬픔을 위한 노래 (ONSTAGE (온스테이지))]]></title>
@@ -312,30 +336,6 @@
             <pubDate>Thu, 19 Jan 2023 02:20:08 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230118_275/YMpjH_1674004671275xEFBr_JPEG/ab9f9e99-96cd-11ed-9590-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우물안 개구리_연차 좀 씁시다 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/32303044</link>
-            <guid>https://tv.naver.com/v/32303044</guid>
-            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_27/7ws8H_1673432308003401kb_JPEG/640467d0-9198-11ed-85c6-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hon'z_별(Star) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/32303037</link>
-            <guid>https://tv.naver.com/v/32303037</guid>
-            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_9/TwElO_1673432298626F8ewQ_JPEG/867bf332-9198-11ed-97c6-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하퍼스_스근하게 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/32303030</link>
-            <guid>https://tv.naver.com/v/32303030</guid>
-            <pubDate>Wed, 11 Jan 2023 11:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_50/FN0ko_1673432289509cVxsa_JPEG/878c2ab4-9198-11ed-97c6-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

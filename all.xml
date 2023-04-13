@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 11:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 12:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,6 @@
             <link>https://vibe.naver.com/onstage/season/2/article/13867</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/13867</guid>
             <pubDate>Thu, 13 Apr 2023 11:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[개념보다 구조를 실험하는 래퍼, 공공구를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가장 젊은 날의 기록 (VIBE ─ 온스테이지)]]></title>

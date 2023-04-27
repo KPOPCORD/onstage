@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 06:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 07:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Thu, 27 Apr 2023 06:13:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[세월과 세대를 뛰어넘는 아름다운 노래, Old But Gold (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13868</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13868</guid>
+            <pubDate>Thu, 27 Apr 2023 07:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[온스테이지 테마 기획 첫번째 by 이진수 기획위원]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Leader Of The New School (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +96,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/13801</guid>
             <pubDate>Thu, 26 Jan 2023 06:13:43 GMT</pubDate>
             <content:encoded><![CDATA[해맑은 목소리로 삶과 사랑의 고민을 노래하는 싱어송라이터, 장들레를 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다양한 색으로 굴절한 한 줌의 호흡, 숨비 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13781</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13781</guid>
-            <pubDate>Thu, 19 Jan 2023 02:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[다채로운 음악의 스펙트럼을 하나의 숨결로 꿰어내는 싱어송라이터 숨비를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[GongGongGoo009_헤쳐모여 (ONSTAGE (온스테이지))]]></title>

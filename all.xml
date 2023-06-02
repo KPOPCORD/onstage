@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 15:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 16:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,6 @@
             <link>https://vibe.naver.com/onstage/13872</link>
             <guid>https://vibe.naver.com/onstage/13872</guid>
             <pubDate>Fri, 02 Jun 2023 13:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[온스테이지 테마 기획 다섯 번째 by 정병욱 기획위원]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[왔노라, 보았노라, 느꼈노라 올해 페스티벌에서 절대 놓치면 안 되는 음악가들 (VIBE ─ 온스테이지)]]></title>

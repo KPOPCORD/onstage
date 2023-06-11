@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 09:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 10:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://vibe.naver.com/onstage/13879</link>
             <guid>https://vibe.naver.com/onstage/13879</guid>
             <pubDate>Sun, 11 Jun 2023 09:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[So!YoON!(황소윤)이기에 가능한 고백의 형식들]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전통과 동시대성, 정통과 변주 사이 (VIBE ─ 온스테이지)]]></title>

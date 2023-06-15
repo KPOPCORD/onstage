@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 00:55:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 02:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장명선_Nature is you]]></title>
+            <link>https://tv.naver.com/v/36983537</link>
+            <guid>https://tv.naver.com/v/36983537</guid>
+            <pubDate>Thu, 15 Jun 2023 02:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_48/ncRXv_16867278603087Ei31_JPEG/c69b0b98-0a82-11ee-88ac-80615f0bcf54_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장명선_틈 + 일기장]]></title>
+            <link>https://tv.naver.com/v/36983418</link>
+            <guid>https://tv.naver.com/v/36983418</guid>
+            <pubDate>Thu, 15 Jun 2023 02:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[6:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_109/0t9TT_1686727741003g5Lnr_JPEG/b690c0cd-0a82-11ee-bda5-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장명선_숲]]></title>
+            <link>https://tv.naver.com/v/36983234</link>
+            <guid>https://tv.naver.com/v/36983234</guid>
+            <pubDate>Thu, 15 Jun 2023 02:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_264/Ayckv_1686727537722snyC7_JPEG/a9cfd3fc-0a82-11ee-88f2-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[So!YoON!_Smoke Sprite (feat. RM of BTS)]]></title>
             <link>https://tv.naver.com/v/36738426</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 09 Feb 2023 02:20:03 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230206_292/VIkIy_1675666901501LtM2J_JPEG/0e8f8de4-a5eb-11ed-b269-a0369ff83be8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마리아 킴_Bitter with the Sweet]]></title>
-            <link>https://tv.naver.com/v/32795363</link>
-            <guid>https://tv.naver.com/v/32795363</guid>
-            <pubDate>Thu, 02 Feb 2023 02:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_172/TrwYQ_1675244163258BVfjE_JPEG/7648956a-a213-11ed-b4bb-a0369ffabf64_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마리아킴_Comes Love]]></title>
-            <link>https://tv.naver.com/v/32795361</link>
-            <guid>https://tv.naver.com/v/32795361</guid>
-            <pubDate>Thu, 02 Feb 2023 02:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_70/U4Xb4_1675244160632GGooQ_JPEG/02a2df73-a213-11ed-87f6-a0369ff83be8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마리아킴_Some Cats Know]]></title>
-            <link>https://tv.naver.com/v/32795357</link>
-            <guid>https://tv.naver.com/v/32795357</guid>
-            <pubDate>Thu, 02 Feb 2023 02:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[5:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_273/YLerC_1675244150302m3Sun_JPEG/3968a131-a213-11ed-ba4a-a0369ff83d3c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

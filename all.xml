@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 00:55:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 02:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/undefined</link>
             <guid>https://vibe.naver.com/onstage/undefined</guid>
             <pubDate>Thu, 15 Jun 2023 00:55:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[익숙하고도 낯선 감각의 향연, So!YoON! (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13879</link>
+            <guid>https://vibe.naver.com/onstage/13879</guid>
+            <pubDate>Thu, 15 Jun 2023 02:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[So!YoON!(황소윤)이기에 가능한 고백의 형식들]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전통과 동시대성, 정통과 변주 사이 (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +98,28 @@
             <content:encoded><![CDATA[기타리스트가 쓰는 곡의 로킹함을 믿게 하는 매미를 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[완벽하게 완벽하지 않은 예술세계, 배현이 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/13861</link>
-            <guid>https://vibe.naver.com/onstage/13861</guid>
-            <pubDate>Thu, 01 Jun 2023 08:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[다분히 의도적으로 하고 싶은 것만 하는 ‘쌉 인디’ 종합예술인 배현이를 소개합니다.]]></content:encoded>
+            <title><![CDATA[장명선_Nature is you (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/36983537</link>
+            <guid>https://tv.naver.com/v/36983537</guid>
+            <pubDate>Thu, 15 Jun 2023 02:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_48/ncRXv_16867278603087Ei31_JPEG/c69b0b98-0a82-11ee-88ac-80615f0bcf54_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장명선_틈 + 일기장 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/36983418</link>
+            <guid>https://tv.naver.com/v/36983418</guid>
+            <pubDate>Thu, 15 Jun 2023 02:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[6:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_109/0t9TT_1686727741003g5Lnr_JPEG/b690c0cd-0a82-11ee-bda5-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장명선_숲 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/36983234</link>
+            <guid>https://tv.naver.com/v/36983234</guid>
+            <pubDate>Thu, 15 Jun 2023 02:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_264/Ayckv_1686727537722snyC7_JPEG/a9cfd3fc-0a82-11ee-88f2-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[So!YoON!_Smoke Sprite (feat. RM of BTS) (ONSTAGE (온스테이지))]]></title>
@@ -312,30 +336,6 @@
             <pubDate>Thu, 09 Feb 2023 02:20:03 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230206_292/VIkIy_1675666901501LtM2J_JPEG/0e8f8de4-a5eb-11ed-b269-a0369ff83be8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마리아 킴_Bitter with the Sweet (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/32795363</link>
-            <guid>https://tv.naver.com/v/32795363</guid>
-            <pubDate>Thu, 02 Feb 2023 02:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_172/TrwYQ_1675244163258BVfjE_JPEG/7648956a-a213-11ed-b4bb-a0369ffabf64_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마리아킴_Comes Love (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/32795361</link>
-            <guid>https://tv.naver.com/v/32795361</guid>
-            <pubDate>Thu, 02 Feb 2023 02:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_70/U4Xb4_1675244160632GGooQ_JPEG/02a2df73-a213-11ed-87f6-a0369ff83be8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마리아킴_Some Cats Know (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/32795357</link>
-            <guid>https://tv.naver.com/v/32795357</guid>
-            <pubDate>Thu, 02 Feb 2023 02:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[5:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_273/YLerC_1675244150302m3Sun_JPEG/3968a131-a213-11ed-ba4a-a0369ff83d3c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

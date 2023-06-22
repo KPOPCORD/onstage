@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 01:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 02:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봉제인간_GAEKKUM]]></title>
+            <link>https://tv.naver.com/v/37231069</link>
+            <guid>https://tv.naver.com/v/37231069</guid>
+            <pubDate>Thu, 22 Jun 2023 02:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_54/HINZv_1687340309277gMqKY_JPEG/60fc5ad7-1016-11ee-9ab8-48df3772577a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉제인간_GOOD]]></title>
+            <link>https://tv.naver.com/v/37231041</link>
+            <guid>https://tv.naver.com/v/37231041</guid>
+            <pubDate>Thu, 22 Jun 2023 02:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_212/g5AXm_16873402639046jdPB_JPEG/5b6143ff-1016-11ee-9652-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉제인간_너만 없으면]]></title>
+            <link>https://tv.naver.com/v/37230999</link>
+            <guid>https://tv.naver.com/v/37230999</guid>
+            <pubDate>Thu, 22 Jun 2023 02:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_3/1UCsm_16873402128402L2cK_JPEG/56c32aca-1016-11ee-9652-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장명선_Nature is you]]></title>
             <link>https://tv.naver.com/v/36983537</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 16 Feb 2023 03:15:32 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_56/J54QO_1676370642398F1pXq_JPEG/7518d253-ac52-11ed-a739-80615f0bcde8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYPNOSIS THERAPY_MEDUSA]]></title>
-            <link>https://tv.naver.com/v/32920169</link>
-            <guid>https://tv.naver.com/v/32920169</guid>
-            <pubDate>Thu, 09 Feb 2023 02:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_82/YYnO7_1675667125938zguX3_JPEG/23b02fa6-a5eb-11ed-9fa5-a0369ff83d3c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYPNOSIS THERAPY_+82]]></title>
-            <link>https://tv.naver.com/v/32920066</link>
-            <guid>https://tv.naver.com/v/32920066</guid>
-            <pubDate>Thu, 09 Feb 2023 02:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_277/8kFef_1675666942046mc2DR_JPEG/18f796ec-a5eb-11ed-88a0-a0369ff8413c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYPNOSIS THERAPY_Daze]]></title>
-            <link>https://tv.naver.com/v/32920046</link>
-            <guid>https://tv.naver.com/v/32920046</guid>
-            <pubDate>Thu, 09 Feb 2023 02:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_292/VIkIy_1675666901501LtM2J_JPEG/0e8f8de4-a5eb-11ed-b269-a0369ff83be8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

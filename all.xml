@@ -4,14 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 01:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 02:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/undefined</link>
-            <guid>https://vibe.naver.com/onstage/undefined</guid>
-            <pubDate>Thu, 22 Jun 2023 01:07:49 GMT</pubDate>
+            <title><![CDATA[빤한 정답이 아닌 한 땀 한 땀 공들인 질문, 봉제인간 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13881</link>
+            <guid>https://vibe.naver.com/onstage/13881</guid>
+            <pubDate>Thu, 22 Jun 2023 02:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[변칙 본능의 재미를 연주하는 봉제인간을 소개합니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[내면의 글리치를 메우며 돋아나는 새 살, 장명선 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13880</link>
+            <guid>https://vibe.naver.com/onstage/13880</guid>
+            <pubDate>Thu, 22 Jun 2023 02:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[외유내강의 전자음악가 장명선을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[익숙하고도 낯선 감각의 향연, So!YoON! (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +99,28 @@
             <content:encoded><![CDATA[삶의 순간을 간절한 시선으로 그려내는 R&amp;B 싱어송라이터 오션프롬더블루를 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[록은 기교가 아닌 태도 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/13862</link>
-            <guid>https://vibe.naver.com/onstage/13862</guid>
-            <pubDate>Thu, 01 Jun 2023 08:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[기타리스트가 쓰는 곡의 로킹함을 믿게 하는 매미를 소개합니다.]]></content:encoded>
+            <title><![CDATA[봉제인간_GAEKKUM (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/37231069</link>
+            <guid>https://tv.naver.com/v/37231069</guid>
+            <pubDate>Thu, 22 Jun 2023 02:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_54/HINZv_1687340309277gMqKY_JPEG/60fc5ad7-1016-11ee-9ab8-48df3772577a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉제인간_GOOD (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/37231041</link>
+            <guid>https://tv.naver.com/v/37231041</guid>
+            <pubDate>Thu, 22 Jun 2023 02:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_212/g5AXm_16873402639046jdPB_JPEG/5b6143ff-1016-11ee-9652-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉제인간_너만 없으면 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/37230999</link>
+            <guid>https://tv.naver.com/v/37230999</guid>
+            <pubDate>Thu, 22 Jun 2023 02:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_3/1UCsm_16873402128402L2cK_JPEG/56c32aca-1016-11ee-9652-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장명선_Nature is you (ONSTAGE (온스테이지))]]></title>
@@ -312,30 +337,6 @@
             <pubDate>Thu, 16 Feb 2023 03:15:32 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_56/J54QO_1676370642398F1pXq_JPEG/7518d253-ac52-11ed-a739-80615f0bcde8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYPNOSIS THERAPY_MEDUSA (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/32920169</link>
-            <guid>https://tv.naver.com/v/32920169</guid>
-            <pubDate>Thu, 09 Feb 2023 02:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_82/YYnO7_1675667125938zguX3_JPEG/23b02fa6-a5eb-11ed-9fa5-a0369ff83d3c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYPNOSIS THERAPY_+82 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/32920066</link>
-            <guid>https://tv.naver.com/v/32920066</guid>
-            <pubDate>Thu, 09 Feb 2023 02:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_277/8kFef_1675666942046mc2DR_JPEG/18f796ec-a5eb-11ed-88a0-a0369ff8413c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYPNOSIS THERAPY_Daze (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/32920046</link>
-            <guid>https://tv.naver.com/v/32920046</guid>
-            <pubDate>Thu, 09 Feb 2023 02:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_292/VIkIy_1675666901501LtM2J_JPEG/0e8f8de4-a5eb-11ed-b269-a0369ff83be8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

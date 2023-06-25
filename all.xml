@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 18:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 19:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/undefined</link>
-            <guid>https://vibe.naver.com/onstage/undefined</guid>
-            <pubDate>Sun, 25 Jun 2023 17:09:35 GMT</pubDate>
+            <title><![CDATA[빤한 정답이 아닌 한 땀 한 땀 공들인 질문, 봉제인간 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13881</link>
+            <guid>https://vibe.naver.com/onstage/13881</guid>
+            <pubDate>Sun, 25 Jun 2023 19:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[변칙 본능의 재미를 연주하는 봉제인간을 소개합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내면의 글리치를 메우며 돋아나는 새 살, 장명선 (VIBE ─ 온스테이지)]]></title>

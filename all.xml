@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 05:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 06:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,11 +14,11 @@
             <pubDate>Tue, 27 Jun 2023 03:25:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[FORSTAGE] 바이닐 디깅의 시작. (VIBE ─ 온스테이지)]]></title>
+            <title><![CDATA[[FORSTAGE] 바이닐 디깅의 시작. FORSTAGE가 함께합니다. (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/13882</link>
             <guid>https://vibe.naver.com/onstage/13882</guid>
             <pubDate>Tue, 27 Jun 2023 02:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[FORSTAGE 바이닐이 함께합니다.]]></content:encoded>
+            <content:encoded><![CDATA[[FORSTAGE] 바이닐 디깅의 시작. FORSTAGE가 함께합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빤한 정답이 아닌 한 땀 한 땀 공들인 질문, 봉제인간 (VIBE ─ 온스테이지)]]></title>

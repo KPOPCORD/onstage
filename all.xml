@@ -4,11 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 01:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 02:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <title><![CDATA[[FORSTAGE] 바이닐(Vinyl) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13883</link>
+            <guid>https://vibe.naver.com/onstage/13883</guid>
+            <pubDate>Tue, 27 Jun 2023 02:38:14 GMT</pubDate>
+            <content:encoded><![CDATA[PLAY#1 레코드숍 vs. 레코드숍, PLAY#2 컬렉터 vs. 컬렉터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[FORSTAGE] 바이닐 디깅의 시작. (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13882</link>
+            <guid>https://vibe.naver.com/onstage/13882</guid>
+            <pubDate>Tue, 27 Jun 2023 02:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[FORSTAGE 바이닐이 함께합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빤한 정답이 아닌 한 땀 한 땀 공들인 질문, 봉제인간 (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/13881</link>
             <guid>https://vibe.naver.com/onstage/13881</guid>
             <pubDate>Tue, 27 Jun 2023 01:01:27 GMT</pubDate>
@@ -85,18 +99,20 @@
             <content:encoded><![CDATA[재즈의 색다른 매력을 앞장서 발산하는 밴드, Other Life를 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[얼터너티브가 돌아온다, 아워 에이지 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/13864</link>
-            <guid>https://vibe.naver.com/onstage/13864</guid>
-            <pubDate>Thu, 01 Jun 2023 08:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[90년대 사운드로 불안과 상실을 노래하는 밴드, 아워 에이지를 소개합니다.]]></content:encoded>
+            <title><![CDATA[[FORSTAGE] PLAY2_컬렉터vs.컬렉터 (DJ소울스케이프vs.하세가와요헤이) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/37382060</link>
+            <guid>https://tv.naver.com/v/37382060</guid>
+            <pubDate>Tue, 27 Jun 2023 02:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[5:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_238/MPnSq_1687762681235utXcH_JPEG/1687762669950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사람의 체온만큼 따뜻한 R&B, 오션프롬더블루 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/13863</link>
-            <guid>https://vibe.naver.com/onstage/13863</guid>
-            <pubDate>Thu, 01 Jun 2023 08:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[삶의 순간을 간절한 시선으로 그려내는 R&amp;B 싱어송라이터 오션프롬더블루를 소개합니다.]]></content:encoded>
+            <title><![CDATA[[FORSTAGE] PLAY1_레코드숍vs.레코드숍 (데이토나레코즈vs.김밥레코즈) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/37381925</link>
+            <guid>https://tv.naver.com/v/37381925</guid>
+            <pubDate>Tue, 27 Jun 2023 02:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[4:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_130/8Z01F_1687762514724nrwp6_JPEG/1687762262893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봉제인간_GAEKKUM (ONSTAGE (온스테이지))]]></title>
@@ -321,22 +337,6 @@
             <pubDate>Thu, 16 Feb 2023 02:19:36 GMT</pubDate>
             <content:encoded><![CDATA[4:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_87/o7CEd_1676370729045quta3_JPEG/c0bf94a3-ac52-11ed-a4a0-48df37e2c042_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배현이(baehyuni)_제주유자 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/33123953</link>
-            <guid>https://tv.naver.com/v/33123953</guid>
-            <pubDate>Thu, 16 Feb 2023 03:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_279/f90wP_1676370658650IOPoP_JPEG/6bf5cd42-ac52-11ed-99d0-80615f0bcfaa_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배현이(baehyuni)_주제를 알아라 (with. Nuclearboy) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/33123945</link>
-            <guid>https://tv.naver.com/v/33123945</guid>
-            <pubDate>Thu, 16 Feb 2023 03:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_56/J54QO_1676370642398F1pXq_JPEG/7518d253-ac52-11ed-a739-80615f0bcde8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

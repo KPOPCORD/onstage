@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 06:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 07:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,7 +18,7 @@
             <link>https://vibe.naver.com/onstage/13883</link>
             <guid>https://vibe.naver.com/onstage/13883</guid>
             <pubDate>Wed, 28 Jun 2023 02:54:15 GMT</pubDate>
-            <content:encoded><![CDATA[PLAY#1 레코드숍 vs. 레코드숍, PLAY#2 컬렉터 vs. 컬렉터]]></content:encoded>
+            <content:encoded><![CDATA[PLAY#1 레코드숍 vs 레코드숍, PLAY#2 컬렉터 vs 컬렉터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[FORSTAGE] 바이닐 디깅의 시작. FORSTAGE가 함께합니다. (VIBE ─ 온스테이지)]]></title>

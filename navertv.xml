@@ -4,11 +4,27 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 01:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 02:54:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[FORSTAGE] PLAY2_컬렉터vs.컬렉터 (DJ소울스케이프vs.하세가와요헤이)]]></title>
+            <title><![CDATA[[FORSTAGE] PLAY4_뮤지션vs제작사 (바밍타이거'소금'vs마장뮤직앤픽처스)]]></title>
+            <link>https://tv.naver.com/v/37382298</link>
+            <guid>https://tv.naver.com/v/37382298</guid>
+            <pubDate>Wed, 28 Jun 2023 02:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_208/K82ne_1687762928246FskgL_JPEG/1687762865489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FORSTAGE] PLAY3_1990vs2020 (빛과소금vs아도이'오주환')]]></title>
+            <link>https://tv.naver.com/v/37382212</link>
+            <guid>https://tv.naver.com/v/37382212</guid>
+            <pubDate>Wed, 28 Jun 2023 02:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_74/mWbR2_1687762817737nRxvI_JPEG/1687762715100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FORSTAGE] PLAY2_컬렉터vs컬렉터 (DJ소울스케이프vs하세가와요헤이)]]></title>
             <link>https://tv.naver.com/v/37382060</link>
             <guid>https://tv.naver.com/v/37382060</guid>
             <pubDate>Tue, 27 Jun 2023 02:38:40 GMT</pubDate>
@@ -16,7 +32,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_238/MPnSq_1687762681235utXcH_JPEG/1687762669950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FORSTAGE] PLAY1_레코드숍vs.레코드숍 (데이토나레코즈vs.김밥레코즈)]]></title>
+            <title><![CDATA[[FORSTAGE] PLAY1_레코드숍vs레코드숍 (데이토나레코즈vs김밥레코즈)]]></title>
             <link>https://tv.naver.com/v/37381925</link>
             <guid>https://tv.naver.com/v/37381925</guid>
             <pubDate>Tue, 27 Jun 2023 02:38:40 GMT</pubDate>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 23 Feb 2023 02:18:15 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230222_129/ahLdU_16770328892529i0cv_JPEG/67af4887-b258-11ed-8994-a0369ff85c2c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매미(MEMI)_I Don't give a]]></title>
-            <link>https://tv.naver.com/v/33359487</link>
-            <guid>https://tv.naver.com/v/33359487</guid>
-            <pubDate>Thu, 23 Feb 2023 02:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_248/wccWp_1677032928215ME77K_JPEG/77b351ea-b258-11ed-8994-a0369ff85c2c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배현이(baehyuni)_ZOO]]></title>
-            <link>https://tv.naver.com/v/33123997</link>
-            <guid>https://tv.naver.com/v/33123997</guid>
-            <pubDate>Thu, 16 Feb 2023 02:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_87/o7CEd_1676370729045quta3_JPEG/c0bf94a3-ac52-11ed-a4a0-48df37e2c042_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

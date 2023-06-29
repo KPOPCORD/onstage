@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 23:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 02:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/undefined</link>
-            <guid>https://vibe.naver.com/onstage/undefined</guid>
-            <pubDate>Wed, 28 Jun 2023 23:13:49 GMT</pubDate>
+            <title><![CDATA[[FORSTAGE] 바이닐(Vinyl) – 티키타카 인터뷰 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13884</link>
+            <guid>https://vibe.naver.com/onstage/13884</guid>
+            <pubDate>Thu, 29 Jun 2023 02:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[PLAY#3 1990 vs 2020 PLAY#4 뮤지션 vs 제작사]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[FORSTAGE] 바이닐(Vinyl) – PLAY 티키타카 인터뷰 (VIBE ─ 온스테이지)]]></title>
@@ -96,6 +97,30 @@
             <guid>https://vibe.naver.com/onstage/13866</guid>
             <pubDate>Thu, 01 Jun 2023 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[유유하게, 때로는 거칠게. 결을 아는 싱어송라이터 다운(Dvwn)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AGNES_Capital Empire (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/37467812</link>
+            <guid>https://tv.naver.com/v/37467812</guid>
+            <pubDate>Thu, 29 Jun 2023 02:37:30 GMT</pubDate>
+            <content:encoded><![CDATA[5:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230628_283/cVuW2_1687944198768L0Gzf_JPEG/dc97c126-1594-11ee-837b-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AGNES_Mammon (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/37467818</link>
+            <guid>https://tv.naver.com/v/37467818</guid>
+            <pubDate>Thu, 29 Jun 2023 02:37:30 GMT</pubDate>
+            <content:encoded><![CDATA[5:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230628_13/6UFms_1687944222800GHxdj_JPEG/f6e1085d-1594-11ee-8c05-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AGNES_Areumda War (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/37467800</link>
+            <guid>https://tv.naver.com/v/37467800</guid>
+            <pubDate>Thu, 29 Jun 2023 02:37:30 GMT</pubDate>
+            <content:encoded><![CDATA[5:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230628_227/dRcvo_1687944179381wCYjg_JPEG/c3e32407-1594-11ee-a9a5-a0369ffac2a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FORSTAGE] PLAY4_뮤지션vs제작사 (바밍타이거'소금'vs마장뮤직앤픽처스) (ONSTAGE (온스테이지))]]></title>
@@ -312,30 +337,6 @@
             <pubDate>Thu, 02 Mar 2023 02:27:47 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230228_157/p1LxB_1677555878773GOE1A_JPEG/6a74d3ac-b719-11ed-8773-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[oceanfromtheblue_잠자리 (Come Back Home) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/33532153</link>
-            <guid>https://tv.naver.com/v/33532153</guid>
-            <pubDate>Thu, 02 Mar 2023 02:27:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_176/WlT7Y_1677555852013WDmlf_JPEG/e5e6b201-b719-11ed-8299-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매미(MEMI)_Hate U (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/33359476</link>
-            <guid>https://tv.naver.com/v/33359476</guid>
-            <pubDate>Thu, 23 Feb 2023 02:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_124/H9D7f_1677032907281VtWLV_JPEG/6f6ace58-b258-11ed-8994-a0369ff85c2c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매미(MEMI)_Guitar Pick (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/33359466</link>
-            <guid>https://tv.naver.com/v/33359466</guid>
-            <pubDate>Thu, 23 Feb 2023 02:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_129/ahLdU_16770328892529i0cv_JPEG/67af4887-b258-11ed-8994-a0369ff85c2c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

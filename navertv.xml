@@ -4,17 +4,9 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 05:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 08:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[AGNES_Capital Empire]]></title>
-            <link>https://tv.naver.com/v/37467812</link>
-            <guid>https://tv.naver.com/v/37467812</guid>
-            <pubDate>Thu, 29 Jun 2023 02:37:30 GMT</pubDate>
-            <content:encoded><![CDATA[5:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230628_283/cVuW2_1687944198768L0Gzf_JPEG/dc97c126-1594-11ee-837b-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[AGNES_Mammon]]></title>
             <link>https://tv.naver.com/v/37467818</link>
@@ -24,7 +16,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230628_13/6UFms_1687944222800GHxdj_JPEG/f6e1085d-1594-11ee-8c05-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AGNES_Areumda War]]></title>
+            <title><![CDATA[AGNES_Capital Empire]]></title>
+            <link>https://tv.naver.com/v/37467812</link>
+            <guid>https://tv.naver.com/v/37467812</guid>
+            <pubDate>Thu, 29 Jun 2023 02:37:30 GMT</pubDate>
+            <content:encoded><![CDATA[5:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230628_283/cVuW2_1687944198768L0Gzf_JPEG/dc97c126-1594-11ee-837b-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AGNES_Areumda War (아름다워)]]></title>
             <link>https://tv.naver.com/v/37467800</link>
             <guid>https://tv.naver.com/v/37467800</guid>
             <pubDate>Thu, 29 Jun 2023 02:37:30 GMT</pubDate>

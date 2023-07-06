@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 06:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,6 @@
             <link>https://vibe.naver.com/onstage/13887</link>
             <guid>https://vibe.naver.com/onstage/13887</guid>
             <pubDate>Thu, 06 Jul 2023 06:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[순도 가득한 응집력으로 무대를 흔드는 밴드, 우먼 휴먼을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[FORSTAGE] 바이닐(Vinyl) - PAUSE #TIME TO PLAY : 바이닐지식정보1 (VIBE ─ 온스테이지)]]></title>

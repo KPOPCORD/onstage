@@ -4,14 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 00:56:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 02:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/undefined</link>
-            <guid>https://vibe.naver.com/onstage/undefined</guid>
-            <pubDate>Mon, 10 Jul 2023 20:11:55 GMT</pubDate>
+            <link>https://vibe.naver.com/onstage/13888</link>
+            <guid>https://vibe.naver.com/onstage/13888</guid>
+            <pubDate>Tue, 11 Jul 2023 02:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[FORSTAGE] 바이닐(Vinyl) ∙ REPEAT – 바이닐로 만나는 90년대 숨은 음악]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가연성 사이키델릭 에너지, 우먼 휴먼 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13887</link>
+            <guid>https://vibe.naver.com/onstage/13887</guid>
+            <pubDate>Tue, 11 Jul 2023 02:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[순도 가득한 응집력으로 무대를 흔드는 밴드, 우먼 휴먼을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[FORSTAGE] 바이닐(Vinyl) - PAUSE #TIME TO PLAY : 바이닐지식정보1 (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +99,12 @@
             <content:encoded><![CDATA[온스테이지 테마 기획 세 번째 by 유지성 기획위원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[부산스럽지 않게 부산을 지켜봐 온 묵묵함, 지연(地緣) 아닌 음연(音緣) (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/13869</link>
-            <guid>https://vibe.naver.com/onstage/13869</guid>
-            <pubDate>Thu, 01 Jun 2023 08:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[온스테이지 테마 기획 두 번째 by 이재훈 기획위원]]></content:encoded>
+            <title><![CDATA[[FORSTAGE] REPEAT_바이닐로 듣는 90년대 숨은 음악 믹스셋 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/37798862</link>
+            <guid>https://tv.naver.com/v/37798862</guid>
+            <pubDate>Tue, 11 Jul 2023 02:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[46:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_133/18wXg_1688735166234EQLqp_JPEG/9fb58f15-1cb8-11ee-9f07-a0369ffde434_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[make up a riddle (ONSTAGE (온스테이지))]]></title>
@@ -328,14 +337,6 @@
             <pubDate>Thu, 16 Mar 2023 02:11:17 GMT</pubDate>
             <content:encoded><![CDATA[6:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_271/nGjUZ_1678853127183xzMq4_JPEG/145a4437-c2e6-11ed-bc06-a0369ffdb8e8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OUR AGE_Now (Just Another Day) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/33765265</link>
-            <guid>https://tv.naver.com/v/33765265</guid>
-            <pubDate>Thu, 09 Mar 2023 02:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[5:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_180/taulL_16782464630152v8s7_JPEG/d8894cbc-bd60-11ed-befd-a0369ffab218_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

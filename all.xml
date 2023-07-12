@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 22:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 23:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/undefined</link>
-            <guid>https://vibe.naver.com/onstage/undefined</guid>
-            <pubDate>Wed, 12 Jul 2023 22:10:40 GMT</pubDate>
+            <title><![CDATA[[FORSTAGE] 바이닐(Vinyl) ∙ REPEAT – 바이닐로 만나는 90년대 숨은 음악 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13888</link>
+            <guid>https://vibe.naver.com/onstage/13888</guid>
+            <pubDate>Wed, 12 Jul 2023 23:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[[FORSTAGE] 바이닐(Vinyl) ∙ REPEAT – 바이닐로 만나는 90년대 숨은 음악]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가연성 사이키델릭 에너지, 우먼 휴먼 (VIBE ─ 온스테이지)]]></title>

@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 01:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 02:57:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Liveaboard]]></title>
+            <link>https://tv.naver.com/v/37953031</link>
+            <guid>https://tv.naver.com/v/37953031</guid>
+            <pubDate>Thu, 13 Jul 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[5:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_122/VwGug_16891412538610Teiu_JPEG/3824e35b-2078-11ee-b5e6-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Horizon noir]]></title>
+            <link>https://tv.naver.com/v/37952980</link>
+            <guid>https://tv.naver.com/v/37952980</guid>
+            <pubDate>Thu, 13 Jul 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[6:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_239/WPdav_1689141172991cHEKo_JPEG/6ed42d0d-2077-11ee-89f1-a0369fff343c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drive Through The Purple City]]></title>
+            <link>https://tv.naver.com/v/37952804</link>
+            <guid>https://tv.naver.com/v/37952804</guid>
+            <pubDate>Thu, 13 Jul 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[4:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_200/FwqaX_1689140924097d50jF_JPEG/fe45a25f-2076-11ee-b06f-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[FORSTAGE] REPEAT_바이닐로 듣는 90년대 숨은 음악 믹스셋]]></title>
             <link>https://tv.naver.com/v/37798862</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 23 Mar 2023 02:04:41 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_246/Rl8Dm_1679478521578XeMmH_JPEG/1eed489c-c896-11ed-9441-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Other Life_어떤 슬픔을 위한 노래]]></title>
-            <link>https://tv.naver.com/v/33991841</link>
-            <guid>https://tv.naver.com/v/33991841</guid>
-            <pubDate>Thu, 16 Mar 2023 02:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_177/0xfmv_1678853512396XKc4A_JPEG/f2d11aff-c2e6-11ed-b4cf-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Other Life_Goin' Home]]></title>
-            <link>https://tv.naver.com/v/33991723</link>
-            <guid>https://tv.naver.com/v/33991723</guid>
-            <pubDate>Thu, 16 Mar 2023 02:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_164/qCFjD_1678853290170D68EC_JPEG/8d00cdd4-c2e6-11ed-98ec-a0369ffdaefc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Other Life_Odd 3]]></title>
-            <link>https://tv.naver.com/v/33991615</link>
-            <guid>https://tv.naver.com/v/33991615</guid>
-            <pubDate>Thu, 16 Mar 2023 02:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[6:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_271/nGjUZ_1678853127183xzMq4_JPEG/145a4437-c2e6-11ed-bc06-a0369ffdb8e8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

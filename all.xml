@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 23:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 01:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/undefined</link>
-            <guid>https://vibe.naver.com/onstage/undefined</guid>
-            <pubDate>Sun, 16 Jul 2023 23:10:09 GMT</pubDate>
+            <title><![CDATA[원시(原始)를 길러낸 테크닉, 애니멀 다이버스 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13889</link>
+            <guid>https://vibe.naver.com/onstage/13889</guid>
+            <pubDate>Mon, 17 Jul 2023 01:04:28 GMT</pubDate>
+            <content:encoded><![CDATA[월드뮤직을 대상화하지 않는 애니멀 다이버스를 소개합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[FORSTAGE] 바이닐(Vinyl) ∙ REPEAT – 바이닐로 만나는 90년대 숨은 음악 (VIBE ─ 온스테이지)]]></title>

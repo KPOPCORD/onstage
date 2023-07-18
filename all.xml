@@ -4,15 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 01:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 02:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[원시(原始)를 길러낸 테크닉, 애니멀 다이버스 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/13889</link>
-            <guid>https://vibe.naver.com/onstage/13889</guid>
-            <pubDate>Mon, 17 Jul 2023 23:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[월드뮤직을 대상화하지 않는 애니멀 다이버스를 소개합니다]]></content:encoded>
+            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/undefined</link>
+            <guid>https://vibe.naver.com/onstage/undefined</guid>
+            <pubDate>Tue, 18 Jul 2023 02:56:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[FORSTAGE] 바이닐(Vinyl) ∙ REPEAT – 바이닐로 만나는 90년대 숨은 음악 (VIBE ─ 온스테이지)]]></title>
@@ -97,6 +96,14 @@
             <guid>https://vibe.naver.com/onstage/13871</guid>
             <pubDate>Thu, 01 Jun 2023 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[온스테이지 테마 기획 네 번째 by 김윤하 기획위원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[FORSTAGE]STOP_#VINYLREVIVAL_ 바이닐지식정보 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/38140991</link>
+            <guid>https://tv.naver.com/v/38140991</guid>
+            <pubDate>Tue, 18 Jul 2023 02:56:57 GMT</pubDate>
+            <content:encoded><![CDATA[6:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_67/TRQEg_16896023245846sKio_JPEG/1689602317684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Liveaboard (ONSTAGE (온스테이지))]]></title>
@@ -329,14 +336,6 @@
             <pubDate>Thu, 23 Mar 2023 02:04:41 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_145/xtF8b_1679478542943dzyrm_JPEG/2b9248de-c896-11ed-8c12-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다운(Dvwn)_사심 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/34229975</link>
-            <guid>https://tv.naver.com/v/34229975</guid>
-            <pubDate>Thu, 23 Mar 2023 02:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_246/Rl8Dm_1679478521578XeMmH_JPEG/1eed489c-c896-11ed-9441-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

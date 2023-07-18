@@ -4,9 +4,17 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 01:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 02:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[FORSTAGE]STOP_#VINYLREVIVAL_ 바이닐지식정보]]></title>
+            <link>https://tv.naver.com/v/38140991</link>
+            <guid>https://tv.naver.com/v/38140991</guid>
+            <pubDate>Tue, 18 Jul 2023 02:56:57 GMT</pubDate>
+            <content:encoded><![CDATA[6:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_67/TRQEg_16896023245846sKio_JPEG/1689602317684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Liveaboard]]></title>
             <link>https://tv.naver.com/v/37953031</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Mar 2023 02:04:41 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_145/xtF8b_1679478542943dzyrm_JPEG/2b9248de-c896-11ed-8c12-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다운(Dvwn)_사심]]></title>
-            <link>https://tv.naver.com/v/34229975</link>
-            <guid>https://tv.naver.com/v/34229975</guid>
-            <pubDate>Thu, 23 Mar 2023 02:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_246/Rl8Dm_1679478521578XeMmH_JPEG/1eed489c-c896-11ed-9441-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

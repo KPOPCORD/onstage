@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 00:54:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 02:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lo Que No Te Dije Antes]]></title>
+            <link>https://tv.naver.com/v/38199492</link>
+            <guid>https://tv.naver.com/v/38199492</guid>
+            <pubDate>Thu, 20 Jul 2023 02:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_141/ZX3qu_1689744282850NGXXN_JPEG/6f59f132-25f3-11ee-8507-a0369ffd9e4c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ninina]]></title>
+            <link>https://tv.naver.com/v/38199433</link>
+            <guid>https://tv.naver.com/v/38199433</guid>
+            <pubDate>Thu, 20 Jul 2023 02:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_95/ro0LN_1689744205743WIJoV_JPEG/6740e231-25f3-11ee-beb0-a0369ffde2b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mañanitas De Buenos Aires]]></title>
+            <link>https://tv.naver.com/v/38199280</link>
+            <guid>https://tv.naver.com/v/38199280</guid>
+            <pubDate>Thu, 20 Jul 2023 02:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_1/Rq0Ii_1689743983137jmmi0_JPEG/5c4e9b83-25f3-11ee-8ba9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[FORSTAGE]STOP_#VINYLREVIVAL_ 바이닐지식정보]]></title>
             <link>https://tv.naver.com/v/38140991</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 02:08:17 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230330_293/zL2ux_1680141368440U2d4J_JPEG/edb3e36a-ce9d-11ed-9afd-a0369ffdb914_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GongGongGoo009_집]]></title>
-            <link>https://tv.naver.com/v/34467500</link>
-            <guid>https://tv.naver.com/v/34467500</guid>
-            <pubDate>Thu, 30 Mar 2023 02:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_289/QfpXo_1680141357863qm6Id_JPEG/e6c60dd9-ce9d-11ed-9afd-a0369ffdb914_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다운(Dvwn)_BADKID!!!]]></title>
-            <link>https://tv.naver.com/v/34229998</link>
-            <guid>https://tv.naver.com/v/34229998</guid>
-            <pubDate>Thu, 23 Mar 2023 02:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_85/X8625_1679478555948Igqs9_JPEG/112ee9d3-c896-11ed-95ba-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다운(Dvwn)_Highteen]]></title>
-            <link>https://tv.naver.com/v/34229988</link>
-            <guid>https://tv.naver.com/v/34229988</guid>
-            <pubDate>Thu, 23 Mar 2023 02:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_145/xtF8b_1679478542943dzyrm_JPEG/2b9248de-c896-11ed-8c12-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

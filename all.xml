@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 00:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 01:55:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <guid>https://vibe.naver.com/onstage/13879</guid>
             <pubDate>Thu, 15 Jun 2023 02:11:01 GMT</pubDate>
             <content:encoded><![CDATA[So!YoON!(황소윤)이기에 가능한 고백의 형식들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세상 속으로 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/38435383</link>
+            <guid>https://tv.naver.com/v/38435383</guid>
+            <pubDate>Thu, 27 Jul 2023 01:55:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_188/cGE1E_1690359325945sPIFl_JPEG/a3bcec53-2b8b-11ee-bd08-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lo Que No Te Dije Antes (ONSTAGE (온스테이지))]]></title>
@@ -328,14 +336,6 @@
             <pubDate>Thu, 30 Mar 2023 02:08:17 GMT</pubDate>
             <content:encoded><![CDATA[4:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230330_130/FEu6Z_1680141386906SqjV9_JPEG/f8b6f3a8-ce9d-11ed-af95-a0369ffd9cd8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GongGongGoo009_돈 가져와 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/34467505</link>
-            <guid>https://tv.naver.com/v/34467505</guid>
-            <pubDate>Thu, 30 Mar 2023 02:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_293/zL2ux_1680141368440U2d4J_JPEG/edb3e36a-ce9d-11ed-9afd-a0369ffdb914_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

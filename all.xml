@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 07:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 08:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/undefined</link>
             <guid>https://vibe.naver.com/onstage/undefined</guid>
             <pubDate>Wed, 26 Jul 2023 21:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[한국에서 느끼는 아르헨티나 흙과 바람의 냄새, 연하늘 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13891</link>
+            <guid>https://vibe.naver.com/onstage/13891</guid>
+            <pubDate>Thu, 27 Jul 2023 08:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[진솔한 탱고 통역가, 반도네오니스트 연하늘을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[FORSTAGE] 바이닐(Vinyl) - STOP #바이닐 리바이벌 : 바이닐 지식 정보 (VIBE ─ 온스테이지)]]></title>
@@ -91,19 +98,28 @@
             <content:encoded><![CDATA[외유내강의 전자음악가 장명선을 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[익숙하고도 낯선 감각의 향연, So!YoON! (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/13879</link>
-            <guid>https://vibe.naver.com/onstage/13879</guid>
-            <pubDate>Thu, 15 Jun 2023 02:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[So!YoON!(황소윤)이기에 가능한 고백의 형식들]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[세상 속으로 (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/38435383</link>
             <guid>https://tv.naver.com/v/38435383</guid>
             <pubDate>Thu, 27 Jul 2023 01:55:35 GMT</pubDate>
             <content:encoded><![CDATA[4:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_188/cGE1E_1690359325945sPIFl_JPEG/a3bcec53-2b8b-11ee-bd08-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름밤 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/38435367</link>
+            <guid>https://tv.naver.com/v/38435367</guid>
+            <pubDate>Thu, 27 Jul 2023 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[5:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_88/F5q6d_1690359304347D0jbS_JPEG/acec9b6c-2b8b-11ee-8608-a0369ffb31a0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/38435353</link>
+            <guid>https://tv.naver.com/v/38435353</guid>
+            <pubDate>Thu, 27 Jul 2023 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[5:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_84/bzP1D_1690359288880HPoOq_JPEG/b6e0d394-2b8b-11ee-beb0-a0369ffde2b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lo Que No Te Dije Antes (ONSTAGE (온스테이지))]]></title>
@@ -320,22 +336,6 @@
             <pubDate>Thu, 08 Jun 2023 02:24:29 GMT</pubDate>
             <content:encoded><![CDATA[5:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230607_182/LK1jl_1686125253422HkAgT_JPEG/38b5ffc9-0509-11ee-92e7-a0369ffdebe4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[So!YoON!_Till the sun goes up (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/36738326</link>
-            <guid>https://tv.naver.com/v/36738326</guid>
-            <pubDate>Thu, 08 Jun 2023 02:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_47/MCByh_1686125211824QkBA3_JPEG/33fff1c4-0509-11ee-8de4-a0369ffdb264_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GongGongGoo009_헤쳐모여 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/34467517</link>
-            <guid>https://tv.naver.com/v/34467517</guid>
-            <pubDate>Thu, 30 Mar 2023 02:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_130/FEu6Z_1680141386906SqjV9_JPEG/f8b6f3a8-ce9d-11ed-af95-a0369ffd9cd8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

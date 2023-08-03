@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 23:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 00:51:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Carina Nebula_susie Q]]></title>
+            <link>https://tv.naver.com/v/38624534</link>
+            <guid>https://tv.naver.com/v/38624534</guid>
+            <pubDate>Thu, 03 Aug 2023 00:51:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_267/ElLv8_1690895059575Xdk5q_JPEG/d217738d-306b-11ee-8f91-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carina Nebula_Good Match]]></title>
+            <link>https://tv.naver.com/v/38624494</link>
+            <guid>https://tv.naver.com/v/38624494</guid>
+            <pubDate>Thu, 03 Aug 2023 00:51:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_23/NPJNm_1690895257625CIDHV_JPEG/af88b543-306b-11ee-bae1-505dac8c38f5_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carina Nebula_Everybody's boppin']]></title>
+            <link>https://tv.naver.com/v/38624429</link>
+            <guid>https://tv.naver.com/v/38624429</guid>
+            <pubDate>Thu, 03 Aug 2023 00:51:13 GMT</pubDate>
+            <content:encoded><![CDATA[5:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_130/7wieV_1690895294913vQQOG_JPEG/2caf8c09-306b-11ee-9deb-a0369ffdb398_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상 속으로]]></title>
             <link>https://tv.naver.com/v/38435383</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 15 Jun 2023 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[6:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_109/0t9TT_1686727741003g5Lnr_JPEG/b690c0cd-0a82-11ee-bda5-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장명선_숲]]></title>
-            <link>https://tv.naver.com/v/36983234</link>
-            <guid>https://tv.naver.com/v/36983234</guid>
-            <pubDate>Thu, 15 Jun 2023 02:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_264/Ayckv_1686727537722snyC7_JPEG/a9cfd3fc-0a82-11ee-88f2-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[So!YoON!_Smoke Sprite (feat. RM of BTS)]]></title>
-            <link>https://tv.naver.com/v/36738426</link>
-            <guid>https://tv.naver.com/v/36738426</guid>
-            <pubDate>Thu, 08 Jun 2023 02:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_14/5uzU8_1686125321270DXFaw_JPEG/3f8613d4-0509-11ee-ad6d-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[So!YoON!_Gave you all my love (feat. jibin of Y2K92)]]></title>
-            <link>https://tv.naver.com/v/36738365</link>
-            <guid>https://tv.naver.com/v/36738365</guid>
-            <pubDate>Thu, 08 Jun 2023 02:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[5:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_182/LK1jl_1686125253422HkAgT_JPEG/38b5ffc9-0509-11ee-92e7-a0369ffdebe4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

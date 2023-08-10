@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 02:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 03:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/undefined</link>
             <guid>https://vibe.naver.com/onstage/undefined</guid>
             <pubDate>Thu, 10 Aug 2023 00:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[우주 같은 적요에서 빛어낸 노래들, 카리나 네뷸라 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13893</link>
+            <guid>https://vibe.naver.com/onstage/13893</guid>
+            <pubDate>Thu, 10 Aug 2023 03:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[4명의 재즈 디바가 뭉친 신비로운 성운 ‘카리나 네뷸라’를 소개합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NOW AND FOREVER, 마이 앤트 메리 (VIBE ─ 온스테이지)]]></title>
@@ -91,19 +98,28 @@
             <content:encoded><![CDATA[[FORSTAGE] 바이닐 디깅의 시작. FORSTAGE가 함께합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빤한 정답이 아닌 한 땀 한 땀 공들인 질문, 봉제인간 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/13881</link>
-            <guid>https://vibe.naver.com/onstage/13881</guid>
-            <pubDate>Tue, 27 Jun 2023 01:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[변칙 본능의 재미를 연주하는 봉제인간을 소개합니다]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[밀릭_CLION (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/38868201</link>
             <guid>https://tv.naver.com/v/38868201</guid>
             <pubDate>Thu, 10 Aug 2023 02:03:57 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_280/7dcQm_16915480463706XbU7_JPEG/b24bcd67-365b-11ee-8224-a0369ffac2a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밀릭_SEA SPARKLE (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/38868134</link>
+            <guid>https://tv.naver.com/v/38868134</guid>
+            <pubDate>Thu, 10 Aug 2023 03:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_36/yskX3_1691547934898RdQvE_JPEG/b6345218-365b-11ee-8608-a0369ffb31a0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밀릭_백화 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/38868128</link>
+            <guid>https://tv.naver.com/v/38868128</guid>
+            <pubDate>Thu, 10 Aug 2023 03:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_261/9uCmZ_1691547918281vaOMB_JPEG/ba19f072-365b-11ee-9ba4-a0369ffb3258_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Carina Nebula_susie Q (ONSTAGE (온스테이지))]]></title>
@@ -320,22 +336,6 @@
             <pubDate>Thu, 22 Jun 2023 02:14:20 GMT</pubDate>
             <content:encoded><![CDATA[4:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_212/g5AXm_16873402639046jdPB_JPEG/5b6143ff-1016-11ee-9652-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봉제인간_너만 없으면 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/37230999</link>
-            <guid>https://tv.naver.com/v/37230999</guid>
-            <pubDate>Thu, 22 Jun 2023 02:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_3/1UCsm_16873402128402L2cK_JPEG/56c32aca-1016-11ee-9652-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장명선_Nature is you (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/36983537</link>
-            <guid>https://tv.naver.com/v/36983537</guid>
-            <pubDate>Thu, 15 Jun 2023 02:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_48/ncRXv_16867278603087Ei31_JPEG/c69b0b98-0a82-11ee-88ac-80615f0bcf54_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

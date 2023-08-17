@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 05:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 06:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/undefined</link>
             <guid>https://vibe.naver.com/onstage/undefined</guid>
             <pubDate>Thu, 17 Aug 2023 03:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[켜켜이 쌓아올린 입체적 사운드, 밀릭 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13894</link>
+            <guid>https://vibe.naver.com/onstage/13894</guid>
+            <pubDate>Thu, 17 Aug 2023 06:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[질리지 않는 균형잡힌 감각의 밀릭을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우주 같은 적요에서 빛어낸 노래들, 카리나 네뷸라 (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +96,6 @@
             <guid>https://vibe.naver.com/onstage/13883</guid>
             <pubDate>Wed, 28 Jun 2023 02:54:15 GMT</pubDate>
             <content:encoded><![CDATA[PLAY#1 레코드숍 vs 레코드숍, PLAY#2 컬렉터 vs 컬렉터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[FORSTAGE] 바이닐 디깅의 시작. FORSTAGE가 함께합니다. (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/13882</link>
-            <guid>https://vibe.naver.com/onstage/13882</guid>
-            <pubDate>Tue, 27 Jun 2023 02:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[[FORSTAGE] 바이닐 디깅의 시작. FORSTAGE가 함께합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[허정혁_수풀 (ONSTAGE (온스테이지))]]></title>

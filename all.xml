@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 01:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 02:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <title><![CDATA[켜켜이 쌓아올린 입체적 사운드, 밀릭 (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/13894</link>
             <guid>https://vibe.naver.com/onstage/13894</guid>
             <pubDate>Thu, 17 Aug 2023 00:39:32 GMT</pubDate>
@@ -97,6 +97,30 @@
             <guid>https://vibe.naver.com/onstage/13882</guid>
             <pubDate>Tue, 27 Jun 2023 02:38:21 GMT</pubDate>
             <content:encoded><![CDATA[[FORSTAGE] 바이닐 디깅의 시작. FORSTAGE가 함께합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[허정혁_수풀 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/39146076</link>
+            <guid>https://tv.naver.com/v/39146076</guid>
+            <pubDate>Thu, 17 Aug 2023 02:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[5:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_269/yBREF_16922374605194lSpv_JPEG/be5a3204-3ca0-11ee-a9b6-80615f0bcd26_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허정혁_계절따라 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/39146051</link>
+            <guid>https://tv.naver.com/v/39146051</guid>
+            <pubDate>Thu, 17 Aug 2023 02:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_271/ZXv9q_1692237418708UOSxP_JPEG/b843d15b-3ca0-11ee-9c90-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허정혁_창가에 앉아 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/39146016</link>
+            <guid>https://tv.naver.com/v/39146016</guid>
+            <pubDate>Thu, 17 Aug 2023 02:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_133/aDFRn_1692237372509QVj4x_JPEG/b39675aa-3ca0-11ee-ba0a-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밀릭_CLIONE (ONSTAGE (온스테이지))]]></title>
@@ -313,30 +337,6 @@
             <pubDate>Tue, 27 Jun 2023 02:38:40 GMT</pubDate>
             <content:encoded><![CDATA[5:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_238/MPnSq_1687762681235utXcH_JPEG/1687762669950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FORSTAGE] PLAY1_레코드숍vs레코드숍 (데이토나레코즈vs김밥레코즈) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/37381925</link>
-            <guid>https://tv.naver.com/v/37381925</guid>
-            <pubDate>Tue, 27 Jun 2023 02:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[4:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_130/8Z01F_1687762514724nrwp6_JPEG/1687762262893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봉제인간_GAEKKUM (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/37231069</link>
-            <guid>https://tv.naver.com/v/37231069</guid>
-            <pubDate>Thu, 22 Jun 2023 02:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_54/HINZv_1687340309277gMqKY_JPEG/60fc5ad7-1016-11ee-9ab8-48df3772577a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봉제인간_GOOD (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/37231041</link>
-            <guid>https://tv.naver.com/v/37231041</guid>
-            <pubDate>Thu, 22 Jun 2023 02:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[4:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_212/g5AXm_16873402639046jdPB_JPEG/5b6143ff-1016-11ee-9652-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

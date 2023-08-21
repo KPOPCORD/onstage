@@ -4,7 +4,7 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 02:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 03:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 18 Aug 2023 11:08:12 GMT</pubDate>
             <content:encoded><![CDATA[5:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_152/5AbpA_1692354874526A1VAH_JPEG/a9276b82-3db2-11ee-ab5a-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허정혁_수풀]]></title>
-            <link>https://tv.naver.com/v/39146076</link>
-            <guid>https://tv.naver.com/v/39146076</guid>
-            <pubDate>Sun, 20 Aug 2023 08:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[5:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_269/yBREF_16922374605194lSpv_JPEG/be5a3204-3ca0-11ee-a9b6-80615f0bcd26_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허정혁_계절따라]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 28 Jun 2023 02:54:34 GMT</pubDate>
             <content:encoded><![CDATA[4:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_74/mWbR2_1687762817737nRxvI_JPEG/1687762715100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FORSTAGE] PLAY2_컬렉터vs컬렉터 (DJ소울스케이프vs하세가와요헤이)]]></title>
+            <link>https://tv.naver.com/v/37382060</link>
+            <guid>https://tv.naver.com/v/37382060</guid>
+            <pubDate>Mon, 21 Aug 2023 03:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[5:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_238/MPnSq_1687762681235utXcH_JPEG/1687762669950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

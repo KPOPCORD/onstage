@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 21:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 22:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://vibe.naver.com/onstage/13895</link>
             <guid>https://vibe.naver.com/onstage/13895</guid>
             <pubDate>Wed, 23 Aug 2023 21:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[들꽃 같은 노래를 부르는 싱어송라이터 허정혁을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[켜켜이 쌓아올린 입체적 사운드, 밀릭 (VIBE ─ 온스테이지)]]></title>

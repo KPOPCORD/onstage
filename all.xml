@@ -4,11 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 01:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 02:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/undefined</link>
+            <guid>https://vibe.naver.com/onstage/undefined</guid>
+            <pubDate>Thu, 24 Aug 2023 02:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[믿음직한 나이테와 깊은 뿌리의 노래, 허정혁 (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/13895</link>
             <guid>https://vibe.naver.com/onstage/13895</guid>
             <pubDate>Thu, 24 Aug 2023 01:40:14 GMT</pubDate>
@@ -92,11 +98,28 @@
             <content:encoded><![CDATA[PLAY#3 1990 vs 2020 PLAY#4 뮤지션 vs 제작사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[FORSTAGE] 바이닐(Vinyl) – PLAY 티키타카 인터뷰 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/13883</link>
-            <guid>https://vibe.naver.com/onstage/13883</guid>
-            <pubDate>Wed, 28 Jun 2023 02:54:15 GMT</pubDate>
-            <content:encoded><![CDATA[PLAY#1 레코드숍 vs 레코드숍, PLAY#2 컬렉터 vs 컬렉터]]></content:encoded>
+            <title><![CDATA[미란이_니가 싫어 (Feat. SUMIN) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/39378997</link>
+            <guid>https://tv.naver.com/v/39378997</guid>
+            <pubDate>Thu, 24 Aug 2023 02:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_120/hp9CP_1692785065986xXb56_JPEG/6a043139-419b-11ee-9125-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미란이_야 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/39378933</link>
+            <guid>https://tv.naver.com/v/39378933</guid>
+            <pubDate>Thu, 24 Aug 2023 02:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_121/Jpjn8_1692784936693M8h9i_JPEG/66547089-419b-11ee-9178-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미란이_Intro + BAD BOY (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/39378891</link>
+            <guid>https://tv.naver.com/v/39378891</guid>
+            <pubDate>Thu, 24 Aug 2023 02:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_83/y1hUW_1692784882333f2LUH_JPEG/619624fa-419b-11ee-97c6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허정혁_수풀 (ONSTAGE (온스테이지))]]></title>
@@ -313,30 +336,6 @@
             <pubDate>Thu, 29 Jun 2023 02:37:30 GMT</pubDate>
             <content:encoded><![CDATA[5:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230628_227/dRcvo_1687944179381wCYjg_JPEG/c3e32407-1594-11ee-a9a5-a0369ffac2a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FORSTAGE] PLAY4_뮤지션vs제작사 (바밍타이거'소금'vs마장뮤직앤픽처스) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/37382298</link>
-            <guid>https://tv.naver.com/v/37382298</guid>
-            <pubDate>Wed, 28 Jun 2023 02:54:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_208/K82ne_1687762928246FskgL_JPEG/1687762865489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FORSTAGE] PLAY3_1990vs2020 (빛과소금vs아도이'오주환') (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/37382212</link>
-            <guid>https://tv.naver.com/v/37382212</guid>
-            <pubDate>Wed, 28 Jun 2023 02:54:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_74/mWbR2_1687762817737nRxvI_JPEG/1687762715100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FORSTAGE] PLAY2_컬렉터vs컬렉터 (DJ소울스케이프vs하세가와요헤이) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/37382060</link>
-            <guid>https://tv.naver.com/v/37382060</guid>
-            <pubDate>Mon, 21 Aug 2023 03:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[5:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_238/MPnSq_1687762681235utXcH_JPEG/1687762669950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

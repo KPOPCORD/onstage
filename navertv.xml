@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 00:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 01:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백아_우주선]]></title>
+            <link>https://tv.naver.com/v/39653801</link>
+            <guid>https://tv.naver.com/v/39653801</guid>
+            <pubDate>Thu, 31 Aug 2023 01:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_122/PTOXP_1693395072381AcPwC_JPEG/2f203da8-4728-11ee-8224-a0369ffac2a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백아_첫사랑]]></title>
+            <link>https://tv.naver.com/v/39653796</link>
+            <guid>https://tv.naver.com/v/39653796</guid>
+            <pubDate>Thu, 31 Aug 2023 01:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_120/eotbi_1693395068838muXUY_JPEG/6299e2c1-4728-11ee-bd68-a0369ffdada0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백아_미완성]]></title>
+            <link>https://tv.naver.com/v/39653792</link>
+            <guid>https://tv.naver.com/v/39653792</guid>
+            <pubDate>Thu, 31 Aug 2023 01:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_72/wMrvL_1693395064318I4cAw_JPEG/88434d51-4728-11ee-8ba9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미란이_니가 싫어 (Feat. SUMIN)]]></title>
             <link>https://tv.naver.com/v/39378997</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 04 Jul 2023 02:56:50 GMT</pubDate>
             <content:encoded><![CDATA[5:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_190/k7Wx6_1688365771736NiyIs_JPEG/8baa2d17-1969-11ee-9652-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AGNES_Mammon]]></title>
-            <link>https://tv.naver.com/v/37467818</link>
-            <guid>https://tv.naver.com/v/37467818</guid>
-            <pubDate>Thu, 29 Jun 2023 02:37:30 GMT</pubDate>
-            <content:encoded><![CDATA[5:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230628_13/6UFms_1687944222800GHxdj_JPEG/f6e1085d-1594-11ee-8c05-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AGNES_Capital Empire]]></title>
-            <link>https://tv.naver.com/v/37467812</link>
-            <guid>https://tv.naver.com/v/37467812</guid>
-            <pubDate>Thu, 29 Jun 2023 02:37:30 GMT</pubDate>
-            <content:encoded><![CDATA[5:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230628_283/cVuW2_1687944198768L0Gzf_JPEG/dc97c126-1594-11ee-837b-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AGNES_Areumda War (아름다워)]]></title>
-            <link>https://tv.naver.com/v/37467800</link>
-            <guid>https://tv.naver.com/v/37467800</guid>
-            <pubDate>Thu, 29 Jun 2023 02:37:30 GMT</pubDate>
-            <content:encoded><![CDATA[5:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230628_227/dRcvo_1687944179381wCYjg_JPEG/c3e32407-1594-11ee-a9a5-a0369ffac2a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

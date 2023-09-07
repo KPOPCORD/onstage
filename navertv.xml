@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 00:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 01:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바람]]></title>
+            <link>https://tv.naver.com/v/39923558</link>
+            <guid>https://tv.naver.com/v/39923558</guid>
+            <pubDate>Thu, 07 Sep 2023 01:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[6:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230906_184/Y6Hff_1693981600413SqOwP_JPEG/1693981597727.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Black stone train + Keepitonthedownlow]]></title>
+            <link>https://tv.naver.com/v/39923488</link>
+            <guid>https://tv.naver.com/v/39923488</guid>
+            <pubDate>Thu, 07 Sep 2023 01:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[7:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230906_280/3rPnC_1693981587423uOLQ3_JPEG/1693981582876.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Whistle Song]]></title>
+            <link>https://tv.naver.com/v/39923423</link>
+            <guid>https://tv.naver.com/v/39923423</guid>
+            <pubDate>Thu, 07 Sep 2023 01:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230906_167/TSnSZ_1693981565991zQ9BI_JPEG/1693981554501.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백아_우주선]]></title>
             <link>https://tv.naver.com/v/39653801</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 06 Jul 2023 02:57:55 GMT</pubDate>
             <content:encoded><![CDATA[6:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_268/uGaBh_1688537867826oDNUM_JPEG/6f2efb6e-1afa-11ee-bda5-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crispy cream no sugar]]></title>
-            <link>https://tv.naver.com/v/37700805</link>
-            <guid>https://tv.naver.com/v/37700805</guid>
-            <pubDate>Thu, 06 Jul 2023 02:57:55 GMT</pubDate>
-            <content:encoded><![CDATA[5:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_241/5shwF_1688537855288Up3iN_JPEG/52868d95-1afa-11ee-847c-a0369ffabd9c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Call me if you can dance]]></title>
-            <link>https://tv.naver.com/v/37700787</link>
-            <guid>https://tv.naver.com/v/37700787</guid>
-            <pubDate>Thu, 06 Jul 2023 02:57:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_56/Rds3z_1688537844043VE54i_JPEG/39048e06-1afa-11ee-a6ee-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FORSTAGE]PAUSE_#TIMETOPLAY_ 바이닐지식정보]]></title>
-            <link>https://tv.naver.com/v/37617470</link>
-            <guid>https://tv.naver.com/v/37617470</guid>
-            <pubDate>Tue, 04 Jul 2023 02:56:50 GMT</pubDate>
-            <content:encoded><![CDATA[5:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_190/k7Wx6_1688365771736NiyIs_JPEG/8baa2d17-1969-11ee-9652-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

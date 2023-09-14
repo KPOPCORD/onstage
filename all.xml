@@ -4,14 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 06:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 07:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/undefined</link>
-            <guid>https://vibe.naver.com/onstage/undefined</guid>
-            <pubDate>Thu, 14 Sep 2023 05:09:10 GMT</pubDate>
+            <title><![CDATA[불완전한 완전함, 태버 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13899</link>
+            <guid>https://vibe.naver.com/onstage/13899</guid>
+            <pubDate>Thu, 14 Sep 2023 07:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[유연하게 긴장을 연출하는 싱어송라이터, 태버를 소개합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무지막지한 연주로 허장성세를 밟다, 미역수염 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/13898</link>
+            <guid>https://vibe.naver.com/onstage/13898</guid>
+            <pubDate>Thu, 14 Sep 2023 07:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[전형성을 벗어난 보편성, 미역수염을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[숨길 수 없이 빛나는 마음으로, 백아 (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +97,6 @@
             <guid>https://vibe.naver.com/onstage/13887</guid>
             <pubDate>Tue, 11 Jul 2023 02:20:02 GMT</pubDate>
             <content:encoded><![CDATA[순도 가득한 응집력으로 무대를 흔드는 밴드, 우먼 휴먼을 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[FORSTAGE] 바이닐(Vinyl) - PAUSE #TIME TO PLAY : 바이닐지식정보1 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/13886</link>
-            <guid>https://vibe.naver.com/onstage/13886</guid>
-            <pubDate>Wed, 05 Jul 2023 20:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[[FORSTAGE] 바이닐(Vinyl) - PAUSE #TIME TO PLAY : 바이닐지식정보1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Last Long (ONSTAGE (온스테이지))]]></title>

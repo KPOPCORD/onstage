@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 23:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 00:42:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/undefined</link>
-            <guid>https://vibe.naver.com/onstage/undefined</guid>
-            <pubDate>Sun, 17 Sep 2023 16:10:56 GMT</pubDate>
+            <link>https://vibe.naver.com/onstage/13899</link>
+            <guid>https://vibe.naver.com/onstage/13899</guid>
+            <pubDate>Mon, 18 Sep 2023 00:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[유연하게 긴장을 연출하는 싱어송라이터, 태버를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무지막지한 연주로 허장성세를 밟다, 미역수염 (VIBE ─ 온스테이지)]]></title>

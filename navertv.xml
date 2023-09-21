@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 00:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 01:43:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Solo Improvisation]]></title>
+            <link>https://tv.naver.com/v/40493036</link>
+            <guid>https://tv.naver.com/v/40493036</guid>
+            <pubDate>Thu, 21 Sep 2023 01:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_205/4T9cq_1695178407863kIDYj_JPEG/1695178341090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Frustration]]></title>
+            <link>https://tv.naver.com/v/40492955</link>
+            <guid>https://tv.naver.com/v/40492955</guid>
+            <pubDate>Thu, 21 Sep 2023 01:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_106/VEt3q_1695178318102jPJAB_JPEG/1695178269862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Beboppers]]></title>
+            <link>https://tv.naver.com/v/40492848</link>
+            <guid>https://tv.naver.com/v/40492848</guid>
+            <pubDate>Thu, 21 Sep 2023 01:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[6:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_272/RCk5I_1695178203743Ot6Wa_JPEG/1695178025652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Last Long]]></title>
             <link>https://tv.naver.com/v/40223833</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 20 Jul 2023 02:04:09 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230719_1/Rq0Ii_1689743983137jmmi0_JPEG/5c4e9b83-25f3-11ee-8ba9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FORSTAGE]STOP_#VINYLREVIVAL_ 바이닐지식정보]]></title>
-            <link>https://tv.naver.com/v/38140991</link>
-            <guid>https://tv.naver.com/v/38140991</guid>
-            <pubDate>Tue, 18 Jul 2023 02:56:57 GMT</pubDate>
-            <content:encoded><![CDATA[6:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_67/TRQEg_16896023245846sKio_JPEG/1689602317684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liveaboard]]></title>
-            <link>https://tv.naver.com/v/37953031</link>
-            <guid>https://tv.naver.com/v/37953031</guid>
-            <pubDate>Thu, 13 Jul 2023 02:57:02 GMT</pubDate>
-            <content:encoded><![CDATA[5:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_122/VwGug_16891412538610Teiu_JPEG/3824e35b-2078-11ee-b5e6-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Horizon noir]]></title>
-            <link>https://tv.naver.com/v/37952980</link>
-            <guid>https://tv.naver.com/v/37952980</guid>
-            <pubDate>Thu, 13 Jul 2023 02:57:02 GMT</pubDate>
-            <content:encoded><![CDATA[6:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_239/WPdav_1689141172991cHEKo_JPEG/6ed42d0d-2077-11ee-89f1-a0369fff343c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 00:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 01:44:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Love Supreme]]></title>
+            <link>https://tv.naver.com/v/40726564</link>
+            <guid>https://tv.naver.com/v/40726564</guid>
+            <pubDate>Wed, 27 Sep 2023 01:44:50 GMT</pubDate>
+            <content:encoded><![CDATA[5:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_83/A80VV_16957141456277FT3v_JPEG/1695714143017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RIDE]]></title>
+            <link>https://tv.naver.com/v/40726485</link>
+            <guid>https://tv.naver.com/v/40726485</guid>
+            <pubDate>Wed, 27 Sep 2023 01:44:50 GMT</pubDate>
+            <content:encoded><![CDATA[4:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_180/niIAP_16957141314881SFkF_JPEG/1695714122848.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오래오래]]></title>
+            <link>https://tv.naver.com/v/40726420</link>
+            <guid>https://tv.naver.com/v/40726420</guid>
+            <pubDate>Wed, 27 Sep 2023 01:44:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_147/RZt8O_1695714093673jCkjU_JPEG/1695714086328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Solo Improvisation]]></title>
             <link>https://tv.naver.com/v/40493036</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 27 Jul 2023 08:14:07 GMT</pubDate>
             <content:encoded><![CDATA[5:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_84/bzP1D_1690359288880HPoOq_JPEG/b6e0d394-2b8b-11ee-beb0-a0369ffde2b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lo Que No Te Dije Antes]]></title>
-            <link>https://tv.naver.com/v/38199492</link>
-            <guid>https://tv.naver.com/v/38199492</guid>
-            <pubDate>Thu, 20 Jul 2023 02:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_141/ZX3qu_1689744282850NGXXN_JPEG/6f59f132-25f3-11ee-8507-a0369ffd9e4c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ninina]]></title>
-            <link>https://tv.naver.com/v/38199433</link>
-            <guid>https://tv.naver.com/v/38199433</guid>
-            <pubDate>Thu, 20 Jul 2023 02:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_95/ro0LN_1689744205743WIJoV_JPEG/6740e231-25f3-11ee-beb0-a0369ffde2b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mañanitas De Buenos Aires]]></title>
-            <link>https://tv.naver.com/v/38199280</link>
-            <guid>https://tv.naver.com/v/38199280</guid>
-            <pubDate>Thu, 20 Jul 2023 02:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_1/Rq0Ii_1689743983137jmmi0_JPEG/5c4e9b83-25f3-11ee-8ba9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

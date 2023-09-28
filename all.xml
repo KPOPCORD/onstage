@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 20:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 21:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://vibe.naver.com/onstage/13901</link>
             <guid>https://vibe.naver.com/onstage/13901</guid>
             <pubDate>Thu, 28 Sep 2023 17:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[지금을 즐기며 뚝심 있게 나아가는 싱어송라이터, 쏠을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국 재즈의 New Generation 기수, 이수정 (VIBE ─ 온스테이지)]]></title>

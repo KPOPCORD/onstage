@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 03:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 04:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,30 @@
             <guid>https://vibe.naver.com/onstage/13890</guid>
             <pubDate>Thu, 20 Jul 2023 04:12:22 GMT</pubDate>
             <content:encoded><![CDATA[[FORSTAGE] 바이닐(Vinyl) - STOP #바이닐 리바이벌 : 바이닐 지식 정보]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[침대에서 막걸리 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/41270681</link>
+            <guid>https://tv.naver.com/v/41270681</guid>
+            <pubDate>Thu, 12 Oct 2023 04:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[4:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_56/nZI2h_1697076731384f6Wc1_JPEG/1697076724398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coca Cola Red (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/41270632</link>
+            <guid>https://tv.naver.com/v/41270632</guid>
+            <pubDate>Thu, 12 Oct 2023 04:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_137/tanrp_1697076660137hw2RG_JPEG/1697076634378.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Monet (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/41270547</link>
+            <guid>https://tv.naver.com/v/41270547</guid>
+            <pubDate>Thu, 12 Oct 2023 04:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_40/Z9hj8_1697076554347aWcA0_JPEG/1697076477666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cargo Cult (ONSTAGE (온스테이지))]]></title>
@@ -312,30 +336,6 @@
             <pubDate>Thu, 10 Aug 2023 03:10:38 GMT</pubDate>
             <content:encoded><![CDATA[4:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_261/9uCmZ_1691547918281vaOMB_JPEG/ba19f072-365b-11ee-9ba4-a0369ffb3258_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carina Nebula_susie Q (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/38624534</link>
-            <guid>https://tv.naver.com/v/38624534</guid>
-            <pubDate>Thu, 03 Aug 2023 00:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_267/ElLv8_1690895059575Xdk5q_JPEG/d217738d-306b-11ee-8f91-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carina Nebula_Good Match (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/38624494</link>
-            <guid>https://tv.naver.com/v/38624494</guid>
-            <pubDate>Thu, 03 Aug 2023 00:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_23/NPJNm_1690895257625CIDHV_JPEG/af88b543-306b-11ee-bae1-505dac8c38f5_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carina Nebula_Everybody's boppin' (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/38624429</link>
-            <guid>https://tv.naver.com/v/38624429</guid>
-            <pubDate>Thu, 03 Aug 2023 00:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[5:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_130/7wieV_1690895294913vQQOG_JPEG/2caf8c09-306b-11ee-9deb-a0369ffdb398_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

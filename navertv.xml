@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 02:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 03:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dented OS]]></title>
+            <link>https://tv.naver.com/v/41905445</link>
+            <guid>https://tv.naver.com/v/41905445</guid>
+            <pubDate>Thu, 26 Oct 2023 03:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_160/ZKDjr_1698286648951z3WlR_JPEG/1698286590913.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNNEL BABY]]></title>
+            <link>https://tv.naver.com/v/41905372</link>
+            <guid>https://tv.naver.com/v/41905372</guid>
+            <pubDate>Thu, 26 Oct 2023 03:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_171/SYjHr_1698286577200NS43v_JPEG/1698286462106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2004]]></title>
+            <link>https://tv.naver.com/v/41905217</link>
+            <guid>https://tv.naver.com/v/41905217</guid>
+            <pubDate>Thu, 26 Oct 2023 03:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_146/pevuk_1698286673856kr0uC_JPEG/1698286668035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[So Alive]]></title>
             <link>https://tv.naver.com/v/41547388</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 24 Aug 2023 02:15:11 GMT</pubDate>
             <content:encoded><![CDATA[2:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_83/y1hUW_1692784882333f2LUH_JPEG/619624fa-419b-11ee-97c6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허정혁_수풀]]></title>
-            <link>https://tv.naver.com/v/39211749</link>
-            <guid>https://tv.naver.com/v/39211749</guid>
-            <pubDate>Fri, 18 Aug 2023 11:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[5:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_152/5AbpA_1692354874526A1VAH_JPEG/a9276b82-3db2-11ee-ab5a-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허정혁_계절따라]]></title>
-            <link>https://tv.naver.com/v/39146051</link>
-            <guid>https://tv.naver.com/v/39146051</guid>
-            <pubDate>Thu, 17 Aug 2023 02:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_271/ZXv9q_1692237418708UOSxP_JPEG/b843d15b-3ca0-11ee-9c90-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허정혁_창가에 앉아]]></title>
-            <link>https://tv.naver.com/v/39146016</link>
-            <guid>https://tv.naver.com/v/39146016</guid>
-            <pubDate>Thu, 17 Aug 2023 02:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[4:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_133/aDFRn_1692237372509QVj4x_JPEG/b39675aa-3ca0-11ee-ba0a-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

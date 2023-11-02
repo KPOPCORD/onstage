@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 03:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 04:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하얗게 부서지는]]></title>
+            <link>https://tv.naver.com/v/42185392</link>
+            <guid>https://tv.naver.com/v/42185392</guid>
+            <pubDate>Thu, 02 Nov 2023 04:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_207/Q371a_1698826655887Fi1nf_JPEG/1698826606346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피어나는 물결]]></title>
+            <link>https://tv.naver.com/v/42185296</link>
+            <guid>https://tv.naver.com/v/42185296</guid>
+            <pubDate>Thu, 02 Nov 2023 04:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_4/jBCaV_16988265599895Sugc_JPEG/1698826489191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외롭고 시끄럽고 그리워]]></title>
+            <link>https://tv.naver.com/v/42185167</link>
+            <guid>https://tv.naver.com/v/42185167</guid>
+            <pubDate>Thu, 02 Nov 2023 04:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[5:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_20/SBrF6_1698826429645tepeH_JPEG/1698826201063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dented OS]]></title>
             <link>https://tv.naver.com/v/41905445</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 31 Aug 2023 01:43:32 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_72/wMrvL_1693395064318I4cAw_JPEG/88434d51-4728-11ee-8ba9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미란이_니가 싫어 (Feat. SUMIN)]]></title>
-            <link>https://tv.naver.com/v/39378997</link>
-            <guid>https://tv.naver.com/v/39378997</guid>
-            <pubDate>Thu, 24 Aug 2023 02:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_120/hp9CP_1692785065986xXb56_JPEG/6a043139-419b-11ee-9125-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미란이_야]]></title>
-            <link>https://tv.naver.com/v/39378933</link>
-            <guid>https://tv.naver.com/v/39378933</guid>
-            <pubDate>Thu, 24 Aug 2023 02:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_121/Jpjn8_1692784936693M8h9i_JPEG/66547089-419b-11ee-9178-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미란이_Intro + BAD BOY]]></title>
-            <link>https://tv.naver.com/v/39378891</link>
-            <guid>https://tv.naver.com/v/39378891</guid>
-            <pubDate>Thu, 24 Aug 2023 02:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_83/y1hUW_1692784882333f2LUH_JPEG/619624fa-419b-11ee-97c6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 04:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 05:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행운을 빌어요]]></title>
+            <link>https://tv.naver.com/v/42918048</link>
+            <guid>https://tv.naver.com/v/42918048</guid>
+            <pubDate>Thu, 16 Nov 2023 05:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[5:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_168/tVYby_1700098943504IFR3D_JPEG/1700098911119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21세기의 어떤 날]]></title>
+            <link>https://tv.naver.com/v/42917970</link>
+            <guid>https://tv.naver.com/v/42917970</guid>
+            <pubDate>Thu, 16 Nov 2023 05:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[4:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_15/13eO8_1700098849220rNXmR_JPEG/1700098840172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Hippie Generation]]></title>
+            <link>https://tv.naver.com/v/42917894</link>
+            <guid>https://tv.naver.com/v/42917894</guid>
+            <pubDate>Thu, 16 Nov 2023 05:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_259/tScHy_1700098729397QuXEu_JPEG/1700098714081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포기가 익숙한 사람]]></title>
             <link>https://tv.naver.com/v/42528314</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 14 Sep 2023 02:16:11 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230913_154/7VNTY_1694602018208FNPqT_JPEG/1694601933800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바람]]></title>
-            <link>https://tv.naver.com/v/39923558</link>
-            <guid>https://tv.naver.com/v/39923558</guid>
-            <pubDate>Thu, 07 Sep 2023 01:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[6:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230906_184/Y6Hff_1693981600413SqOwP_JPEG/1693981597727.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black stone train + Keepitonthedownlow]]></title>
-            <link>https://tv.naver.com/v/39923488</link>
-            <guid>https://tv.naver.com/v/39923488</guid>
-            <pubDate>Thu, 07 Sep 2023 01:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[7:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230906_280/3rPnC_1693981587423uOLQ3_JPEG/1693981582876.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Whistle Song]]></title>
-            <link>https://tv.naver.com/v/39923423</link>
-            <guid>https://tv.naver.com/v/39923423</guid>
-            <pubDate>Thu, 07 Sep 2023 01:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230906_167/TSnSZ_1693981565991zQ9BI_JPEG/1693981554501.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

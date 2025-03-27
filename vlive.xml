@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/E61323/board/4268?lang=ko</id>
+    <id>https://tv.naver.com/onstage/clips</id>
     <title>ONSTAGE (온스테이지)</title>
-    <updated>2025-03-27T04:16:50.392Z</updated>
+    <updated>2025-03-27T05:14:41.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/channel/E61323/board/favicon.ico?2023013112</icon>
+    <icon>https://tv.naver.com/favicon.ico</icon>
 </feed>
